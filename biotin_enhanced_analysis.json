@@ -1,0 +1,141 @@
+{
+  "ingredient": "biotin",
+  "data_summary": {
+    "total_posts": 139,
+    "total_comments": 2000,
+    "avg_engagement": 14.39,
+    "time_span": "2023-2024",
+    "high_value_discussions": 5
+  },
+  "usage_patterns": {
+    "dosage_recommendations": [
+      "Analysis requires manual review"
+    ],
+    "timing_preferences": [
+      "Analysis requires manual review"
+    ],
+    "duration_cycles": [
+      "Analysis requires manual review"
+    ]
+  },
+  "effectiveness_analysis": {
+    "reported_benefits": [
+      "Extracted from manual review needed"
+    ],
+    "reported_side_effects": [
+      "Extracted from manual review needed"
+    ],
+    "individual_variations": [
+      "High variation in user experiences observed"
+    ]
+  },
+  "brand_intelligence": {
+    "top_brands": [
+      "The Ordinary",
+      "Paula's Choice",
+      "CeraVe",
+      "Neutrogena"
+    ],
+    "extract_preferences": [
+      "BHA preferred over traditional forms"
+    ]
+  },
+  "safety_insights": {
+    "contraindications": [
+      "Sensitive skin",
+      "Sun exposure without SPF"
+    ],
+    "cycling_importance": {
+      "recommended": true,
+      "reason": "prevent over-exfoliation",
+      "protocol": "start slow, build tolerance"
+    },
+    "warning_signals": [
+      "Excessive dryness",
+      "Irritation",
+      "Increased sensitivity"
+    ]
+  },
+  "user_journey_insights": {
+    "beginner_advice": [
+      "Start with low concentration",
+      "Use SPF",
+      "Introduce slowly"
+    ],
+    "common_mistakes": [
+      "Using too much too soon",
+      "Not using moisturizer",
+      "Skipping SPF"
+    ],
+    "success_patterns": [
+      "Gradual introduction",
+      "Consistent use",
+      "Proper skincare routine"
+    ]
+  },
+  "discussion_trends": {
+    "emerging_topics": [
+      "Different BHA types",
+      "Product comparisons",
+      "Routine integration"
+    ],
+    "controversial_aspects": [
+      "Daily vs intermittent use",
+      "Concentration preferences"
+    ]
+  },
+  "sentiment_analysis": {
+    "overall_sentiment": {
+      "positive": 453,
+      "neutral": 1499,
+      "negative": 48
+    },
+    "sentiment_by_experience_level": {
+      "beginners": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "experienced_users": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "long_term_users": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      }
+    },
+    "sentiment_drivers": {
+      "positive_factors": [
+        "acne improvement",
+        "smoother skin",
+        "unclogged pores"
+      ],
+      "negative_factors": [
+        "dryness",
+        "irritation",
+        "purging period"
+      ]
+    }
+  },
+  "actionable_insights": {
+    "for_beginners": [
+      "Start with 1-2 times per week",
+      "Always use SPF during the day",
+      "Follow with a good moisturizer"
+    ],
+    "for_researchers": [
+      "Study concentration effectiveness",
+      "Research skin type variations",
+      "Investigate long-term usage patterns"
+    ],
+    "red_flags": [
+      "Persistent irritation after weeks",
+      "Severe dryness or peeling",
+      "No improvement after 3 months"
+    ]
+  },
+  "_note": "This is a fallback analysis. Full AI analysis failed - check logs for details."
+}

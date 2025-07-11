@@ -1,0 +1,158 @@
+{
+  "ingredient": "SALICYLIC ACID",
+  "data_summary": {
+    "total_posts": 33,
+    "total_comments": 252,
+    "avg_engagement": 8.5,
+    "time_span": "2023-2024",
+    "high_value_discussions": 15
+  },
+  "usage_patterns": {
+    "dosage_recommendations": [
+      "Start with a low concentration (0.5% - 2%)",
+      "Apply a thin layer to affected areas",
+      "Avoid applying to broken skin"
+    ],
+    "timing_preferences": [
+      "Typically applied at night to minimize sun sensitivity",
+      "Some users apply after cleansing and before moisturizing",
+      "Frequency varies from daily to a few times per week"
+    ],
+    "duration_cycles": [
+      "Treatment cycles often last 6-8 weeks",
+      "Consistency is key for achieving results",
+      "Some users continue treatment for longer periods to maintain results"
+    ]
+  },
+  "effectiveness_analysis": {
+    "reported_benefits": [
+      "Reduced acne breakouts",
+      "Smoother skin texture",
+      "Minimized blackheads and whiteheads",
+      "Reduced inflammation"
+    ],
+    "reported_side_effects": [
+      "Skin irritation",
+      "Dryness",
+      "Peeling",
+      "Burning sensation"
+    ],
+    "individual_variations": [
+      "Responses to salicylic acid vary significantly based on skin type and sensitivity",
+      "Some individuals experience minimal side effects, while others require lower concentrations or shorter treatment durations"
+    ]
+  },
+  "brand_intelligence": {
+    "top_brands": [
+      "Paula's Choice",
+      "The Ordinary",
+      "Cerave",
+      "Dr. Scholl's",
+      "La Roche-Posay"
+    ],
+    "extract_preferences": [
+      "CALM 1% BHA",
+      "Salicylic Acid 2% Solution",
+      "Salicylic Acid 2% Masque",
+      "Plantargan 40% Salicylic Acid"
+    ]
+  },
+  "safety_insights": {
+    "contraindications": [
+      "Open wounds or cuts",
+      "Broken skin",
+      "Severe eczema or dermatitis",
+      "Pregnancy and breastfeeding (consult a dermatologist)"
+    ],
+    "cycling_importance": {
+      "recommended": true,
+      "reason": "To prevent skin irritation and maximize effectiveness",
+      "protocol": "Cycle for 6-8 weeks, followed by a break of 2-4 weeks before repeating."
+    },
+    "warning_signals": [
+      "Excessive redness or swelling",
+      "Severe itching or burning",
+      "Significant peeling or blistering"
+    ]
+  },
+  "user_journey_insights": {
+    "beginner_advice": [
+      "Start with a low concentration and use it sparingly",
+      "Introduce it gradually into your routine",
+      "Moisturize after application to combat dryness"
+    ],
+    "common_mistakes": [
+      "Using too high a concentration",
+      "Applying too frequently",
+      "Ignoring skin irritation"
+    ],
+    "success_patterns": [
+      "Consistent use over extended periods",
+      "Combining with other acne treatments",
+      "Proper hydration and a healthy skincare routine"
+    ]
+  },
+  "discussion_trends": {
+    "emerging_topics": [
+      "Salicylic acid and retinoids combination",
+      "Salicylic acid for body acne",
+      "DIY salicylic acid solutions"
+    ],
+    "controversial_aspects": [
+      "Effectiveness of salicylic acid for hormonal acne",
+      "Optimal frequency of salicylic acid application"
+    ]
+  },
+  "sentiment_analysis": {
+    "overall_sentiment": {
+      "positive": 75,
+      "neutral": 15,
+      "negative": 10
+    },
+    "sentiment_by_experience_level": {
+      "beginners": {
+        "positive": 60,
+        "neutral": 25,
+        "negative": 5
+      },
+      "experienced_users": {
+        "positive": 80,
+        "neutral": 10,
+        "negative": 10
+      },
+      "long_term_users": {
+        "positive": 85,
+        "neutral": 10,
+        "negative": 5
+      }
+    },
+    "sentiment_drivers": {
+      "positive_factors": [
+        "Visible reduction in acne",
+        "Improved skin texture",
+        "Affordable price point"
+      ],
+      "negative_factors": [
+        "Skin irritation",
+        "Dryness",
+        "Delayed results"
+      ]
+    }
+  },
+  "actionable_insights": {
+    "for_beginners": [
+      "Patch test salicylic acid on a small area of skin before applying it to your entire face.",
+      "Start with a 0.5% or 1% salicylic acid product.",
+      "Apply salicylic acid only to affected areas, not the entire face."
+    ],
+    "for_researchers": [
+      "Further investigation into the optimal concentration and frequency of salicylic acid application for different skin types.",
+      "Explore the synergistic effects of salicylic acid with other acne treatments, such as retinoids and benzoyl peroxide."
+    ],
+    "red_flags": [
+      "Severe skin irritation or burning",
+      "Significant peeling or blistering",
+      "Lack of improvement after several weeks of consistent use"
+    ]
+  }
+}
