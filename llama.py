@@ -26,8 +26,8 @@ except Exception as e:
     sys.exit(1)
 
 # Step 2: Your configuration
-OR_IDENTIFIERS = ["biotin"]  # Any of these terms will match (OR logic)
-AND_IDENTIFIERS = ["hair"]  # All of these terms must be present (AND logic)
+OR_IDENTIFIERS = ["acetyl tetrapeptide"]  # Any of these terms will match (OR logic)
+AND_IDENTIFIERS = []  # All of these terms must be present (AND logic)
 MONTHS_BACK = 1  # How many months back to search for limited mode
 MAX_COMMENTS = 30 # Number of top comments to collect per post
 UNLIMITED_MODE = True  # Set to True to remove timeline filter and get unlimited posts

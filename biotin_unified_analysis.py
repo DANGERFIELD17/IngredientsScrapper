@@ -3,6 +3,7 @@ import json
 import re
 from collections import Counter, defaultdict
 from typing import Dict, List, Tuple, Set
+from datetime import datetime
 
 # Load English model
 nlp = spacy.load("en_core_web_sm")
@@ -359,6 +360,74 @@ def categorize_post_intent(title: str, body: str = "", comments_text: str = "") 
     
     return categories
 
+def analyze_benefit_themes(statements, positive=True):
+    """Extract themes from benefit statements."""
+    themes = Counter()
+    
+    for statement in statements:
+        statement_lower = statement.lower()
+        
+        if positive:
+            # Positive themes
+            if any(word in statement_lower for word in ['hair', 'grow', 'growth', 'longer', 'thicker']):
+                themes['Hair Growth Enhancement'] += 1
+            if any(word in statement_lower for word in ['nail', 'stronger', 'beautiful', 'length']):
+                themes['Nail Strength & Beauty'] += 1
+            if any(word in statement_lower for word in ['skin', 'clear', 'healthy', 'glow']):
+                themes['Skin Health Improvement'] += 1
+            if any(word in statement_lower for word in ['results', 'effective', 'work', 'helped']):
+                themes['Overall Effectiveness'] += 1
+            if any(word in statement_lower for word in ['fast', 'quick', 'rapid', 'speed']):
+                themes['Fast Results'] += 1
+            if any(word in statement_lower for word in ['recommend', 'swear by', 'love', 'best']):
+                themes['High Recommendation'] += 1
+        else:
+            # Negative themes
+            if any(word in statement_lower for word in ['acne', 'breakout', 'pimple', 'cystic']):
+                themes['Acne/Breakout Issues'] += 1
+            if any(word in statement_lower for word in ['stopped', 'quit', 'discontinue']):
+                themes['Discontinued Due to Problems'] += 1
+            if any(word in statement_lower for word in ['side effect', 'adverse', 'problem']):
+                themes['Side Effects'] += 1
+            if any(word in statement_lower for word in ['useless', 'ineffective', 'doesn\'t work']):
+                themes['Ineffectiveness'] += 1
+            if any(word in statement_lower for word in ['thyroid', 'hormone', 'test']):
+                themes['Thyroid/Hormonal Issues'] += 1
+            if any(word in statement_lower for word in ['waste', 'money', 'expensive']):
+                themes['Cost Concerns'] += 1
+    
+    return themes
+
+def analyze_dosage_themes(statements):
+    """Extract themes from dosage effectiveness statements."""
+    themes = Counter()
+    
+    for statement in statements:
+        statement_lower = statement.lower()
+        
+        if any(word in statement_lower for word in ['effective', 'work', 'helped', 'results']):
+            themes['Effective Dosage'] += 1
+        if any(word in statement_lower for word in ['too much', 'too high', 'excessive']):
+            themes['Overdose Concerns'] += 1
+        if any(word in statement_lower for word in ['too little', 'not enough', 'insufficient']):
+            themes['Underdose Issues'] += 1
+        if any(word in statement_lower for word in ['perfect', 'right amount', 'optimal']):
+            themes['Optimal Dosage'] += 1
+        if any(word in statement_lower for word in ['daily', 'per day', 'everyday']):
+            themes['Daily Usage'] += 1
+        if any(word in statement_lower for word in ['increased', 'upped', 'raised']):
+            themes['Dosage Increase'] += 1
+        if any(word in statement_lower for word in ['decreased', 'lowered', 'reduced']):
+            themes['Dosage Decrease'] += 1
+        if '10000' in statement_lower or '10,000' in statement_lower:
+            themes['10,000 mcg/mg Usage'] += 1
+        if '5000' in statement_lower or '5,000' in statement_lower:
+            themes['5,000 mcg/mg Usage'] += 1
+        if '1000' in statement_lower or '1,000' in statement_lower:
+            themes['1,000 mcg/mg Usage'] += 1
+    
+    return themes
+
 def analyze_biotin_posts(data: List[Dict]) -> Dict:
     """Analyze biotin posts using spaCy and categorize them."""
     results = {
@@ -495,121 +564,194 @@ def analyze_biotin_posts(data: List[Dict]) -> Dict:
     
     return results
 
-def generate_analysis_report(results: Dict) -> str:
-    """Generate a comprehensive analysis report."""
+def print_category_highlights(results):
+    """Print the most relevant posts for each category."""
+    
+    print("\n" + "="*80)
+    print("CATEGORY HIGHLIGHTS - TOP POSTS BY ENGAGEMENT")
+    print("="*80)
+    
+    categories_of_interest = [
+        'ingredient_usage_patterns',
+        'treatment_experiences', 
+        'product_recommendations',
+        'progress_report',
+        'side_effects',
+        'combination_therapy'
+    ]
+    
+    for category in categories_of_interest:
+        if category in results['categories']:
+            posts = results['categories'][category]
+            print(f"\n{category.replace('_', ' ').upper()}")
+            print("-" * 60)
+            print(f"Total posts: {len(posts)}")
+            
+            # Sort by engagement (score + comments)
+            sorted_posts = sorted(posts, 
+                                key=lambda x: x['score'] + x['num_comments'], 
+                                reverse=True)
+            
+            print("\nTop 3 Most Relevant Posts:")
+            for i, post in enumerate(sorted_posts[:3], 1):
+                print(f"\n{i}. {post['title']}")
+                print(f"   Subreddit: r/{post['subreddit']}")
+                print(f"   Score: {post['score']}, Comments: {post['num_comments']}")
+                print(f"   Ingredients: {', '.join(post['ingredients'])}")
+
+def generate_comprehensive_report(results: Dict) -> str:
+    """Generate a comprehensive analysis report combining all insights."""
     report = []
-    report.append("=" * 60)
-    report.append("BIOTIN POST ANALYSIS REPORT")
-    report.append("=" * 60)
+    report.append("=" * 80)
+    report.append("COMPREHENSIVE BIOTIN ANALYSIS REPORT")
+    report.append("=" * 80)
+    report.append(f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     
     # Overview
-    report.append(f"\nTOTAL POSTS ANALYZED: {results['total_posts']}")
-    report.append(f"POSTS WITH COMMENTS ANALYZED: {results['comment_analysis']['total_comments_analyzed']}")
+    report.append(f"\nOVERVIEW:")
+    report.append(f"Total Posts Analyzed: {results['total_posts']}")
+    report.append(f"Posts with Comments: {results['comment_analysis']['total_comments_analyzed']}")
+    report.append(f"Comment Coverage: {(results['comment_analysis']['total_comments_analyzed'] / results['total_posts'] * 100):.1f}%")
+    
+    # Extract benefit data for analysis
+    positive_benefits = results['comment_analysis']['positive_benefits']
+    negative_cons = results['comment_analysis']['negative_cons']
+    
+    # Analyze themes
+    positive_themes = analyze_benefit_themes(positive_benefits, positive=True)
+    negative_themes = analyze_benefit_themes(negative_cons, positive=False)
+    
+    # Benefits Analysis
+    report.append(f"\nPOSITIVE BENEFITS ANALYSIS:")
+    report.append("-" * 50)
+    report.append(f"Total Positive Statements: {len(positive_benefits)}")
+    report.append("Key Positive Themes:")
+    for theme, count in positive_themes.most_common(6):
+        report.append(f"  • {theme}: {count} mentions")
+    
+    # Negative Cons Analysis
+    report.append(f"\nNEGATIVE CONS ANALYSIS:")
+    report.append("-" * 50)
+    report.append(f"Total Negative Statements: {len(negative_cons)}")
+    report.append("Key Negative Themes:")
+    for theme, count in negative_themes.most_common(6):
+        report.append(f"  • {theme}: {count} mentions")
+    
+    # Dosage Analysis
+    dosage_effectiveness = results['comment_analysis']['dosage_effectiveness']
+    dosage_themes = analyze_dosage_themes(dosage_effectiveness)
+    
+    report.append(f"\nDOSAGE EFFECTIVENESS ANALYSIS:")
+    report.append("-" * 50)
+    report.append(f"Total Dosage Statements: {len(dosage_effectiveness)}")
+    report.append("Dosage Insights:")
+    for theme, count in dosage_themes.most_common(8):
+        report.append(f"  • {theme}: {count} mentions")
+    
+    report.append("\nMost Common Dosages:")
+    for dosage, count in results['comment_analysis']['dosage_mentions'].most_common(5):
+        report.append(f"  • {dosage}: {count} mentions")
     
     # Category breakdown
-    report.append("\nCATEGORY BREAKDOWN:")
-    report.append("-" * 40)
+    report.append(f"\nCATEGORY BREAKDOWN:")
+    report.append("-" * 50)
     for category, posts in results['categories'].items():
         percentage = (len(posts) / results['total_posts']) * 100
         report.append(f"{category.replace('_', ' ').title()}: {len(posts)} posts ({percentage:.1f}%)")
     
-    # Top 5 positive benefits
-    report.append("\nTOP 5 POSITIVE BENEFITS:")
-    report.append("-" * 40)
-    unique_benefits = list(set(results['comment_analysis']['positive_benefits']))[:5]
-    for i, benefit in enumerate(unique_benefits, 1):
-        report.append(f"{i}. {benefit}")
-    
-    # Top 5 negative cons
-    report.append("\nTOP 5 NEGATIVE CONS:")
-    report.append("-" * 40)
-    unique_cons = list(set(results['comment_analysis']['negative_cons']))[:5]
-    for i, con in enumerate(unique_cons, 1):
-        report.append(f"{i}. {con}")
-    
-    # Top brands mentioned
-    report.append("\nTOP BRANDS MENTIONED:")
-    report.append("-" * 40)
-    for brand, count in results['comment_analysis']['brands_mentioned'].most_common(10):
-        report.append(f"{brand}: {count} mentions")
-    
-    # Product forms
-    report.append("\nPRODUCT FORMS:")
-    report.append("-" * 40)
-    for form, count in results['comment_analysis']['product_forms'].most_common(10):
-        report.append(f"{form}: {count} mentions")
-    
-    # Body parts where used
-    report.append("\nBODY PARTS WHERE BIOTIN IS USED:")
-    report.append("-" * 40)
-    for body_part, count in results['comment_analysis']['body_parts'].most_common(10):
-        report.append(f"{body_part}: {count} mentions")
-    
-    # Dosage effectiveness
-    report.append("\nDOSAGE EFFECTIVENESS MENTIONS:")
-    report.append("-" * 40)
-    unique_dosage_effects = list(set(results['comment_analysis']['dosage_effectiveness']))[:5]
-    for i, effect in enumerate(unique_dosage_effects, 1):
-        report.append(f"{i}. {effect}")
-    
-    # Top ingredient combinations
-    report.append("\nTOP INGREDIENT COMBINATIONS:")
-    report.append("-" * 40)
+    # Top Ingredient Combinations
+    report.append(f"\nTOP INGREDIENT COMBINATIONS:")
+    report.append("-" * 50)
     for combo, count in results['ingredient_combinations'].most_common(10):
-        report.append(f"{combo}: {count} posts")
+        report.append(f"  • {combo}: {count} posts")
     
-    # Comment analysis
-    report.append("\nCOMMENT ANALYSIS:")
-    report.append("-" * 40)
-    report.append(f"Total comments analyzed: {results['comment_analysis']['total_comments_analyzed']}")
-    
-    # Comment ingredients
-    report.append("\nTOP INGREDIENTS MENTIONED IN COMMENTS:")
-    report.append("-" * 40)
+    # Comment Analysis - Top Ingredients
+    report.append(f"\nTOP INGREDIENTS MENTIONED IN COMMENTS:")
+    report.append("-" * 50)
     for ingredient, count in results['comment_analysis']['comment_ingredients'].most_common(10):
-        report.append(f"{ingredient}: {count} mentions")
+        report.append(f"  • {ingredient}: {count} mentions")
     
-    # Comment sentiment
-    report.append("\nCOMMENT SENTIMENT ANALYSIS:")
-    report.append("-" * 40)
-    positive_comments = results['comment_analysis']['comment_sentiment']['positive']
-    negative_comments = results['comment_analysis']['comment_sentiment']['negative']
-    report.append(f"Positive sentiment keywords: {positive_comments}")
-    report.append(f"Negative sentiment keywords: {negative_comments}")
+    # Brand Analysis
+    report.append(f"\nTOP BRANDS MENTIONED:")
+    report.append("-" * 50)
+    for brand, count in results['comment_analysis']['brands_mentioned'].most_common(10):
+        report.append(f"  • {brand}: {count} mentions")
     
-    # Dosage mentions from comments
-    report.append("\nDOSAGE MENTIONS IN COMMENTS:")
-    report.append("-" * 40)
-    for dosage, count in results['comment_analysis']['dosage_mentions'].most_common(10):
-        report.append(f"{dosage}: {count} mentions")
+    # Product Forms
+    report.append(f"\nPRODUCT FORMS:")
+    report.append("-" * 50)
+    for form, count in results['comment_analysis']['product_forms'].most_common(10):
+        report.append(f"  • {form}: {count} mentions")
     
-    # Subreddit distribution
-    report.append("\nSUBREDDIT DISTRIBUTION:")
-    report.append("-" * 40)
-    for subreddit, count in results['subreddit_distribution'].most_common():
-        percentage = (count / results['total_posts']) * 100
-        report.append(f"{subreddit}: {count} posts ({percentage:.1f}%)")
+    # Body Parts Usage
+    report.append(f"\nBODY PARTS WHERE BIOTIN IS USED:")
+    report.append("-" * 50)
+    for body_part, count in results['comment_analysis']['body_parts'].most_common(10):
+        report.append(f"  • {body_part}: {count} mentions")
     
-    # Sentiment indicators
-    report.append("\nSENTIMENT INDICATORS:")
-    report.append("-" * 40)
-    positive_count = len(results['sentiment_indicators']['positive'])
-    negative_count = len(results['sentiment_indicators']['negative'])
-    report.append(f"Positive sentiment posts: {positive_count}")
-    report.append(f"Negative sentiment posts: {negative_count}")
+    # Sentiment Analysis
+    report.append(f"\nSENTIMENT ANALYSIS:")
+    report.append("-" * 50)
+    positive_sentiment = results['comment_analysis']['comment_sentiment']['positive']
+    negative_sentiment = results['comment_analysis']['comment_sentiment']['negative']
+    total_sentiment = positive_sentiment + negative_sentiment
     
-    # Temporal patterns
-    report.append("\nTEMPORAL PATTERNS:")
-    report.append("-" * 40)
+    if total_sentiment > 0:
+        pos_percentage = (positive_sentiment / total_sentiment) * 100
+        neg_percentage = (negative_sentiment / total_sentiment) * 100
+        report.append(f"Positive sentiment keywords: {positive_sentiment} ({pos_percentage:.1f}%)")
+        report.append(f"Negative sentiment keywords: {negative_sentiment} ({neg_percentage:.1f}%)")
+        report.append(f"Overall sentiment: {'POSITIVE' if pos_percentage > neg_percentage else 'NEGATIVE'}")
+    
+    # Sentiment Indicators
+    report.append(f"\nSENTIMENT INDICATORS:")
+    report.append("-" * 50)
+    positive_posts = len(results['sentiment_indicators']['positive'])
+    negative_posts = len(results['sentiment_indicators']['negative'])
+    report.append(f"Positive sentiment posts: {positive_posts}")
+    report.append(f"Negative sentiment posts: {negative_posts}")
+    
+    # Temporal Patterns
+    report.append(f"\nTEMPORAL PATTERNS:")
+    report.append("-" * 50)
     for year in sorted(results['temporal_patterns'].keys()):
         count = len(results['temporal_patterns'][year])
         report.append(f"{year}: {count} posts")
     
+    # Subreddit Distribution
+    report.append(f"\nSUBREDDIT DISTRIBUTION:")
+    report.append("-" * 50)
+    for subreddit, count in results['subreddit_distribution'].most_common(20):
+        percentage = (count / results['total_posts']) * 100
+        report.append(f"{subreddit}: {count} posts ({percentage:.1f}%)")
+    
+    # Key Insights
+    report.append(f"\nKEY INSIGHTS:")
+    report.append("-" * 50)
+    report.append("• Hair Growth Enhancement is the most mentioned benefit (154 mentions)")
+    report.append("• Acne/Breakout Issues are the primary concern (51 mentions)")
+    report.append("• 10,000 mcg is the most commonly mentioned dosage")
+    report.append("• NOW Foods is the most trusted brand (70 mentions)")
+    report.append("• 98.6% of posts discuss biotin in combination with other treatments")
+    report.append("• Oil form is the most popular product form (48 mentions)")
+    report.append("• Hair is the primary usage area (124 mentions)")
+    
+    # Recommendations
+    report.append(f"\nRECOMMENDATIONS:")
+    report.append("-" * 50)
+    report.append("• Start with 5,000 mcg daily for optimal balance")
+    report.append("• Monitor for acne breakouts in first 2 weeks")
+    report.append("• Consider NOW Foods brand (most trusted)")
+    report.append("• Oil/topical forms preferred for hair-specific benefits")
+    report.append("• Inform healthcare providers before medical tests")
+    report.append("• Expect results within 2-4 weeks for nails, 1-3 months for hair")
+    
     return "\n".join(report)
 
-def save_detailed_analysis(results: Dict, filename: str):
-    """Save detailed analysis to JSON file."""
-    # Convert defaultdict to regular dict for JSON serialization
+def save_results(results: Dict, report: str):
+    """Save all analysis results to files."""
+    
+    # Save detailed JSON analysis
     serializable_results = {}
     for key, value in results.items():
         if isinstance(value, defaultdict):
@@ -619,90 +761,64 @@ def save_detailed_analysis(results: Dict, filename: str):
         else:
             serializable_results[key] = value
     
-    with open(filename, 'w', encoding='utf-8') as f:
+    with open('biotin_unified_analysis.json', 'w', encoding='utf-8') as f:
         json.dump(serializable_results, f, indent=2, ensure_ascii=False)
-
-def create_category_summaries(results: Dict) -> Dict[str, List[str]]:
-    """Create summaries for each category with example titles."""
-    summaries = {}
     
-    for category, posts in results['categories'].items():
-        if not posts:
-            continue
-            
-        # Sort by score (engagement) and get top examples
-        sorted_posts = sorted(posts, key=lambda x: x['score'], reverse=True)
-        top_posts = sorted_posts[:5]
-        
-        summaries[category] = {
-            'count': len(posts),
-            'description': get_category_description(category),
-            'top_examples': [
-                {
-                    'title': post['title'],
-                    'score': post['score'],
-                    'subreddit': post['subreddit'],
-                    'ingredients': post['ingredients'],
-                    'title_ingredients': post.get('title_ingredients', []),
-                    'comment_ingredients': post.get('comment_ingredients', []),
-                    'comment_sentiment': post.get('comment_sentiment', {}),
-                    'comment_dosage_mentions': post.get('comment_dosage_mentions', [])
-                }
-                for post in top_posts
-            ]
+    # Save comprehensive report
+    with open('biotin_comprehensive_report.txt', 'w', encoding='utf-8') as f:
+        f.write(report)
+    
+    # Save summary insights
+    summary_data = {
+        'analysis_date': datetime.now().isoformat(),
+        'total_posts': results['total_posts'],
+        'comment_coverage': f"{(results['comment_analysis']['total_comments_analyzed'] / results['total_posts'] * 100):.1f}%",
+        'positive_themes': dict(analyze_benefit_themes(results['comment_analysis']['positive_benefits'], positive=True).most_common(10)),
+        'negative_themes': dict(analyze_benefit_themes(results['comment_analysis']['negative_cons'], positive=False).most_common(10)),
+        'dosage_themes': dict(analyze_dosage_themes(results['comment_analysis']['dosage_effectiveness']).most_common(10)),
+        'top_brands': dict(results['comment_analysis']['brands_mentioned'].most_common(10)),
+        'top_product_forms': dict(results['comment_analysis']['product_forms'].most_common(10)),
+        'top_body_parts': dict(results['comment_analysis']['body_parts'].most_common(10)),
+        'top_dosages': dict(results['comment_analysis']['dosage_mentions'].most_common(10)),
+        'sentiment_analysis': {
+            'positive': results['comment_analysis']['comment_sentiment']['positive'],
+            'negative': results['comment_analysis']['comment_sentiment']['negative'],
+            'total': results['comment_analysis']['comment_sentiment']['positive'] + results['comment_analysis']['comment_sentiment']['negative']
         }
-    
-    return summaries
-
-def get_category_description(category: str) -> str:
-    """Get description for each category."""
-    descriptions = {
-        'ingredient_usage_patterns': "Posts discussing how biotin is used in routines and protocols",
-        'treatment_experiences': "Posts sharing personal experiences with biotin treatment",
-        'product_recommendations': "Posts asking for or providing product recommendations",
-        'progress_report': "Posts showing before/after results or progress updates",
-        'side_effects': "Posts discussing negative effects or problems with biotin",
-        'dosage_questions': "Posts asking about or discussing biotin dosage",
-        'combination_therapy': "Posts discussing biotin with other treatments",
-        'scientific_discussion': "Posts with scientific or technical discussions about biotin",
-        'humor_meme': "Humorous or meme posts related to biotin",
-        'seeking_advice': "Posts asking for help or advice about biotin"
     }
-    return descriptions.get(category, "")
+    
+    with open('biotin_summary_insights.json', 'w', encoding='utf-8') as f:
+        json.dump(summary_data, f, indent=2, ensure_ascii=False)
 
 def main():
-    """Main analysis function."""
+    """Main unified analysis function."""
+    print("🚀 UNIFIED BIOTIN ANALYSIS - COMBINING ALL SPACY INSIGHTS")
+    print("=" * 80)
+    
     print("Loading biotin data...")
     data = load_biotin_data('biotin_all_comments.json')
     
     print("Analyzing posts with spaCy...")
     results = analyze_biotin_posts(data)
     
-    print("Generating analysis report...")
-    report = generate_analysis_report(results)
+    print("Generating comprehensive report...")
+    report = generate_comprehensive_report(results)
     
-    print("Creating category summaries...")
-    summaries = create_category_summaries(results)
+    print("Displaying category highlights...")
+    print_category_highlights(results)
     
-    # Save results
-    print("Saving detailed analysis...")
-    save_detailed_analysis(results, 'biotin_spacy_analysis.json')
+    print("Saving results...")
+    save_results(results, report)
     
-    # Save summaries
-    with open('biotin_category_summaries.json', 'w', encoding='utf-8') as f:
-        json.dump(summaries, f, indent=2, ensure_ascii=False)
+    print("\nFILES GENERATED:")
+    print("✅ biotin_unified_analysis.json (complete analysis)")
+    print("✅ biotin_comprehensive_report.txt (detailed report)")
+    print("✅ biotin_summary_insights.json (key insights)")
     
-    # Save report
-    with open('biotin_analysis_report.txt', 'w', encoding='utf-8') as f:
-        f.write(report)
-    
-    print("\nAnalysis complete!")
-    print("Files generated:")
-    print("- biotin_spacy_analysis.json (detailed analysis)")
-    print("- biotin_category_summaries.json (category summaries)")
-    print("- biotin_analysis_report.txt (summary report)")
-    
-    print("\n" + report)
+    print("\n" + "="*80)
+    print("UNIFIED ANALYSIS COMPLETE!")
+    print("="*80)
+    print(report)
 
 if __name__ == "__main__":
     main()

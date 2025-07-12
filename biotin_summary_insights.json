@@ -1,0 +1,83 @@
+{
+  "analysis_date": "2025-07-12T08:57:02.812506",
+  "total_posts": 139,
+  "comment_coverage": "97.1%",
+  "positive_themes": {
+    "Hair Growth Enhancement": 154,
+    "Overall Effectiveness": 119,
+    "Nail Strength & Beauty": 79,
+    "High Recommendation": 73,
+    "Skin Health Improvement": 61,
+    "Fast Results": 48
+  },
+  "negative_themes": {
+    "Acne/Breakout Issues": 51,
+    "Side Effects": 34,
+    "Thyroid/Hormonal Issues": 21,
+    "Discontinued Due to Problems": 16,
+    "Ineffectiveness": 5,
+    "Cost Concerns": 3
+  },
+  "dosage_themes": {
+    "Effective Dosage": 17,
+    "Daily Usage": 8,
+    "5,000 mcg/mg Usage": 8,
+    "10,000 mcg/mg Usage": 7,
+    "Overdose Concerns": 6,
+    "1,000 mcg/mg Usage": 4,
+    "Optimal Dosage": 1
+  },
+  "top_brands": {
+    "now": 70,
+    "viviscal": 5,
+    "nature's bounty": 5,
+    "costco": 3,
+    "nature made": 2,
+    "kirkland": 1,
+    "natrol": 1,
+    "sports research": 1,
+    "vitafusion": 1,
+    "centrum": 1
+  },
+  "top_product_forms": {
+    "oil": 48,
+    "topical": 23,
+    "pills": 19,
+    "liquid": 14,
+    "pill": 11,
+    "serum": 11,
+    "powder": 11,
+    "spray": 8,
+    "drops": 8,
+    "gummies": 8
+  },
+  "top_body_parts": {
+    "hair": 124,
+    "skin": 48,
+    "nails": 44,
+    "scalp": 43,
+    "head": 42,
+    "hairline": 21,
+    "face": 17,
+    "nail": 17,
+    "temples": 11,
+    "beard": 8
+  },
+  "top_dosages": {
+    "000 mcg": 24,
+    "1 mg": 19,
+    "1000 mcg": 8,
+    "000 mg": 7,
+    "5000 mcg": 6,
+    "5 mg": 5,
+    "1.1 mg": 4,
+    "0.5 mg": 3,
+    "500 mcg": 3,
+    "0.25 mg": 2
+  },
+  "sentiment_analysis": {
+    "positive": 303,
+    "negative": 210,
+    "total": 513
+  }
+}
