@@ -1,0 +1,90 @@
+{
+  "ingredient": "Sodium Hydroxide",
+  "search_results": [
+    {
+      "identifier": "18525",
+      "inci_name": "SODIUM HYDROXIDE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 18525,
+      "inci_name": "SODIUM HYDROXIDE",
+      "name": "Sodium hydroxide",
+      "description": "Caustic soda is used in the preparation of many products (detergents, explosives ...). It is used to make sodium salts and to neutralize acids. In cosmetics, it allows the manufacture of solid soaps. Caustic soda is allowed in organic, it does not pose problems in the conditions of regulation.",
+      "regulation": "The maximum amount of sodium hydroxide to be used in cosmetics is limited as follows:\na) Solvent nail cuticles: 5%.\n\nb) Hair straightening products: 2% for general use and 4.5% for professional use.\n\nc) pH regulator for depilatories: pH <12.7.\n\nd) Other uses as pH regulator: pH <11.\n\nWording of conditions of employment and warnings:\na) Contains an alkaline agent\nAvoid contact with the eyes\nDanger of blindness\nKeep out of reach of children\n\n(b) In general use:\n- Contains an alkaline agent\n- Avoid contact with the eyes\n- Danger of blindness\n- Keep out of reach of children\nb) In professional use:\n- Reserved for professionals\n- Avoid contact with the eyes\n- Danger of blindness\n\nc) Keep out of reach of children\nAvoid contact with the eyes",
+      "reference": "CNESST - Sodium Hydroxyde - https://www.csst.qc.ca/prevention/reptox/Pages/fiche-complete.aspx?no_produit=1164",
+      "cheminical_iupac_name": "",
+      "cas": "1310-73-2",
+      "einecs_elincs": "215-185-5",
+      "cosmetic_restriction": "III/15a",
+      "percentage": 16.53,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "35.62",
+          "count": 8312
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "36.93",
+          "count": 5703
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "31.4",
+          "count": 5610
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "31.49",
+          "count": 3530
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "27.93",
+          "count": 3346
+        }
+      ],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "pH regulator",
+          "description": "Stabilises the pH of cosmetics"
+        },
+        {
+          "name": "Denaturant",
+          "description": "Makes cosmetics unpleasant. Mainly added to cosmetics containing ethyl alcohol"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "categories": [
+            {
+              "label": "Shaving soap, Solid soap, Solid baby soap, Solid shampoo",
+              "icon": "https://incibeauty.com/img/icon/ic_soap_circle_filled_green@64.png"
+            }
+          ],
+          "label": "\"No penalty\" in the following categories :"
+        },
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all other categories."
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,0 @@
-{
-  "ingredient": "Apple Cider Vinegar",
-  "error": "Error searching for Apple Cider Vinegar: 429 Client Error: Too Many Requests for url: https://api.incibeauty.com/ingredient/search/Apple%20Cider%20Vinegar?accessKeyId=d5ae0e8abc0cc240&hmac=c50d9ce5c3413bfd7e68b75f32232919433561e60e7f4dffb5ea6e3c53932c64"
-}

@@ -1,4 +1,0 @@
-{
-  "ingredient": "Camellia Sinensis Leaf Extract",
-  "error": "Error searching for Camellia Sinensis Leaf Extract: 429 Client Error: Too Many Requests for url: https://api.incibeauty.com/ingredient/search/Camellia%20Sinensis%20Leaf%20Extract?accessKeyId=d5ae0e8abc0cc240&hmac=ad73ef95f4c2fa571f051e0e92c4b2a0e2a089210f18e5bc4589b9b2616a7fe7"
-}

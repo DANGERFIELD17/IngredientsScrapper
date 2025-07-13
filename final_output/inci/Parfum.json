@@ -1,0 +1,80 @@
+{
+  "ingredient": "Parfum",
+  "search_results": [
+    {
+      "identifier": "18733",
+      "inci_name": "PARFUM"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 18733,
+      "inci_name": "PARFUM",
+      "name": "Perfume",
+      "description": "Unfortunately, the term “fragrance” conceals numerous odorant molecules that are potentially irritating or even allergenic. It's hard to know what to do when you're allergic to a product and the information isn't very detailed. Nevertheless, to help us, Europe has regulated 24 molecules (more than 80 from 2026) which, when used above a certain concentration, must be mentioned in the INCI list (generally at the end), even though they are themselves part of a product's fragrance. This is the case, for example, with Limonene, linalool...",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 65.96,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "91.36",
+          "count": 21322
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "93.29",
+          "count": 16669
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "84.72",
+          "count": 13083
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "93.37",
+          "count": 10280
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "71.79",
+          "count": 8048
+        }
+      ],
+      "score": 3,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Animal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 3,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

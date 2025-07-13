@@ -1,0 +1,203 @@
+{
+  "ingredient": "Cymbopogon Flexuosus Oil",
+  "search_results": [
+    {
+      "identifier": "20754",
+      "inci_name": "CYMBOPOGON FLEXUOSUS OIL"
+    },
+    {
+      "identifier": "3446",
+      "inci_name": "CYMBOPOGON FLEXUOSUS HERB OIL"
+    },
+    {
+      "identifier": "5407",
+      "inci_name": "CYMBOPOGON FLEXUOSUS LEAF OIL"
+    },
+    {
+      "identifier": "64239",
+      "inci_name": "CYMBOPOGON FLEXUOSUS LEAF/STEM OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 20754,
+      "inci_name": "CYMBOPOGON FLEXUOSUS OIL",
+      "name": "Lemongrass oil",
+      "description": "",
+      "regulation": "The presence of the substance or substances must be indicated by “Lemongrass Oil” in the list of ingredients referred to in Article 19(1), point g), when the concentration of the substance or substances is higher:\n- at 0.001% in leave-on products,\n- at 0.01% in rinse-off products.",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "91844-92-7",
+      "einecs_elincs": "295-161-9",
+      "cosmetic_restriction": "III/354",
+      "percentage": 0.12,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 4,
+          "name": "Allergen",
+          "score": 2
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 3446,
+      "inci_name": "CYMBOPOGON FLEXUOSUS HERB OIL",
+      "name": "Lemongrass oil",
+      "description": "",
+      "regulation": "The presence of the substance or substances must be indicated by “Lemongrass Oil” in the list of ingredients referred to in Article 19(1), point g), when the concentration of the substance or substances is higher:\n- at 0.001% in leave-on products,\n- at 0.01% in rinse-off products.",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "91844-92-7",
+      "einecs_elincs": "295-161-9",
+      "cosmetic_restriction": "",
+      "percentage": 0.04,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 4,
+          "name": "Allergen",
+          "score": 2
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 5407,
+      "inci_name": "CYMBOPOGON FLEXUOSUS LEAF OIL",
+      "name": "Lemongrass leaf oil",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 64239,
+      "inci_name": "CYMBOPOGON FLEXUOSUS LEAF/STEM OIL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Flavouring agent",
+          "description": "Gives an aroma to the cosmetic product"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

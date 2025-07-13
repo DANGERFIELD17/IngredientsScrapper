@@ -1,4 +1,0 @@
-{
-  "ingredient": "Chlorhexidine Digluconate",
-  "error": "Error searching for Chlorhexidine Digluconate: 429 Client Error: Too Many Requests for url: https://api.incibeauty.com/ingredient/search/Chlorhexidine%20Digluconate?accessKeyId=d5ae0e8abc0cc240&hmac=c130f4700b0b29b671c4a3c7081b8ed143032c7f5ea9c0ae17b00b83e29bd595"
-}

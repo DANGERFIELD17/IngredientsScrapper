@@ -1,4 +1,0 @@
-{
-  "ingredient": "Hydroxypropyl Methylcellulose",
-  "error": "Error searching for Hydroxypropyl Methylcellulose: 429 Client Error: Too Many Requests for url: https://api.incibeauty.com/ingredient/search/Hydroxypropyl%20Methylcellulose?accessKeyId=d5ae0e8abc0cc240&hmac=629e0632f433166dd7f7c9499f6843f446b03f9db2b1637089bd2703b815be5c"
-}

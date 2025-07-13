@@ -1,0 +1,186 @@
+================================================================================
+COMPREHENSIVE CHOLECALCIFEROL ANALYSIS REPORT
+================================================================================
+Generated: 2025-07-13 17:23:40
+
+OVERVIEW:
+Ingredient Analyzed: Cholecalciferol
+Total Posts Analyzed: 139
+Posts with Comments: 132
+Comment Coverage: 95.0%
+
+POSITIVE BENEFITS ANALYSIS:
+--------------------------------------------------
+Total Positive Statements: 11
+Key Positive Themes:
+  • High Recommendation: 4 mentions
+  • Anti-Aging Benefits: 3 mentions
+  • Overall Effectiveness: 3 mentions
+  • Skin Health Improvement: 2 mentions
+  • Nail Strength & Beauty: 1 mentions
+  • Hair Growth Enhancement: 1 mentions
+
+NEGATIVE CONS ANALYSIS:
+--------------------------------------------------
+Total Negative Statements: 4
+Key Negative Themes:
+  • Thyroid/Hormonal Issues: 1 mentions
+  • Acne/Breakout Issues: 1 mentions
+  • Side Effects: 1 mentions
+  • Ineffectiveness: 1 mentions
+
+DOSAGE EFFECTIVENESS ANALYSIS:
+--------------------------------------------------
+Total Dosage Statements: 10
+Dosage Insights:
+  • Percentage-Based Dosage: 5 mentions
+  • Effective Dosage: 4 mentions
+  • Daily Usage: 2 mentions
+  • Dosage Increase: 1 mentions
+  • Optimal Dosage: 1 mentions
+  • Overdose Concerns: 1 mentions
+
+Most Common Dosages:
+  • 6 mg: 3 mentions
+  • 500 mg: 3 mentions
+  • 7 mg: 3 mentions
+  • 1 mg: 2 mentions
+  • 100 mcg: 2 mentions
+  • 3 mg: 2 mentions
+  • 400 mg: 2 mentions
+  • 3.2 mg: 2 mentions
+
+CATEGORY BREAKDOWN:
+--------------------------------------------------
+Combination Therapy: 138 posts (99.3%)
+Seeking Advice: 127 posts (91.4%)
+Ingredient Usage Patterns: 121 posts (87.1%)
+Treatment Experiences: 122 posts (87.8%)
+Product Recommendations: 125 posts (89.9%)
+Progress Report: 100 posts (71.9%)
+Side Effects: 78 posts (56.1%)
+Dosage Questions: 109 posts (78.4%)
+Scientific Discussion: 94 posts (67.6%)
+Humor Meme: 51 posts (36.7%)
+
+TOP INGREDIENT COMBINATIONS:
+--------------------------------------------------
+  • vitamin, vitamin d: 4 posts
+  • vitamin, vitamin , vitamin e, vitamins: 3 posts
+  • vitamin d, vitamin d3: 3 posts
+  • vitamin d, vitamin d3, vitamind: 3 posts
+  • keto, vitamins: 2 posts
+  • vitamin, vitamin d, vitamin d3: 2 posts
+  • vitamin d, vitamins: 2 posts
+  • vitamin a, vitamin d, vitamin k2, vitamins: 1 posts
+  • retinol, salicylic acid: 1 posts
+  • salicylic acid, sunscreen: 1 posts
+
+TOP INGREDIENTS MENTIONED IN COMMENTS:
+--------------------------------------------------
+  • vitamin d: 63 mentions
+  • vitamins: 26 mentions
+  • vitamin d3: 26 mentions
+  • vitamin: 21 mentions
+  • zinc: 14 mentions
+  • vitamin : 13 mentions
+  • vitamin k2: 9 mentions
+  • vitamin a: 8 mentions
+  • vitamin e: 8 mentions
+  • vitamin k: 7 mentions
+
+TOP BRANDS MENTIONED:
+--------------------------------------------------
+  • cerave: 4 mentions
+  • neutrogena: 3 mentions
+  • one a day: 2 mentions
+  • paula's choice: 1 mentions
+  • stridex: 1 mentions
+  • the ordinary: 1 mentions
+  • thorne: 1 mentions
+  • now foods: 1 mentions
+
+PRODUCT FORMS:
+--------------------------------------------------
+  • oil: 24 mentions
+  • serum: 23 mentions
+  • pills: 11 mentions
+  • pill: 10 mentions
+  • tablets: 7 mentions
+  • cream: 5 mentions
+  • capsules: 4 mentions
+  • capsule: 4 mentions
+  • drops: 4 mentions
+  • gel: 4 mentions
+
+BODY PARTS WHERE CHOLECALCIFEROL IS USED:
+--------------------------------------------------
+  • skin: 18 mentions
+  • face: 9 mentions
+  • head: 7 mentions
+  • hair: 6 mentions
+  • acne: 5 mentions
+  • facial: 2 mentions
+  • scalp: 2 mentions
+  • pores: 1 mentions
+  • hairline: 1 mentions
+  • forehead: 1 mentions
+
+SENTIMENT ANALYSIS:
+--------------------------------------------------
+Positive sentiment keywords: 196 (58.2%)
+Negative sentiment keywords: 141 (41.8%)
+Overall sentiment: POSITIVE
+
+SENTIMENT INDICATORS:
+--------------------------------------------------
+Positive sentiment posts: 56
+Negative sentiment posts: 30
+
+TEMPORAL PATTERNS:
+--------------------------------------------------
+2014: 4 posts
+2015: 6 posts
+2016: 4 posts
+2017: 3 posts
+2018: 8 posts
+2019: 6 posts
+2020: 19 posts
+2021: 24 posts
+2022: 10 posts
+2023: 13 posts
+2024: 21 posts
+2025: 21 posts
+
+SUBREDDIT DISTRIBUTION:
+--------------------------------------------------
+VitaminD: 18 posts (12.9%)
+Supplements: 17 posts (12.2%)
+ScientificNutrition: 8 posts (5.8%)
+SkincareAddiction: 7 posts (5.0%)
+COVID19: 4 posts (2.9%)
+MultipleSclerosis: 3 posts (2.2%)
+NootropicsDepot: 3 posts (2.2%)
+soylent: 3 posts (2.2%)
+AskDocs: 2 posts (1.4%)
+Biohackers: 2 posts (1.4%)
+Mcat: 2 posts (1.4%)
+nutrition: 2 posts (1.4%)
+PSSD: 2 posts (1.4%)
+trivia: 2 posts (1.4%)
+Neverbrokeabone: 1 posts (0.7%)
+Fitness: 1 posts (0.7%)
+running: 1 posts (0.7%)
+NatureofPredators: 1 posts (0.7%)
+IndianSkincareAddicts: 1 posts (0.7%)
+AdvancedFitness: 1 posts (0.7%)
+
+KEY INSIGHTS:
+--------------------------------------------------
+• High Recommendation is the most mentioned benefit (4 mentions)
+• Thyroid/Hormonal Issues is the primary concern (1 mentions)
+• 6 mg is the most commonly mentioned dosage
+• cerave is the most trusted brand (4 mentions)
+• 41.0% of posts discuss Cholecalciferol in combination with other treatments
+• oil form is the most popular product form (24 mentions)
+• skin is the primary usage area (18 mentions)

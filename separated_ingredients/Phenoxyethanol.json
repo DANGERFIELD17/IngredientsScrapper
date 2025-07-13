@@ -1,4 +1,0 @@
-{
-  "ingredient": "Phenoxyethanol",
-  "error": "Error searching for Phenoxyethanol: 429 Client Error: Too Many Requests for url: https://api.incibeauty.com/ingredient/search/Phenoxyethanol?accessKeyId=d5ae0e8abc0cc240&hmac=0f02a61f19607949033ccefb1147f49e89c4553ba61b11dc06d1cb238b448f05"
-}

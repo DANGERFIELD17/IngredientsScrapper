@@ -1,0 +1,123 @@
+{
+  "ingredient": "Lactic Acid",
+  "search_results": [
+    {
+      "identifier": "14879",
+      "inci_name": "LACTIC ACID"
+    },
+    {
+      "identifier": "9345",
+      "inci_name": "LACTIC ACID/GLYCOLIC ACID COPOLYMER"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 14879,
+      "inci_name": "LACTIC ACID",
+      "name": "Lactic acid",
+      "description": "Lactic acid is a fruit acid (AHA). It is used in cosmetics as a PH regulator, helps soften and retain moisture in the skin, and give shine. It promotes the hydration of the skin and the evacuation of dead cells. Lactic acid is produced through a fermentation process using specific bacteria such as Lactobacillus. It is naturally present in milk, wine, some vegetables and fruits. It is authorized in organic.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "50-21-5",
+      "einecs_elincs": "200-018-0",
+      "cosmetic_restriction": "",
+      "percentage": 8.37,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "13.42",
+          "count": 3136
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "16.03",
+          "count": 2869
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "22.33",
+          "count": 2461
+        },
+        {
+          "category_name": "Personal hygiene",
+          "percentage": "72.71",
+          "count": 1495
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "9.03",
+          "count": 1397
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Animal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "pH regulator",
+          "description": "Stabilises the pH of cosmetics"
+        },
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 9345,
+      "inci_name": "LACTIC ACID/GLYCOLIC ACID COPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.04,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

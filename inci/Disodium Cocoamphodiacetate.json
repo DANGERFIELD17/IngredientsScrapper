@@ -1,0 +1,99 @@
+{
+  "ingredient": "Disodium Cocoamphodiacetate",
+  "search_results": [
+    {
+      "identifier": "17475",
+      "inci_name": "DISODIUM COCOAMPHODIACETATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 17475,
+      "inci_name": "DISODIUM COCOAMPHODIACETATE",
+      "name": "Disodium Cocoamphodiacetate",
+      "description": "Disodium cocoamphodiacetate is an amphoteric surfactant commonly used in personal care products. It is a mild foaming agent. It increases the foaming power of a solution by increasing the surface viscosity of the liquid that surrounds the individual bubbles in a foam. It is authorized in organic products.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "931-291-0",
+      "cosmetic_restriction": "",
+      "percentage": 1.27,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "7.81",
+          "count": 1824
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "3.01",
+          "count": 538
+        },
+        {
+          "category_name": "Micellar water",
+          "percentage": "12.41",
+          "count": 411
+        },
+        {
+          "category_name": "Personal hygiene",
+          "percentage": "12.94",
+          "count": 266
+        },
+        {
+          "category_name": "Hair colouring",
+          "percentage": "2.82",
+          "count": 204
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 39,
+          "name": "Amphoteric surfactant",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foam boosting",
+          "description": "Improves the quality of the foam produced by increasing one or more of the following properties: volume, texture and/or stability"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Hydrotrope",
+          "description": "Increases the solubility of a substance with low solubility in water."
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

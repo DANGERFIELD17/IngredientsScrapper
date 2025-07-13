@@ -1,0 +1,127 @@
+{
+  "ingredient": "D-Panthenol",
+  "search_results": [
+    {
+      "identifier": "5791",
+      "inci_name": "PANTHENOL"
+    },
+    {
+      "identifier": "21179",
+      "inci_name": "DIMETHICONOL PANTHENOL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 5791,
+      "inci_name": "PANTHENOL",
+      "name": "Provitamin B5",
+      "description": "Panthenol is an alcohol widely used in cosmetics. This active ingredient goes into the formulation of shampoos and conditioners to make hair shiny and supple. Panthenol improves hydration, reduces itching and inflammation of the skin. It accelerates and improves the healing of epidermal wounds. It is often used in sunburn treatment products. When panthenol is applied topically, it penetrates the lower layers of the skin, is absorbed by skin cells and converted to pantothenic acid (more commonly known as vitamin B5). It is this penetration that allows essential hydration.\r\nThe ingredient does not exist in its natural state in this form is prohibited in Bio, it's a shame!\r\n\r\nIn a study published in December 2017, the CIR concluded that panthenol poses no health risk in cosmetics. However, other studies report contact irritations and allergies, but in much larger doses than those used in cosmetics.",
+      "regulation": "",
+      "reference": "CIR (2017) - https://online.personalcarecouncil.org/ctfa-static/online/lists/cir-pdfs/FR737.pdf",
+      "cheminical_iupac_name": "",
+      "cas": "81-13-0 / 16485-10-2",
+      "einecs_elincs": "201-327-3 / 240-540-6",
+      "cosmetic_restriction": "",
+      "percentage": 15.13,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "29.87",
+          "count": 6972
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "34.93",
+          "count": 3846
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "30.33",
+          "count": 2109
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "13.39",
+          "count": 2068
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "17.52",
+          "count": 1964
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 30,
+          "name": "Alcohol",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 21179,
+      "inci_name": "DIMETHICONOL PANTHENOL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "ingredient": "Sesamum Indicum Seed Oil",
+  "search_results": [
+    {
+      "identifier": "10842",
+      "inci_name": "SESAMUM INDICUM SEED OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 10842,
+      "inci_name": "SESAMUM INDICUM SEED OIL",
+      "name": "Sesame seed oil",
+      "description": "Sesame seeds are sometimes sold with the seed coat removed (decorticated); this variety is often present on top of baked goods in many countries.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "8008-74-0",
+      "einecs_elincs": "232-370-6",
+      "cosmetic_restriction": "",
+      "percentage": 1.43,
+      "category_percentage": [
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "4",
+          "count": 619
+        },
+        {
+          "category_name": "Lipstick",
+          "percentage": "4.44",
+          "count": 524
+        },
+        {
+          "category_name": "Moisturizing oil for the body and face",
+          "percentage": "9.32",
+          "count": 496
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "4.19",
+          "count": 470
+        },
+        {
+          "category_name": "Hand cream",
+          "percentage": "3.22",
+          "count": 257
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "ingredient": "Salvia Officinalis Leaf Extract",
+  "search_results": [
+    {
+      "identifier": "10564",
+      "inci_name": "SALVIA OFFICINALIS LEAF EXTRACT"
+    },
+    {
+      "identifier": "15486",
+      "inci_name": "SALVIA OFFICINALIS FLOWER/LEAF/STEM EXTRACT"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 10564,
+      "inci_name": "SALVIA OFFICINALIS LEAF EXTRACT",
+      "name": "Sage leaf extract",
+      "description": "Salvia officinalis (sage, also called garden sage, common sage, or culinary sage) is a perennial, evergreen subshrub, with woody stems, grayish leaves, and blue to purplish flowers. It is a member of the mint family Lamiaceae and native to the Mediterranean region, though it has naturalized in many places throughout the world. It has a long history of medicinal and culinary use, and in modern times as an ornamental garden plant. The common name \"sage\" is also used for a number of related and unrelated species.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "84082-79-1 / 8022-56-8",
+      "einecs_elincs": "282-025-9 / -",
+      "cosmetic_restriction": "",
+      "percentage": 0.68,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "1.85",
+          "count": 432
+        },
+        {
+          "category_name": "Adult toothpaste",
+          "percentage": "2.62",
+          "count": 185
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "1.53",
+          "count": 169
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "0.79",
+          "count": 89
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "1.35",
+          "count": 85
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Anti dandruff",
+          "description": "Helps fight against dandruff"
+        },
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Oral care/hygiene agent",
+          "description": "Provides cosmetic effects to the oral cavity (cleaning, deodorization and protection)"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Tonic",
+          "description": "Produces a feeling of well-being on skin and hair"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 15486,
+      "inci_name": "SALVIA OFFICINALIS FLOWER/LEAF/STEM EXTRACT",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "84082-79-1",
+      "einecs_elincs": "282-025-9",
+      "cosmetic_restriction": "",
+      "percentage": 0.02,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "ingredient": "Ethylhexylglycerin",
+  "search_results": [
+    {
+      "identifier": "6038",
+      "inci_name": "ETHYLHEXYLGLYCERIN"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 6038,
+      "inci_name": "ETHYLHEXYLGLYCERIN",
+      "name": "Ethylhexylglycerin",
+      "description": "Ethylhexylglycerin is made from glycerine, it is used in cosmetics as an emollient humectant, it improves the skin sensation of cosmetic formulations. It is also used in deodorants as an active ingredient, it inhibits the growth and multiplication of odor-causing bacteria, while not affecting skin flora. Although it is banned in organic, because of its manufacturing process, however, it does not break any particular concerns.",
+      "regulation": "",
+      "reference": "CIR - https://www.cir-safety.org/sites/default/files/ethylh122011finalx.pdf",
+      "cheminical_iupac_name": "",
+      "cas": "70445-33-9",
+      "einecs_elincs": "408-080-2",
+      "cosmetic_restriction": "",
+      "percentage": 17.89,
+      "category_percentage": [
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "23.43",
+          "count": 3626
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "30.06",
+          "count": 3371
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "26.87",
+          "count": 3229
+        },
+        {
+          "category_name": "Foundation",
+          "percentage": "25.25",
+          "count": 2628
+        },
+        {
+          "category_name": "Fabric mask",
+          "percentage": "48.62",
+          "count": 2447
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Deodorant",
+          "description": "Reduces or masks unpleasant body odors"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

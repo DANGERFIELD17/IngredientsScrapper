@@ -1,0 +1,51 @@
+{
+  "ingredient": "Ketoconazole",
+  "search_results": [
+    {
+      "identifier": "140379",
+      "inci_name": "KETOCONAZOLE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 140379,
+      "inci_name": "KETOCONAZOLE",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "65277-42-1",
+      "einecs_elincs": "265-667-4",
+      "cosmetic_restriction": "II/1528",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 10,
+      "origin": [],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 42,
+          "name": "Forbidden in Europe",
+          "score": 10
+        }
+      ],
+      "functions": [
+        {
+          "name": "Unclassified",
+          "description": "Unclassified"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 10,
+          "label": "\"Strong penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

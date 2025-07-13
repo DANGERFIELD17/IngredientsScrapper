@@ -1,0 +1,135 @@
+{
+  "ingredient": "Cocamide MEA",
+  "search_results": [
+    {
+      "identifier": "6801",
+      "inci_name": "COCAMIDE MEA"
+    },
+    {
+      "identifier": "19719",
+      "inci_name": "COCAMIDE METHYL MEA"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 6801,
+      "inci_name": "COCAMIDE MEA",
+      "name": "Cocamide MEA",
+      "description": "Cocamide MEA is a compound synthesized from coconut oil and ethanolamine. It is a non-ionic surfactant used to complement the action of anionics. It is also used as an emulsifying agent in cosmetics. It is prohibited in organic products.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "68140-00-1",
+      "einecs_elincs": "268-770-2",
+      "cosmetic_restriction": "",
+      "percentage": 2.2,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "16.66",
+          "count": 3887
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "6.49",
+          "count": 1159
+        },
+        {
+          "category_name": "Hair colouring",
+          "percentage": "15.47",
+          "count": 1117
+        },
+        {
+          "category_name": "Anti-dandruff shampoo",
+          "percentage": "22.44",
+          "count": 623
+        },
+        {
+          "category_name": "Liquid soap",
+          "percentage": "8.2",
+          "count": 482
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 21,
+          "name": "MEA",
+          "score": 5
+        },
+        {
+          "id": 40,
+          "name": "Nonionic surfactant",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Foam boosting",
+          "description": "Improves the quality of the foam produced by increasing one or more of the following properties: volume, texture and/or stability"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 19719,
+      "inci_name": "COCAMIDE METHYL MEA",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.06,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 21,
+          "name": "MEA",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Foam boosting",
+          "description": "Improves the quality of the foam produced by increasing one or more of the following properties: volume, texture and/or stability"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

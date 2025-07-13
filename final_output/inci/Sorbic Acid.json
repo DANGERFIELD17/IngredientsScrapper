@@ -1,0 +1,88 @@
+{
+  "ingredient": "Sorbic Acid",
+  "search_results": [
+    {
+      "identifier": "12512",
+      "inci_name": "SORBIC ACID"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 12512,
+      "inci_name": "SORBIC ACID",
+      "name": "Sorbic acid",
+      "description": "Sorbic acid is a preservative used in cosmetics and food (under the name E200). It is present in its natural state in the bays of the Sorbier des oiseaux (Sorbus aucuparia L., hence its name), from which it was isolated. It is authorized in organic.",
+      "regulation": "The maximum concentration allowed in ready-to-use cosmetic preparations is 0.6%.",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "110-44-1",
+      "einecs_elincs": "203-768-7",
+      "cosmetic_restriction": "V/4",
+      "percentage": 3.21,
+      "category_percentage": [
+        {
+          "category_name": "Nail polish",
+          "percentage": "11.07",
+          "count": 1000
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "3.78",
+          "count": 883
+        },
+        {
+          "category_name": "Eyeshadow",
+          "percentage": "8.5",
+          "count": 676
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "4.16",
+          "count": 642
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "3.35",
+          "count": 598
+        }
+      ],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Natural"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 35,
+          "name": "Preservative",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Preservative",
+          "description": "Inhibits the development of microorganisms in cosmetic products."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

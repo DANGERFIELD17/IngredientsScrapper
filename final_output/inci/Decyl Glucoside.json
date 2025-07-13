@@ -1,0 +1,87 @@
+{
+  "ingredient": "Decyl Glucoside",
+  "search_results": [
+    {
+      "identifier": "8027",
+      "inci_name": "DECYL GLUCOSIDE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 8027,
+      "inci_name": "DECYL GLUCOSIDE",
+      "name": "Decyl glucoside",
+      "description": "Decyl glucoside is a nonionic surfactant widely used in natural products. It is used most of the time as a co-surfactant with Coco Betaine (amphoteric surfactant) and Coco Glucoside (nonionic surfactant). Not very aggressive, it is made from sugar and coconut. It is suitable for the most sensitive skin like baby's. It is authorized in organic.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "54549-25-6; 58846-77-8; 141464-42-8; 68515-73-1",
+      "einecs_elincs": "259-218-1",
+      "cosmetic_restriction": "",
+      "percentage": 3.75,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "14.17",
+          "count": 3307
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "15.44",
+          "count": 2759
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "12.03",
+          "count": 1441
+        },
+        {
+          "category_name": "Face cleansing gel",
+          "percentage": "19.72",
+          "count": 613
+        },
+        {
+          "category_name": "Micellar water",
+          "percentage": "16.71",
+          "count": 553
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 40,
+          "name": "Nonionic surfactant",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "ingredient": "Sodium Cocoyl Glutamate",
+  "search_results": [
+    {
+      "identifier": "4721",
+      "inci_name": "SODIUM COCOYL GLUTAMATE"
+    },
+    {
+      "identifier": "26756",
+      "inci_name": "SODIUM COCOAMPHOACETATE (AND) GLYCERIN (AND) LAURYL GLUCOSIDE (AND) SODIUM COCOYL GLUTAMATE (AND) SODIUM LAURYL GLUCOSE CARBOXYLATE"
+    },
+    {
+      "identifier": "13217",
+      "inci_name": "SODIUM COCOYL HYDROLYZED WHEAT PROTEIN GLUTAMATE"
+    },
+    {
+      "identifier": "11393",
+      "inci_name": "SODIUM COCOYL/PALMOYL/SUNFLOWEROYL GLUTAMATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 4721,
+      "inci_name": "SODIUM COCOYL GLUTAMATE",
+      "name": "Sodium Cocoyl Glutamate",
+      "description": "Sodium Cocoyl Glutamate is made from coconut oil fatty acids and an amino acid, glutamate (present in the structural protein (collagen) of human skin). It is a rather mild anionic surfactant, used in organic formulas.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "68187-32-6",
+      "einecs_elincs": "269-087-2",
+      "cosmetic_restriction": "",
+      "percentage": 1.4,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "5.77",
+          "count": 1346
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "5.37",
+          "count": 959
+        },
+        {
+          "category_name": "Facial Cleansing Foam",
+          "percentage": "17.19",
+          "count": 284
+        },
+        {
+          "category_name": "Face cleansing gel",
+          "percentage": "8.88",
+          "count": 276
+        },
+        {
+          "category_name": "Adult toothpaste",
+          "percentage": "3.9",
+          "count": 275
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 37,
+          "name": "Anionic surfactant",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 26756,
+      "inci_name": "SODIUM COCOAMPHOACETATE (AND) GLYCERIN (AND) LAURYL GLUCOSIDE (AND) SODIUM COCOYL GLUTAMATE (AND) SODIUM LAURYL GLUCOSE CARBOXYLATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 13217,
+      "inci_name": "SODIUM COCOYL HYDROLYZED WHEAT PROTEIN GLUTAMATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [],
+      "families": [
+        {
+          "id": 28,
+          "name": "Gluten",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foam boosting",
+          "description": "Improves the quality of the foam produced by increasing one or more of the following properties: volume, texture and/or stability"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 11393,
+      "inci_name": "SODIUM COCOYL/PALMOYL/SUNFLOWEROYL GLUTAMATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

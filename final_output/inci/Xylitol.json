@@ -1,0 +1,159 @@
+{
+  "ingredient": "Xylitol",
+  "search_results": [
+    {
+      "identifier": "7769",
+      "inci_name": "XYLITOL"
+    },
+    {
+      "identifier": "19583",
+      "inci_name": "XYLITYLGLUCOSIDE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 7769,
+      "inci_name": "XYLITOL",
+      "name": "Birch sugar",
+      "description": "Xylitol is also called birch sugar because it is mainly obtained from the bark of this tree. Nevertheless, one can find a little everywhere (ears of corn, bark of coconut and in some fruits ...). It is a sweetener whose sweetening power is equivalent to that of sugar (sucrose), but with 2 times less calories (2.4 kcal / g against 4.0 kcal / g for sugar). In cosmetics, it is used as humectant and in toothpastes one appreciates its sweet taste. The ingredient is not cariogenic (caries generator, as can sugar). Xylitol also has a very low glycemic index which makes it a major asset against hyperglycemia, for example. It is used in food under the name E967.\r\n\r\nStudies have also shown that used over a long period, it can have an anti caries incidence, increasing salivary flow and pH while reducing the number of cariogenic bacteria and periodontopathogens.",
+      "regulation": "",
+      "reference": "Nayak PA, Nayak UA, Khandelwal V. The effect of xylitol on dental caries and oral\r\nflora. Clin Cosmet Investig Dent. (2014)",
+      "cheminical_iupac_name": "",
+      "cas": "87-99-0",
+      "einecs_elincs": "201-788-0",
+      "cosmetic_restriction": "",
+      "percentage": 1.65,
+      "category_percentage": [
+        {
+          "category_name": "Adult toothpaste",
+          "percentage": "15.1",
+          "count": 1065
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "4.67",
+          "count": 524
+        },
+        {
+          "category_name": "Mouthwash",
+          "percentage": "19.09",
+          "count": 336
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "1.28",
+          "count": 298
+        },
+        {
+          "category_name": "Children toothpaste",
+          "percentage": "28.85",
+          "count": 279
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Anti dandruff",
+          "description": "Helps fight against dandruff"
+        },
+        {
+          "name": "Deodorant",
+          "description": "Reduces or masks unpleasant body odors"
+        },
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Flavouring agent",
+          "description": "Gives an aroma to the cosmetic product"
+        },
+        {
+          "name": "Skin conditioning - humectant",
+          "description": "Increasing the water content of the top layers of the skin. Humectants are primarily hygroscopic agents drawing moisture from the surrounding air."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 19583,
+      "inci_name": "XYLITYLGLUCOSIDE",
+      "name": "Derived from Xylitol",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.8,
+      "category_percentage": [
+        {
+          "category_name": "Face cream",
+          "percentage": "3.87",
+          "count": 434
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.83",
+          "count": 193
+        },
+        {
+          "category_name": "Face moisturizing serum",
+          "percentage": "3.72",
+          "count": 171
+        },
+        {
+          "category_name": "Fabric mask",
+          "percentage": "3.4",
+          "count": 171
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "0.9",
+          "count": 139
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

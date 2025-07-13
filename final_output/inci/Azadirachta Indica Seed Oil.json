@@ -1,0 +1,50 @@
+{
+  "ingredient": "Azadirachta Indica Seed Oil",
+  "search_results": [
+    {
+      "identifier": "27411",
+      "inci_name": "AZADIRACHTA INDICA SEED OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 27411,
+      "inci_name": "AZADIRACHTA INDICA SEED OIL",
+      "name": "Neem seed oil",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "8002-65-1,84696-25-3",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

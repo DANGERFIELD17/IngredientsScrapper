@@ -1,0 +1,135 @@
+{
+  "ingredient": "Tea Tree Oil",
+  "search_results": [
+    {
+      "identifier": "8091",
+      "inci_name": "MELALEUCA ALTERNIFOLIA LEAF OIL"
+    },
+    {
+      "identifier": "715",
+      "inci_name": "LEPTOSPERMUM PETERSONII OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 8091,
+      "inci_name": "MELALEUCA ALTERNIFOLIA LEAF OIL",
+      "name": "Tea tree leaf oil",
+      "description": "Melaleuca alternifolia, commonly known as tea tree, is a species of tree or tall shrub in the myrtle family, Myrtaceae. Endemic to Australia, it occurs in southeast Queensland and the north coast and adjacent ranges of New South Wales where it grows along streams and on swampy flats, and is often the dominant species where it occurs.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "8022-72-8/ 68647-73-4",
+      "einecs_elincs": "-/ -",
+      "cosmetic_restriction": "",
+      "percentage": 1.53,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "1.64",
+          "count": 382
+        },
+        {
+          "category_name": "Creams / care",
+          "percentage": "11.95",
+          "count": 189
+        },
+        {
+          "category_name": "Adult toothpaste",
+          "percentage": "2.66",
+          "count": 188
+        },
+        {
+          "category_name": "Anti-dandruff shampoo",
+          "percentage": "5.98",
+          "count": 166
+        },
+        {
+          "category_name": "Solid soap",
+          "percentage": "1.9",
+          "count": 164
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antioxidant",
+          "description": "Inhibits reactions favored by oxygen, thus avoiding oxidation and rancidity"
+        },
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Skin protecting",
+          "description": "Helps to avoid the harmful effects of external factors on the skin"
+        },
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        },
+        {
+          "name": "Skin conditioning - miscellaneous",
+          "description": "Improving the appearance of dry and/or damaged skin by reducing flaking and restoring its suppleness."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 715,
+      "inci_name": "LEPTOSPERMUM PETERSONII OIL",
+      "name": "Lemon Tea tree oil",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "85085-43-4",
+      "einecs_elincs": "285-372-4",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

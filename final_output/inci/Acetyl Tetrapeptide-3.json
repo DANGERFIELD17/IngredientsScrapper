@@ -1,0 +1,40 @@
+{
+  "ingredient": "Acetyl Tetrapeptide-3",
+  "search_results": [
+    {
+      "identifier": "4360",
+      "inci_name": "ACETYL TETRAPEPTIDE-3"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 4360,
+      "inci_name": "ACETYL TETRAPEPTIDE-3",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.07,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin protecting",
+          "description": "Helps to avoid the harmful effects of external factors on the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

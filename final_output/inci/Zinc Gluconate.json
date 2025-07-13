@@ -1,0 +1,91 @@
+{
+  "ingredient": "Zinc Gluconate",
+  "search_results": [
+    {
+      "identifier": "17062",
+      "inci_name": "ZINC GLUCONATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 17062,
+      "inci_name": "ZINC GLUCONATE",
+      "name": "Zinc gluconate",
+      "description": "Zinc Gluconate is used in cosmetics for its antiseptic and astringent properties. It is often used in acne treatment products, it accelerates the healing of wounds and helps the body to transform essential fatty acids used by the skin for healing. It is also found in deodorants and toothpastes.",
+      "regulation": "The maximum permissible concentration in cosmetics is as follows: 1% (in zinc).",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "4468-02-4",
+      "einecs_elincs": "224-736-9",
+      "cosmetic_restriction": "III/24",
+      "percentage": 0.63,
+      "category_percentage": [
+        {
+          "category_name": "Face cream",
+          "percentage": "1.99",
+          "count": 223
+        },
+        {
+          "category_name": "Face cleansing gel",
+          "percentage": "4.86",
+          "count": 151
+        },
+        {
+          "category_name": "Adult toothpaste",
+          "percentage": "1.83",
+          "count": 129
+        },
+        {
+          "category_name": "Creams / care",
+          "percentage": "7.33",
+          "count": 116
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.48",
+          "count": 112
+        }
+      ],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Synthetic"
+        },
+        {
+          "name": "Mineral"
+        }
+      ],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antimicrobial",
+          "description": "Helps slowing the growth of micro-organisms on the skin and counteracts the development of microbes"
+        },
+        {
+          "name": "Deodorant",
+          "description": "Reduces or masks unpleasant body odors"
+        },
+        {
+          "name": "Oral care/hygiene agent",
+          "description": "Provides cosmetic effects to the oral cavity (cleaning, deodorization and protection)"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

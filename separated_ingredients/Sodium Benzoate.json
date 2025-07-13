@@ -1,4 +1,0 @@
-{
-  "ingredient": "Sodium Benzoate",
-  "error": "Error searching for Sodium Benzoate: HTTPSConnectionPool(host='api.incibeauty.com', port=443): Max retries exceeded with url: /ingredient/search/Sodium%20Benzoate?accessKeyId=09f4844a6b23c229&hmac=2d7b6db9fe2619df21fc83efa95a6777ce7c468ded62eab631ddc2b2100fec3b (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000126F3CB20D0>: Failed to resolve 'api.incibeauty.com' ([Errno 11001] getaddrinfo failed)\"))"
-}

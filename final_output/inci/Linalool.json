@@ -1,0 +1,567 @@
+{
+  "ingredient": "Linalool",
+  "search_results": [
+    {
+      "identifier": "15282",
+      "inci_name": "LINALOOL"
+    },
+    {
+      "identifier": "1754",
+      "inci_name": "CINNAMOMUM CAMPHORA LINALOOLIFERUM WOOD OIL"
+    },
+    {
+      "identifier": "20393",
+      "inci_name": "ETHYL LINALOOL"
+    },
+    {
+      "identifier": "11617",
+      "inci_name": "CINNAMOMUM CAMPHORA LINALOOLIFERUM LEAF OIL"
+    },
+    {
+      "identifier": "10581",
+      "inci_name": "CINNAMOMUM CAMPHORA LINALOOLIFERUM WOOD EXTRACT"
+    },
+    {
+      "identifier": "40658",
+      "inci_name": "CINNAMOMUM CAMPHORA LINALOOLIFERA LEAF OIL"
+    },
+    {
+      "identifier": "131329",
+      "inci_name": "METHYL LINALOOL"
+    },
+    {
+      "identifier": "17979",
+      "inci_name": "CINNAMOMUM CAMPHORA LINALOOLIFERUM LEAF EXTRACT"
+    },
+    {
+      "identifier": "14435",
+      "inci_name": "LINALOOL ACID ISOMERIZED"
+    },
+    {
+      "identifier": "5848",
+      "inci_name": "LINALOOL DIHYDROEPOXIDE"
+    },
+    {
+      "identifier": "20246",
+      "inci_name": "CINNAMOMUM CAMPHORA LINALOOLIFERUM ROOT OIL"
+    },
+    {
+      "identifier": "3662",
+      "inci_name": "LINALOOL OXIDE"
+    },
+    {
+      "identifier": "6185",
+      "inci_name": "GERANYL LINALOOL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 15282,
+      "inci_name": "LINALOOL",
+      "name": "Linalool",
+      "description": "Linalool is an aromatic compound classified as a regulated allergen by Europe. It is naturally present in essential oils of thyme, lavender, lavandin, Scots pine or peppermint... It is also found in many extracts (lemon, orange, verbena...).",
+      "regulation": "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19 (1) (g) when its concentration is greater:\r\n- to 0,001% in products without rinsing\r\n- to 0,01% in the products to be rinsed",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "78-70-6",
+      "einecs_elincs": "201-134-4",
+      "cosmetic_restriction": "III/84",
+      "percentage": 30.76,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "43.61",
+          "count": 10177
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "43.07",
+          "count": 7695
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "48.91",
+          "count": 7553
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "46.11",
+          "count": 5077
+        },
+        {
+          "category_name": "Perfume for women",
+          "percentage": "91.65",
+          "count": 4742
+        }
+      ],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Natural"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 4,
+          "name": "Allergen",
+          "score": 2
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 30,
+          "name": "Alcohol",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Deodorant",
+          "description": "Reduces or masks unpleasant body odors"
+        },
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ],
+      "special_mentions": [
+        {
+          "icon": "https://incibeauty.com/img/icon/ic_water_circle_filled_green@64.png",
+          "label": "Bonus if present in essential oils"
+        }
+      ]
+    },
+    {
+      "id": 1754,
+      "inci_name": "CINNAMOMUM CAMPHORA LINALOOLIFERUM WOOD OIL",
+      "name": "Hô wood essential oil",
+      "description": "Cinnamomum camphora is a species of evergreen tree that is commonly known under the names camphor tree, camphorwood or camphor laurel.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "91745-89-0",
+      "einecs_elincs": "294-760-2",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20393,
+      "inci_name": "ETHYL LINALOOL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "10339-55-6",
+      "einecs_elincs": "233-732-6",
+      "cosmetic_restriction": "",
+      "percentage": 0.02,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 11617,
+      "inci_name": "CINNAMOMUM CAMPHORA LINALOOLIFERUM LEAF OIL",
+      "name": null,
+      "description": "Cinnamomum camphora is a species of evergreen tree that is commonly known under the names camphor tree, camphorwood or camphor laurel.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "91745-89-0",
+      "einecs_elincs": "294-760-2",
+      "cosmetic_restriction": "III/84",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 10581,
+      "inci_name": "CINNAMOMUM CAMPHORA LINALOOLIFERUM WOOD EXTRACT",
+      "name": null,
+      "description": "Cinnamomum camphora is a species of evergreen tree that is commonly known under the names camphor tree, camphorwood or camphor laurel.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "91745-89-0",
+      "einecs_elincs": "294-760-2",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 40658,
+      "inci_name": "CINNAMOMUM CAMPHORA LINALOOLIFERA LEAF OIL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 131329,
+      "inci_name": "METHYL LINALOOL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "10339-55-6",
+      "einecs_elincs": "233-732-6",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 17979,
+      "inci_name": "CINNAMOMUM CAMPHORA LINALOOLIFERUM LEAF EXTRACT",
+      "name": null,
+      "description": "Cinnamomum camphora is a species of evergreen tree that is commonly known under the names camphor tree, camphorwood or camphor laurel.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "91745-89-0",
+      "einecs_elincs": "294-760-2",
+      "cosmetic_restriction": "III/84",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 14435,
+      "inci_name": "LINALOOL ACID ISOMERIZED",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "73018-51-6",
+      "einecs_elincs": "277-225-8",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 5848,
+      "inci_name": "LINALOOL DIHYDROEPOXIDE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1365-19-1",
+      "einecs_elincs": "215-723-9",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20246,
+      "inci_name": "CINNAMOMUM CAMPHORA LINALOOLIFERUM ROOT OIL",
+      "name": "",
+      "description": "This ingredient is banned by default in Europe except under the following conditions of use:\r\n- the content of Safrole in the finished product cannot exceed 100ppm\r\n- the safrole content in dental and oral hygiene products must not exceed 50ppm\r\n- Forbidden in children's toothpaste.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "91745-89-0",
+      "einecs_elincs": "294-760-2",
+      "cosmetic_restriction": "II/360 R3",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 3662,
+      "inci_name": "LINALOOL OXIDE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1365-19-1 / 60047-17-8",
+      "einecs_elincs": "215-723-9  / 262-038-6",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 6185,
+      "inci_name": "GERANYL LINALOOL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1113-21-9",
+      "einecs_elincs": "214-201-8",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,0 @@
-{
-  "ingredient": "Rosemary Oil",
-  "error": "Error searching for Rosemary Oil: 429 Client Error: Too Many Requests for url: https://api.incibeauty.com/ingredient/search/Rosemary%20Oil?accessKeyId=d5ae0e8abc0cc240&hmac=7cb26d44c8c9f3878eec54c839fb97a803b7504d65431f4cc63f573b1218ac68"
-}

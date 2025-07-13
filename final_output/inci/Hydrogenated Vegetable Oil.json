@@ -1,0 +1,80 @@
+{
+  "ingredient": "Hydrogenated Vegetable Oil",
+  "search_results": [
+    {
+      "identifier": "15969",
+      "inci_name": "HYDROGENATED VEGETABLE OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 15969,
+      "inci_name": "HYDROGENATED VEGETABLE OIL",
+      "name": "Hydrogenated Vegetable oil",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "68334-28-1",
+      "einecs_elincs": "269-820-6",
+      "cosmetic_restriction": "",
+      "percentage": 1.4,
+      "category_percentage": [
+        {
+          "category_name": "Lipstick",
+          "percentage": "4.8",
+          "count": 566
+        },
+        {
+          "category_name": "Lip pencil",
+          "percentage": "20.87",
+          "count": 446
+        },
+        {
+          "category_name": "Solid shampoo",
+          "percentage": "19.25",
+          "count": 348
+        },
+        {
+          "category_name": "Eyebrow pencil",
+          "percentage": "24.76",
+          "count": 315
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "2.01",
+          "count": 311
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

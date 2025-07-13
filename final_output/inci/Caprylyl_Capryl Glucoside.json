@@ -1,0 +1,179 @@
+{
+  "ingredient": "Caprylyl_Capryl Glucoside",
+  "search_results": [
+    {
+      "identifier": "7742",
+      "inci_name": "CAPRYLYL/CAPRYL GLUCOSIDE"
+    },
+    {
+      "identifier": "5841",
+      "inci_name": "CAPRYLYL DIMETHICONE ETHOXY GLUCOSIDE"
+    },
+    {
+      "identifier": "8002",
+      "inci_name": "CAPRYLYL GLUCOSIDE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 7742,
+      "inci_name": "CAPRYLYL/CAPRYL GLUCOSIDE",
+      "name": "Caprylyl/capryl Glucoside",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "68515-73-1",
+      "einecs_elincs": "500-220-1",
+      "cosmetic_restriction": "",
+      "percentage": 1.54,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "4.11",
+          "count": 960
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "4.66",
+          "count": 833
+        },
+        {
+          "category_name": "Micellar water",
+          "percentage": "15.48",
+          "count": 513
+        },
+        {
+          "category_name": "Face Lotion and Toner",
+          "percentage": "6.08",
+          "count": 310
+        },
+        {
+          "category_name": "Hair colouring",
+          "percentage": "2.74",
+          "count": 198
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [
+        {
+          "id": 40,
+          "name": "Nonionic surfactant",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foaming",
+          "description": "Capturing small air bubbles or other gases in a small volume of liquid by changing the surface tension of the liquid"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 5841,
+      "inci_name": "CAPRYLYL DIMETHICONE ETHOXY GLUCOSIDE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.05,
+      "category_percentage": [
+        {
+          "category_name": "Foundation",
+          "percentage": "1.11",
+          "count": 116
+        },
+        {
+          "category_name": "Concealer / Concealer ",
+          "percentage": "1.79",
+          "count": 44
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 8002,
+      "inci_name": "CAPRYLYL GLUCOSIDE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "29836-26-8",
+      "einecs_elincs": "249-887-8",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ingredient": "Potassium Citrate",
+  "search_results": [
+    {
+      "identifier": "11415",
+      "inci_name": "POTASSIUM CITRATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 11415,
+      "inci_name": "POTASSIUM CITRATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "866-84-2",
+      "einecs_elincs": "212-755-5",
+      "cosmetic_restriction": "",
+      "percentage": 0.14,
+      "category_percentage": [
+        {
+          "category_name": "Adult toothpaste",
+          "percentage": "4.12",
+          "count": 291
+        },
+        {
+          "category_name": "Mouthwash",
+          "percentage": "2.78",
+          "count": 49
+        },
+        {
+          "category_name": "Mask / Patch",
+          "percentage": "4.98",
+          "count": 48
+        },
+        {
+          "category_name": "Liquid soap",
+          "percentage": "0.75",
+          "count": 44
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "pH regulator",
+          "description": "Stabilises the pH of cosmetics"
+        },
+        {
+          "name": "Chelating",
+          "description": "Reacts and forms complexes with metal ions that could affect the stability and / or appearance of cosmetic products"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

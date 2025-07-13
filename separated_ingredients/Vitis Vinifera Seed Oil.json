@@ -1,4 +1,0 @@
-{
-  "ingredient": "Vitis Vinifera Seed Oil",
-  "error": "Error searching for Vitis Vinifera Seed Oil: HTTPSConnectionPool(host='api.incibeauty.com', port=443): Max retries exceeded with url: /ingredient/search/Vitis%20Vinifera%20Seed%20Oil?accessKeyId=09f4844a6b23c229&hmac=17f9e932fc61c842332a8b9b9bf8b2b899da29e8391cf58f3c9818c54bf3d92d (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000126F3CB3110>: Failed to resolve 'api.incibeauty.com' ([Errno 11001] getaddrinfo failed)\"))"
-}

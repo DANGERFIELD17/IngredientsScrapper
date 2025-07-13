@@ -1,0 +1,80 @@
+{
+  "ingredient": "Glyceryl Monostearate",
+  "search_results": [
+    {
+      "identifier": "12093",
+      "inci_name": "GLYCERYL STEARATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 12093,
+      "inci_name": "GLYCERYL STEARATE",
+      "name": "Glyceryl stearate",
+      "description": "Glycerol stearate is used as a non-ionic emulsifier or emollient in cosmetic products. It is widely used in moisturizers and is also found in hair care products for its antistatic properties. It can be derived from palm, olive or rapeseed oil... It is  confirmed organic.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "31566-31-1",
+      "einecs_elincs": "250-705-4/286-490-9",
+      "cosmetic_restriction": "",
+      "percentage": 12.15,
+      "category_percentage": [
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "42.65",
+          "count": 6586
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "36.13",
+          "count": 4051
+        },
+        {
+          "category_name": "Hand cream",
+          "percentage": "47.32",
+          "count": 3780
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "28.73",
+          "count": 3442
+        },
+        {
+          "category_name": "Anti-aging day face cream",
+          "percentage": "41.68",
+          "count": 2084
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 40,
+          "name": "Nonionic surfactant",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

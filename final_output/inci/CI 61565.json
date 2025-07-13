@@ -1,0 +1,81 @@
+{
+  "ingredient": "CI 61565",
+  "search_results": [
+    {
+      "identifier": "9788",
+      "inci_name": "CI 61565"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 9788,
+      "inci_name": "CI 61565",
+      "name": "Green dye",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "128-80-3",
+      "einecs_elincs": "204-909-5",
+      "cosmetic_restriction": "IV/91 (CI 61565)\r\nII/1364 (Solvent Green 3; CI 61565: when used as a substance in hair dye products)",
+      "percentage": 0.27,
+      "category_percentage": [
+        {
+          "category_name": "Cleansing lotion",
+          "percentage": "19.2",
+          "count": 206
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "1.41",
+          "count": 89
+        },
+        {
+          "category_name": "Hair oil",
+          "percentage": "3.77",
+          "count": 87
+        },
+        {
+          "category_name": "Micellar water",
+          "percentage": "2.39",
+          "count": 79
+        },
+        {
+          "category_name": "Nail polish",
+          "percentage": "0.8",
+          "count": 72
+        }
+      ],
+      "score": 3,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 23,
+          "name": "Synthetic dye",
+          "score": 3
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cosmetic colorant",
+          "description": "Color cosmetics and / or give a color to the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 3,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

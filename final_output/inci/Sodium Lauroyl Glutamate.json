@@ -1,0 +1,87 @@
+{
+  "ingredient": "Sodium Lauroyl Glutamate",
+  "search_results": [
+    {
+      "identifier": "15049",
+      "inci_name": "SODIUM LAUROYL GLUTAMATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 15049,
+      "inci_name": "SODIUM LAUROYL GLUTAMATE",
+      "name": "Sodium Lauroyl Glutamate",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "29923-31-7 / 29923-34-0 / 42926-22-7 / 98984-78-2",
+      "einecs_elincs": "249-958-3 / - / - / -",
+      "cosmetic_restriction": "",
+      "percentage": 0.75,
+      "category_percentage": [
+        {
+          "category_name": "Shower gel",
+          "percentage": "2",
+          "count": 357
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "1.29",
+          "count": 301
+        },
+        {
+          "category_name": "Foundation",
+          "percentage": "1.97",
+          "count": 205
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "0.78",
+          "count": 121
+        },
+        {
+          "category_name": "Liquid soap",
+          "percentage": "1.72",
+          "count": 101
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 37,
+          "name": "Anionic surfactant",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

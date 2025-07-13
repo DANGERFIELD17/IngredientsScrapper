@@ -1,0 +1,61 @@
+{
+  "ingredient": "Biotinoyl Tripeptide-1",
+  "search_results": [
+    {
+      "identifier": "11667",
+      "inci_name": "BIOTINOYL TRIPEPTIDE-1"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 11667,
+      "inci_name": "BIOTINOYL TRIPEPTIDE-1",
+      "name": "Biotinoyl Tripeptide-1",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.17,
+      "category_percentage": [
+        {
+          "category_name": "Mascara",
+          "percentage": "4.2",
+          "count": 134
+        },
+        {
+          "category_name": "Eyelashes and eyebrows care",
+          "percentage": "31.11",
+          "count": 98
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.3",
+          "count": 69
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "0.87",
+          "count": 55
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

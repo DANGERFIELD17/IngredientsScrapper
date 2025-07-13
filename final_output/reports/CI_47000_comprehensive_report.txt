@@ -1,0 +1,174 @@
+COMPREHENSIVE CI 47000 REPORT
+=================================
+
+🧪 INGREDIENT OVERVIEW
+-----------------------
+- INCI Name: CI 47000
+- CAS Number: 8003-22-3
+- Function(s): Cosmetic colorant, Hair dyeing
+- Origin: Synthetic
+- Description: 
+
+⚠️ SAFETY INFORMATION
+----------------------
+- Safety Score: 3
+- Assessment: "Low penalty" in all categories.
+
+📊 PRODUCT USAGE DATA
+-----------------------
+- Nail polish: 5.49% (n=496)
+- Hair oil: 8.75% (n=202)
+- Specific hair care: 1.85% (n=117)
+- Moisturizing oil for the body and face: 1.5% (n=79)
+- Semi permanent polish: 5.54% (n=50)
+
+📈 REDDIT COMMUNITY ANALYSIS
+-----------------------------
+================================================================================
+COMPREHENSIVE CI 47000 ANALYSIS REPORT
+================================================================================
+Generated: 2025-07-13 17:50:23
+
+OVERVIEW:
+Ingredient Analyzed: CI 47000
+Total Posts Analyzed: 139
+Posts with Comments: 130
+Comment Coverage: 93.5%
+
+POSITIVE BENEFITS ANALYSIS:
+--------------------------------------------------
+Total Positive Statements: 0
+Key Positive Themes:
+
+NEGATIVE CONS ANALYSIS:
+--------------------------------------------------
+Total Negative Statements: 0
+Key Negative Themes:
+
+DOSAGE EFFECTIVENESS ANALYSIS:
+--------------------------------------------------
+Total Dosage Statements: 2
+Dosage Insights:
+  • Percentage-Based Dosage: 2 mentions
+
+Most Common Dosages:
+  • 21 %: 1 mentions
+
+CATEGORY BREAKDOWN:
+--------------------------------------------------
+Treatment Experiences: 84 posts (60.4%)
+Product Recommendations: 98 posts (70.5%)
+Progress Report: 62 posts (44.6%)
+Combination Therapy: 130 posts (93.5%)
+Humor Meme: 55 posts (39.6%)
+Seeking Advice: 114 posts (82.0%)
+Ingredient Usage Patterns: 47 posts (33.8%)
+Side Effects: 39 posts (28.1%)
+Scientific Discussion: 18 posts (12.9%)
+Dosage Questions: 25 posts (18.0%)
+
+TOP INGREDIENT COMBINATIONS:
+--------------------------------------------------
+  • peptides, retinol, spf, sunscreen: 1 posts
+  • min, retinol: 1 posts
+  • iron, sunscreen: 1 posts
+  • collagen, retinol, sunscreen: 1 posts
+
+TOP INGREDIENTS MENTIONED IN COMMENTS:
+--------------------------------------------------
+  • iron: 4 mentions
+  • retinol: 3 mentions
+  • sunscreen: 3 mentions
+  • spf: 1 mentions
+  • peptides: 1 mentions
+  • min: 1 mentions
+  • collagen: 1 mentions
+
+TOP BRANDS MENTIONED:
+--------------------------------------------------
+  • costco: 1 mentions
+  • neutrogena: 1 mentions
+
+PRODUCT FORMS:
+--------------------------------------------------
+  • drops: 8 mentions
+  • patch: 7 mentions
+  • oil: 5 mentions
+  • cream: 4 mentions
+  • powder: 3 mentions
+  • liquid: 3 mentions
+  • lotion: 2 mentions
+  • gel: 2 mentions
+  • patches: 2 mentions
+  • serum: 1 mentions
+
+BODY PARTS WHERE CI 47000 IS USED:
+--------------------------------------------------
+  • skin: 11 mentions
+  • head: 6 mentions
+  • face: 5 mentions
+  • hair: 5 mentions
+  • nails: 3 mentions
+  • temples: 2 mentions
+  • nail: 2 mentions
+  • fine lines: 1 mentions
+  • mustache: 1 mentions
+
+SENTIMENT ANALYSIS:
+--------------------------------------------------
+Positive sentiment keywords: 193 (65.6%)
+Negative sentiment keywords: 101 (34.4%)
+Overall sentiment: POSITIVE
+
+SENTIMENT INDICATORS:
+--------------------------------------------------
+Positive sentiment posts: 65
+Negative sentiment posts: 19
+
+TEMPORAL PATTERNS:
+--------------------------------------------------
+2011: 2 posts
+2013: 4 posts
+2014: 6 posts
+2015: 6 posts
+2016: 4 posts
+2017: 3 posts
+2018: 2 posts
+2019: 8 posts
+2020: 5 posts
+2021: 18 posts
+2022: 7 posts
+2023: 19 posts
+2024: 25 posts
+2025: 30 posts
+
+SUBREDDIT DISTRIBUTION:
+--------------------------------------------------
+minecraftsuggestions: 9 posts (6.5%)
+swtor: 6 posts (4.3%)
+2007scape: 5 posts (3.6%)
+todayilearned: 4 posts (2.9%)
+ffxiv: 4 posts (2.9%)
+PhoenixSC: 3 posts (2.2%)
+shittymcsuggestions: 3 posts (2.2%)
+FFXIVGlamours: 3 posts (2.2%)
+Guildwars2: 3 posts (2.2%)
+RainbowHigh: 3 posts (2.2%)
+Damnthatsinteresting: 2 posts (1.4%)
+RunningShoeGeeks: 2 posts (1.4%)
+Baking: 2 posts (1.4%)
+watercooling: 2 posts (1.4%)
+AskCulinary: 2 posts (1.4%)
+PewdiepieSubmissions: 1 posts (0.7%)
+gifs: 1 posts (0.7%)
+news: 1 posts (0.7%)
+beautytalkph: 1 posts (0.7%)
+Pickles: 1 posts (0.7%)
+
+KEY INSIGHTS:
+--------------------------------------------------
+• 21 % is the most commonly mentioned dosage
+• costco is the most trusted brand (1 mentions)
+• 2.9% of posts discuss CI 47000 in combination with other treatments
+• drops form is the most popular product form (8 mentions)
+• skin is the primary usage area (11 mentions)

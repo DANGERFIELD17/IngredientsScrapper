@@ -1,0 +1,80 @@
+{
+  "ingredient": "Quaternium-80",
+  "search_results": [
+    {
+      "identifier": "14455",
+      "inci_name": "QUATERNIUM-80"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 14455,
+      "inci_name": "QUATERNIUM-80",
+      "name": "Quaternium-80",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "134737-05-6",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.39,
+      "category_percentage": [
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "2.57",
+          "count": 283
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "3.32",
+          "count": 231
+        },
+        {
+          "category_name": "Hair colouring",
+          "percentage": "3.09",
+          "count": 223
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.9",
+          "count": 209
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "3.29",
+          "count": 208
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

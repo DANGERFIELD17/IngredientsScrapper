@@ -1,0 +1,88 @@
+{
+  "ingredient": "Dicetyldimonium Chloride",
+  "search_results": [
+    {
+      "identifier": "11143",
+      "inci_name": "DICETYLDIMONIUM CHLORIDE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 11143,
+      "inci_name": "DICETYLDIMONIUM CHLORIDE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1812-53-9",
+      "einecs_elincs": "217-325-0",
+      "cosmetic_restriction": "",
+      "percentage": 0.22,
+      "category_percentage": [
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "4.89",
+          "count": 538
+        },
+        {
+          "category_name": "Hair colouring",
+          "percentage": "2.23",
+          "count": 161
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "1.91",
+          "count": 133
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "0.98",
+          "count": 62
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.2",
+          "count": 47
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

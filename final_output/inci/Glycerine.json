@@ -1,0 +1,108 @@
+{
+  "ingredient": "Glycerine",
+  "search_results": [
+    {
+      "identifier": "6832",
+      "inci_name": "GLYCERIN"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 6832,
+      "inci_name": "GLYCERIN",
+      "name": "Glycerin",
+      "description": "Glycerol or glycerol is part of the family of polyalcohols, it can be produced synthetically from petroleum derivatives, or from animal or vegetable fats by saponification. It is in the form of a colorless liquid, hygroscopic (which absorbs moisture) and syrupy.\r\n\r\nGlycerine is used for its high moisturizing, occlusive (protects the skin of aggressions), emollient (smooth skin and hair) or humectant (allows a product to maintain its fluid appearance).\r\n\r\nIt has been demonstrated (2005, Andersen) that it has anti-inflammatory power when incorporated into potentially irritating products, such as those using Sodium lauryl sulfate.",
+      "regulation": "",
+      "reference": "Interchimie - https://www.interchimie.fr/wp-content/uploads/GLYCERINE56-81-5.pdf\r\n\r\nPubchem - https://pubchem.ncbi.nlm.nih.gov/compound/Glycerol",
+      "cheminical_iupac_name": "",
+      "cas": "56-81-5",
+      "einecs_elincs": "200-289-5",
+      "cosmetic_restriction": "",
+      "percentage": 55.64,
+      "category_percentage": [
+        {
+          "category_name": "Shower gel",
+          "percentage": "81.79",
+          "count": 14615
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "62.04",
+          "count": 14479
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "87.83",
+          "count": 13562
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "89.79",
+          "count": 10066
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "70.76",
+          "count": 8479
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Animal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Denaturant",
+          "description": "Makes cosmetics unpleasant. Mainly added to cosmetics containing ethyl alcohol"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Oral care/hygiene agent",
+          "description": "Provides cosmetic effects to the oral cavity (cleaning, deodorization and protection)"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Skin protecting",
+          "description": "Helps to avoid the harmful effects of external factors on the skin"
+        },
+        {
+          "name": "Solvent",
+          "description": "Dissolves other substances"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        },
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

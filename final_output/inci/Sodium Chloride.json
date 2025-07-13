@@ -1,0 +1,348 @@
+{
+  "ingredient": "Sodium Chloride",
+  "search_results": [
+    {
+      "identifier": "12436",
+      "inci_name": "SODIUM CHLORIDE"
+    },
+    {
+      "identifier": "6486",
+      "inci_name": "SODIUM COCAMIDOPROPYL PG-DIMONIUM CHLORIDE PHOSPHATE"
+    },
+    {
+      "identifier": "5539",
+      "inci_name": "SODIUM COCO PG-DIMONIUM CHLORIDE PHOSPHATE"
+    },
+    {
+      "identifier": "12720",
+      "inci_name": "SODIUM GRAPESEEDAMIDOPROPYL PG-DIMONIUM CHLORIDE PHOSPHATE"
+    },
+    {
+      "identifier": "3292",
+      "inci_name": "SODIUM BORAGEAMIDOPROPYL PG-DIMONIUM CHLORIDE PHOSPHATE"
+    },
+    {
+      "identifier": "20717",
+      "inci_name": "SODIUM DILINOLEAMIDOPROPYL PG-DIMONIUM CHLORIDE PHOSPHATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 12436,
+      "inci_name": "SODIUM CHLORIDE",
+      "name": "Sodium chloride",
+      "description": "Sodium chloride is a sodium salt also known as table salt, commonly used in food for salting food. It is the basic material in the chemical industry to produce soda and chlorine. In cosmetics, it is often used as a thickener in shampoos and shower gels or in oral preparations to clean and eliminate odors. Table salt (depending on the concentration used) may tend in some cases to dry the skin and irritate the scalp. Sodium chloride is allowed in organic.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "7647-14-5",
+      "einecs_elincs": "231-598-3",
+      "cosmetic_restriction": "",
+      "percentage": 18.55,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "75.1",
+          "count": 17527
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "79.64",
+          "count": 14230
+        },
+        {
+          "category_name": "Solid soap",
+          "percentage": "61.92",
+          "count": 5339
+        },
+        {
+          "category_name": "Foundation",
+          "percentage": "42.67",
+          "count": 4442
+        },
+        {
+          "category_name": "Liquid soap",
+          "percentage": "71.03",
+          "count": 4177
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Synthetic"
+        },
+        {
+          "name": "Mineral"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Bulking",
+          "description": "Reduces apparent cosmetics density."
+        },
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Oral care/hygiene agent",
+          "description": "Provides cosmetic effects to the oral cavity (cleaning, deodorization and protection)"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 6486,
+      "inci_name": "SODIUM COCAMIDOPROPYL PG-DIMONIUM CHLORIDE PHOSPHATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foam boosting",
+          "description": "Improves the quality of the foam produced by increasing one or more of the following properties: volume, texture and/or stability"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 5539,
+      "inci_name": "SODIUM COCO PG-DIMONIUM CHLORIDE PHOSPHATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "223707-61-7",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foam boosting",
+          "description": "Improves the quality of the foam produced by increasing one or more of the following properties: volume, texture and/or stability"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 12720,
+      "inci_name": "SODIUM GRAPESEEDAMIDOPROPYL PG-DIMONIUM CHLORIDE PHOSPHATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 3292,
+      "inci_name": "SODIUM BORAGEAMIDOPROPYL PG-DIMONIUM CHLORIDE PHOSPHATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "226995-97-7",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foam boosting",
+          "description": "Improves the quality of the foam produced by increasing one or more of the following properties: volume, texture and/or stability"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20717,
+      "inci_name": "SODIUM DILINOLEAMIDOPROPYL PG-DIMONIUM CHLORIDE PHOSPHATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foam boosting",
+          "description": "Improves the quality of the foam produced by increasing one or more of the following properties: volume, texture and/or stability"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

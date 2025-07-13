@@ -1,0 +1,123 @@
+{
+  "ingredient": "Camellia Oleifera Seed Oil",
+  "search_results": [
+    {
+      "identifier": "20773",
+      "inci_name": "CAMELLIA OLEIFERA SEED OIL"
+    },
+    {
+      "identifier": "10086",
+      "inci_name": "CAMELLIA OLEIFERA SEED OIL /HYDROGENATED CAMELLIA OLEIFERA SEED OIL ESTERS"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 20773,
+      "inci_name": "CAMELLIA OLEIFERA SEED OIL",
+      "name": "Tea seed oil",
+      "description": "Camellia oleifera, which originated in China, is notable as an important source of edible oil (known as tea oil or camellia oil) obtained from its seeds. It is commonly known as the oil-seed camellia or tea oil camellia, though to a lesser extent other species of camellia are used in oil production too.\nIt is widely distributed in China and is cultivated extensively there. It is found in forests, thickets, banks of streams and foothills at elevations of 500 to 1,300 metres.This species looks much similar to Camellia sasanqua except the dark green, evergreen leaves are a bit larger, three to five inches long and two to three inches wide. Single, white, fragrant flowers are produced in mid to late fall, and this large shrub or small tree will reach a height of 20 feet with thin, upright, multiple trunks and branches.\nThe crown forms a rounded or oval vase with lower branches removed.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "225233-97-6",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.55,
+      "category_percentage": [
+        {
+          "category_name": "Hair colouring",
+          "percentage": "5.66",
+          "count": 409
+        },
+        {
+          "category_name": "Lipstick",
+          "percentage": "2.38",
+          "count": 281
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.93",
+          "count": 218
+        },
+        {
+          "category_name": "Moisturizing oil for the body and face",
+          "percentage": "2.72",
+          "count": 143
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "1.2",
+          "count": 134
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 10086,
+      "inci_name": "CAMELLIA OLEIFERA SEED OIL /HYDROGENATED CAMELLIA OLEIFERA SEED OIL ESTERS",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Skin protecting",
+          "description": "Helps to avoid the harmful effects of external factors on the skin"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

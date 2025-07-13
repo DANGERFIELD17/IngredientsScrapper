@@ -1,0 +1,50 @@
+{
+  "ingredient": "Juglans Regia Seed Oil",
+  "search_results": [
+    {
+      "identifier": "8416",
+      "inci_name": "JUGLANS REGIA SEED OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 8416,
+      "inci_name": "JUGLANS REGIA SEED OIL",
+      "name": "Walnut oil",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "8024-09-7 / 84012-43-1",
+      "einecs_elincs": "- / 281-688-1",
+      "cosmetic_restriction": "",
+      "percentage": 0.09,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

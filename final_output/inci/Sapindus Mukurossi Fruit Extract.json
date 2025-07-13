@@ -1,0 +1,41 @@
+{
+  "ingredient": "Sapindus Mukurossi Fruit Extract",
+  "search_results": [
+    {
+      "identifier": "15386",
+      "inci_name": "SAPINDUS MUKUROSSI FRUIT EXTRACT"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 15386,
+      "inci_name": "SAPINDUS MUKUROSSI FRUIT EXTRACT",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.25",
+          "count": 59
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

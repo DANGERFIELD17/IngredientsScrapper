@@ -1,0 +1,1124 @@
+{
+  "ingredient": "Amodimethicone",
+  "search_results": [
+    {
+      "identifier": "8189",
+      "inci_name": "AMODIMETHICONE"
+    },
+    {
+      "identifier": "20023",
+      "inci_name": "AMODIMETHICONE/MORPHOLINOMETHYL SILSESQUIOXANE COPOLYMER"
+    },
+    {
+      "identifier": "16327",
+      "inci_name": "BIS-CETEARYL AMODIMETHICONE"
+    },
+    {
+      "identifier": "10924",
+      "inci_name": "BIS(C13-15 ALKOXY) PG-AMODIMETHICONE"
+    },
+    {
+      "identifier": "18127",
+      "inci_name": "BIS-HYDROXY/METHOXY AMODIMETHICONE"
+    },
+    {
+      "identifier": "13131",
+      "inci_name": "PEG-7 AMODIMETHICONE"
+    },
+    {
+      "identifier": "1802",
+      "inci_name": "TRIDECETH-9 PG-AMODIMETHICONE"
+    },
+    {
+      "identifier": "4014",
+      "inci_name": "METHOXY AMODIMETHICONE/SILSESQUIOXANE COPOLYMER"
+    },
+    {
+      "identifier": "6635",
+      "inci_name": "AMODIMETHICONE/SILSESQUIOXANE COPOLYMER"
+    },
+    {
+      "identifier": "19723",
+      "inci_name": "BIS-ISOBUTYL PEG/PPG-20/35/AMODIMETHICONE COPOLYMER"
+    },
+    {
+      "identifier": "39195",
+      "inci_name": "BUTOXY PEG-4 PG-AMODIMETHICONE"
+    },
+    {
+      "identifier": "20315",
+      "inci_name": "PERFLUORONONYL DIMETHICONE/METHICONE/AMODIMETHICONE CROSSPOLYMER"
+    },
+    {
+      "identifier": "37119",
+      "inci_name": "GLUCONAMIDO AMODIMETHICONE"
+    },
+    {
+      "identifier": "11766",
+      "inci_name": "PG-AMODIMETHICONE"
+    },
+    {
+      "identifier": "11813",
+      "inci_name": "PEG-8 AMODIMETHICONE"
+    },
+    {
+      "identifier": "20478",
+      "inci_name": "BIS-ISOBUTYL PEG-14/AMODIMETHICONE COPOLYMER"
+    },
+    {
+      "identifier": "41772",
+      "inci_name": "CETYL AMODIMETHICONE"
+    },
+    {
+      "identifier": "100133",
+      "inci_name": "BIS-HYDROXY/METHOXY/METHYL AMODIMETHICONE CROSSPOLYMER"
+    },
+    {
+      "identifier": "18044",
+      "inci_name": "ACRYLATES/OCTYLACRYLAMIDE/DIPHENYL AMODIMETHICONE COPOLYMER"
+    },
+    {
+      "identifier": "9491",
+      "inci_name": "BIS-ISOBUTYL PEG-15/AMODIMETHICONE COPOLYMER"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 8189,
+      "inci_name": "AMODIMETHICONE",
+      "name": "Amodimethicone",
+      "description": "Amodimethicone is a silicone derivative of dimethicone, used mainly in shampoos and hair care for its electrostatic properties. It makes the hair soft, easy to comb and shiny. The advantage of this silicone compared to dimethicone is that, although it is difficult to remove with a shampoo, it prevents other polymers of the same type can \"re-deposit\" on itself, so the decriated accumulation with dimethicone, which makes hair heavy, no longer exists here.\r\n\r\nJust like dimethicone, the molecule does not pose any particular problem on human health (directly in any case). However, it is not very biodegradable and its impact on the planet both from the point of view of its manufacture and its rejection in the wild is not negligible.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "71750-80-6",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 2.21,
+      "category_percentage": [
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "18.79",
+          "count": 2071
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "7.38",
+          "count": 1724
+        },
+        {
+          "category_name": "Hair colouring",
+          "percentage": "20.08",
+          "count": 1451
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "19.64",
+          "count": 1367
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "11.53",
+          "count": 729
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20023,
+      "inci_name": "AMODIMETHICONE/MORPHOLINOMETHYL SILSESQUIOXANE COPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1293390-78-9",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.16,
+      "category_percentage": [
+        {
+          "category_name": "Hair colouring",
+          "percentage": "3.46",
+          "count": 250
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.67",
+          "count": 156
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "1.06",
+          "count": 117
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "1.02",
+          "count": 71
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "0.71",
+          "count": 45
+        }
+      ],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 16327,
+      "inci_name": "BIS-CETEARYL AMODIMETHICONE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1126942-72-0",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.14,
+      "category_percentage": [
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "1.11",
+          "count": 122
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "1.24",
+          "count": 86
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.21",
+          "count": 49
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "0.73",
+          "count": 46
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 10924,
+      "inci_name": "BIS(C13-15 ALKOXY) PG-AMODIMETHICONE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "237753-63-8",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.06,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.27",
+          "count": 64
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "0.4",
+          "count": 44
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Hair dyeing",
+          "description": "Colors the hair"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 18127,
+      "inci_name": "BIS-HYDROXY/METHOXY AMODIMETHICONE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "831241-93-1",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.04,
+      "category_percentage": [
+        {
+          "category_name": "Hair colouring",
+          "percentage": "0.65",
+          "count": 47
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 13131,
+      "inci_name": "PEG-7 AMODIMETHICONE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "133779-14-3",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.31",
+          "count": 73
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 1802,
+      "inci_name": "TRIDECETH-9 PG-AMODIMETHICONE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 4014,
+      "inci_name": "METHOXY AMODIMETHICONE/SILSESQUIOXANE COPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [
+        {
+          "category_name": "Foundation",
+          "percentage": "0.64",
+          "count": 67
+        }
+      ],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 6635,
+      "inci_name": "AMODIMETHICONE/SILSESQUIOXANE COPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "67923-07-3",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Hair fixing",
+          "description": "Allows hair style control"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 19723,
+      "inci_name": "BIS-ISOBUTYL PEG/PPG-20/35/AMODIMETHICONE COPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "III/186",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 19,
+          "name": "Propoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 39195,
+      "inci_name": "BUTOXY PEG-4 PG-AMODIMETHICONE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "170274-77-8",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20315,
+      "inci_name": "PERFLUORONONYL DIMETHICONE/METHICONE/AMODIMETHICONE CROSSPOLYMER",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 10,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        },
+        {
+          "id": 58,
+          "name": "PFAS",
+          "score": 10
+        }
+      ],
+      "functions": [
+        {
+          "name": "Binding agent",
+          "description": "Allows the cohesion of different cosmetic ingredients"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 10,
+          "label": "\"Strong penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 37119,
+      "inci_name": "GLUCONAMIDO AMODIMETHICONE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "851635-19-3",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 11766,
+      "inci_name": "PG-AMODIMETHICONE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 11813,
+      "inci_name": "PEG-8 AMODIMETHICONE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "182700-78-3",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20478,
+      "inci_name": "BIS-ISOBUTYL PEG-14/AMODIMETHICONE COPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "III/186",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Hair fixing",
+          "description": "Allows hair style control"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 41772,
+      "inci_name": "CETYL AMODIMETHICONE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 100133,
+      "inci_name": "BIS-HYDROXY/METHOXY/METHYL AMODIMETHICONE CROSSPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 18044,
+      "inci_name": "ACRYLATES/OCTYLACRYLAMIDE/DIPHENYL AMODIMETHICONE COPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Hair fixing",
+          "description": "Allows hair style control"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 9491,
+      "inci_name": "BIS-ISOBUTYL PEG-15/AMODIMETHICONE COPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "III/186",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Hair waving or straightening",
+          "description": "Modifies the chemical structure of the hair, to style it in the required style"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

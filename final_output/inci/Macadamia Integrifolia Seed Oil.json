@@ -1,0 +1,76 @@
+{
+  "ingredient": "Macadamia Integrifolia Seed Oil",
+  "search_results": [
+    {
+      "identifier": "5383",
+      "inci_name": "MACADAMIA INTEGRIFOLIA SEED OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 5383,
+      "inci_name": "MACADAMIA INTEGRIFOLIA SEED OIL",
+      "name": "Macadamia nut oil",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "438545-25-6; 159518-86-2",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.88,
+      "category_percentage": [
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "1.74",
+          "count": 269
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "2.32",
+          "count": 260
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "1.02",
+          "count": 238
+        },
+        {
+          "category_name": "Moisturizing oil for the body and face",
+          "percentage": "3.84",
+          "count": 202
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "2.27",
+          "count": 158
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

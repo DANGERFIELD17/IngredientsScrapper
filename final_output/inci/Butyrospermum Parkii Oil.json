@@ -1,0 +1,80 @@
+{
+  "ingredient": "Butyrospermum Parkii Oil",
+  "search_results": [
+    {
+      "identifier": "14308",
+      "inci_name": "BUTYROSPERMUM PARKII OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 14308,
+      "inci_name": "BUTYROSPERMUM PARKII OIL",
+      "name": "Shea oil",
+      "description": "Vitellaria paradoxa (formerly Butyrospermum parkii), commonly known as shea tree, shi tree (), or vitellaria, is a tree of the Sapotaceae family. It is the only species in genus Vitellaria, and is indigenous to Africa. The shea fruit consists of a thin, tart, nutritious pulp that surrounds a relatively large, oil-rich seed from which shea butter is extracted. It's a deciduous tree usually 7–15 m tall, but has reached 25 m and a trunk diameter of 2 m. [1]\nThe shea tree is a traditional African food plant. It has been claimed to have potential to improve nutrition, boost food supply in the \"annual hungry season\", foster rural development, and support sustainable landcare.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "91080-23-8",
+      "einecs_elincs": "293-515-7",
+      "cosmetic_restriction": "",
+      "percentage": 0.23,
+      "category_percentage": [
+        {
+          "category_name": "Solid soap",
+          "percentage": "1.16",
+          "count": 100
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.31",
+          "count": 72
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "0.43",
+          "count": 66
+        },
+        {
+          "category_name": "Hand cream",
+          "percentage": "0.56",
+          "count": 45
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "0.25",
+          "count": 44
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

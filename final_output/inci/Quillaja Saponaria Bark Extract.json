@@ -1,0 +1,78 @@
+{
+  "ingredient": "Quillaja Saponaria Bark Extract",
+  "search_results": [
+    {
+      "identifier": "8881",
+      "inci_name": "QUILLAJA SAPONARIA BARK EXTRACT"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 8881,
+      "inci_name": "QUILLAJA SAPONARIA BARK EXTRACT",
+      "name": "Soapbark extract",
+      "description": "Quillaja saponaria, the soap bark tree or soapbark, is an evergreen tree in the family Quillajaceae, native to warm temperate central Chile. In Chile it occurs from 32 to 40° South Latitude approximately. Populations are found even 2000 m (6500 ft) above sea level. It can grow to 15–20 m (50–65 ft) in height. The tree has thick, dark bark; smooth, leathery, shiny, oval evergreen leaves 3–5 cm long; white star-shaped flowers 15 mm diameter borne in dense corymbs; and a dry fruit with five follicles each containing 10-20 seeds.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "68990-67-0",
+      "einecs_elincs": "273-620-4",
+      "cosmetic_restriction": "",
+      "percentage": 0.08,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.2",
+          "count": 46
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Anti dandruff",
+          "description": "Helps fight against dandruff"
+        },
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Foaming",
+          "description": "Capturing small air bubbles or other gases in a small volume of liquid by changing the surface tension of the liquid"
+        },
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Moisturising",
+          "description": "Increases the water content of the skin and helps keep it smooth and smooth"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

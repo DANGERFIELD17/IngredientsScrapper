@@ -1,0 +1,142 @@
+{
+  "ingredient": "Sclerocarya Birrea Seed Oil",
+  "search_results": [
+    {
+      "identifier": "19200",
+      "inci_name": "SCLEROCARYA BIRREA SEED OIL"
+    },
+    {
+      "identifier": "10102",
+      "inci_name": "SCLEROCARYA BIRREA SEED OIL PEG-8 ESTERS"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 19200,
+      "inci_name": "SCLEROCARYA BIRREA SEED OIL",
+      "name": "Marula seed oil",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.45,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.83",
+          "count": 194
+        },
+        {
+          "category_name": "Lipstick",
+          "percentage": "1.22",
+          "count": 144
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "1.17",
+          "count": 129
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "1.42",
+          "count": 90
+        },
+        {
+          "category_name": "Hair oil",
+          "percentage": "3.77",
+          "count": 87
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 10102,
+      "inci_name": "SCLEROCARYA BIRREA SEED OIL PEG-8 ESTERS",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

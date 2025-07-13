@@ -1,0 +1,90 @@
+{
+  "ingredient": "Cananga Odorata Flower Oil",
+  "search_results": [
+    {
+      "identifier": "9528",
+      "inci_name": "CANANGA ODORATA FLOWER OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 9528,
+      "inci_name": "CANANGA ODORATA FLOWER OIL",
+      "name": "Ylang Ylang flower oil",
+      "description": "Cananga odorata, known as the  cananga tree (Indonesian: kenanga, Filipino: ilang-ilang), is a tropical tree that is native from India, through parts of Indochina, Malaysia, the Philippines and Indonesia, to Queensland, Australia. It is valued for the perfume extracted from its flowers, called ylang-ylang  EE-lang-EE-lang (a name also sometimes used for the tree itself), which is an essential oil used in aromatherapy. The tree is also called the fragrant cananga, Macassar-oil plant, or perfume tree. Its traditional Polynesian names include Mata‘oi (Cook Islands), Mohokoi (Tonga), Moso‘oi (Samoa), Moto‘oi (Hawaii), and Mokosoi, Mokasoi or Mokohoi (Fiji).The ylang-ylang vine (Artabotrys odoratissimus) and climbing ylang-ylang (Artabotrys hexapetalus) are woody, evergreen climbing plants in the same family. Artabotrys odoratissimus is also a source of perfume.",
+      "regulation": "The presence of the substance or substances must be indicated by “Cananga Odorata Oil/Extract” in the list of ingredients referred to in Article 19(1), point g), when the concentration of the substance or substances is higher:\n- at 0.001% in leave-on products,\n- 0.01% in rinse-off products.",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "83863-30-3 / 8006-81-3 / 68606-83-7",
+      "einecs_elincs": "281-092-1 / - / -",
+      "cosmetic_restriction": "III/347",
+      "percentage": 0.57,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "1.05",
+          "count": 244
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "0.76",
+          "count": 135
+        },
+        {
+          "category_name": "Solid soap",
+          "percentage": "1.31",
+          "count": 113
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "1",
+          "count": 112
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "0.94",
+          "count": 104
+        }
+      ],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 4,
+          "name": "Allergen",
+          "score": 2
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+COMPREHENSIVE DEHYDROACETIC ACID REPORT
+===========================================
+
+🧪 INGREDIENT OVERVIEW
+-----------------------
+- INCI Name: DEHYDROACETIC ACID
+- CAS Number: 520-45-6 / 771-03-9 / 16807-48-0
+- Function(s): Preservative
+- Origin: Synthetic
+- Description: Dehydroacetic acid is used in cosmetics as a preservative for its fungicidal and bactericidal actions. It is used under the name E265 in food. As it is biodegradable, this chemical does not pose a problem for the environment, and the health risks remain quite low. Note, however, that the compound is prohibited in aerosol type sprays. Dehydroacetic acid is authorized in Bio.
+
+⚠️ SAFETY INFORMATION
+----------------------
+- Safety Score: 2
+- Assessment: "Low penalty" in all categories.
+
+📊 PRODUCT USAGE DATA
+-----------------------
+- Classic shampoo: 7.19% (n=1678)
+- Face cream: 12.12% (n=1359)
+- Body milk and cream: 8.79% (n=1357)
+- Shower gel: 5.24% (n=937)
+- Hand cream: 10.79% (n=862)
+
+📈 REDDIT COMMUNITY ANALYSIS
+-----------------------------
+================================================================================
+COMPREHENSIVE DEHYDROACETIC ACID ANALYSIS REPORT
+================================================================================
+Generated: 2025-07-13 23:46:09
+
+OVERVIEW:
+Ingredient Analyzed: Dehydroacetic Acid
+Total Posts Analyzed: 139
+Posts with Comments: 125
+Comment Coverage: 89.9%
+
+POSITIVE BENEFITS ANALYSIS:
+--------------------------------------------------
+Total Positive Statements: 0
+Key Positive Themes:
+
+NEGATIVE CONS ANALYSIS:
+--------------------------------------------------
+Total Negative Statements: 0
+Key Negative Themes:
+
+DOSAGE EFFECTIVENESS ANALYSIS:
+--------------------------------------------------
+Total Dosage Statements: 10
+Dosage Insights:
+  • Percentage-Based Dosage: 10 mentions
+  • Effective Dosage: 7 mentions
+  • Overdose Concerns: 2 mentions
+  • Daily Usage: 1 mentions
+
+Most Common Dosages:
+  • 2 %: 2 mentions
+  • 5 %: 1 mentions
+  • 15 %: 1 mentions
+  • 20 %: 1 mentions
+
+CATEGORY BREAKDOWN:
+--------------------------------------------------
+Ingredient Usage Patterns: 104 posts (74.8%)
+Treatment Experiences: 103 posts (74.1%)
+Product Recommendations: 122 posts (87.8%)
+Progress Report: 62 posts (44.6%)
+Side Effects: 70 posts (50.4%)
+Dosage Questions: 59 posts (42.4%)
+Combination Therapy: 136 posts (97.8%)
+Scientific Discussion: 27 posts (19.4%)
+Seeking Advice: 132 posts (95.0%)
+Humor Meme: 48 posts (34.5%)
+
+TOP INGREDIENT COMBINATIONS:
+--------------------------------------------------
+  • spf, sunscreen: 3 posts
+  • hyaluronic acid, niacinamide: 2 posts
+  • hyaluronic acid, niacinamide, retinol, salicylic acid, salicylicacid, sunscreen, tretinoin, vitamin c: 1 posts
+  • sunscreen, zinc: 1 posts
+  • hyaluronic acid, retinol, tretinoin, vitamin b5, vitamin e: 1 posts
+  • niacinamide, spf, sunscreen, tretinoin: 1 posts
+  • sunscreen, vitamin, vitamin c, vitamin e: 1 posts
+  • niacinamide, sunscreen: 1 posts
+  • spf, vitamin e: 1 posts
+  • hyaluronic acid, tretinoin, zinc: 1 posts
+
+TOP INGREDIENTS MENTIONED IN COMMENTS:
+--------------------------------------------------
+  • sunscreen: 13 mentions
+  • hyaluronic acid: 11 mentions
+  • spf: 11 mentions
+  • vitamin c: 10 mentions
+  • niacinamide: 7 mentions
+  • retinol: 5 mentions
+  • tretinoin: 5 mentions
+  • vitamin e: 5 mentions
+  • salicylic acid: 4 mentions
+  • zinc: 3 mentions
+
+TOP BRANDS MENTIONED:
+--------------------------------------------------
+  • cosrx: 7 mentions
+  • cerave: 7 mentions
+  • the ordinary: 4 mentions
+  • paula's choice: 4 mentions
+  • pixi: 2 mentions
+  • drunk elephant: 2 mentions
+  • neutrogena: 2 mentions
+  • stridex: 1 mentions
+  • la roche posay: 1 mentions
+  • inkey list: 1 mentions
+
+PRODUCT FORMS:
+--------------------------------------------------
+  • oil: 35 mentions
+  • cream: 22 mentions
+  • serum: 21 mentions
+  • gel: 12 mentions
+  • lotion: 12 mentions
+  • liquid: 9 mentions
+  • powder: 7 mentions
+  • patch: 5 mentions
+  • spray: 3 mentions
+  • pill: 1 mentions
+
+BODY PARTS WHERE DEHYDROACETIC ACID IS USED:
+--------------------------------------------------
+  • skin: 58 mentions
+  • face: 23 mentions
+  • hair: 20 mentions
+  • acne: 19 mentions
+  • scalp: 7 mentions
+  • facial: 3 mentions
+  • pores: 2 mentions
+  • head: 2 mentions
+  • hairline: 1 mentions
+  • wrinkles: 1 mentions
+
+SENTIMENT ANALYSIS:
+--------------------------------------------------
+Positive sentiment keywords: 161 (64.9%)
+Negative sentiment keywords: 87 (35.1%)
+Overall sentiment: POSITIVE
+
+SENTIMENT INDICATORS:
+--------------------------------------------------
+Positive sentiment posts: 57
+Negative sentiment posts: 18
+
+TEMPORAL PATTERNS:
+--------------------------------------------------
+2013: 4 posts
+2014: 6 posts
+2015: 5 posts
+2016: 10 posts
+2017: 6 posts
+2018: 15 posts
+2019: 20 posts
+2020: 24 posts
+2021: 17 posts
+2022: 9 posts
+2023: 8 posts
+2024: 13 posts
+2025: 2 posts
+
+SUBREDDIT DISTRIBUTION:
+--------------------------------------------------
+SkincareAddiction: 38 posts (27.3%)
+HaircareScience: 11 posts (7.9%)
+curlyhair: 11 posts (7.9%)
+DIYBeauty: 8 posts (5.8%)
+EuroSkincare: 7 posts (5.0%)
+AsianBeauty: 6 posts (4.3%)
+MUAontheCheap: 5 posts (3.6%)
+IndianSkincareAddicts: 4 posts (2.9%)
+SkincareAddictionUK: 4 posts (2.9%)
+NoPoo: 4 posts (2.9%)
+MakeupAddiction: 3 posts (2.2%)
+Indiemakeupandmore: 3 posts (2.2%)
+Fungalacne: 3 posts (2.2%)
+SebDerm: 2 posts (1.4%)
+AusSkincare: 2 posts (1.4%)
+acne: 2 posts (1.4%)
+Haircare: 2 posts (1.4%)
+tretinoin: 2 posts (1.4%)
+beauty: 1 posts (0.7%)
+badscience: 1 posts (0.7%)
+
+KEY INSIGHTS:
+--------------------------------------------------
+• 2 % is the most commonly mentioned dosage
+• cosrx is the most trusted brand (7 mentions)
+• 14.4% of posts discuss Dehydroacetic Acid in combination with other treatments
+• oil form is the most popular product form (35 mentions)
+• skin is the primary usage area (58 mentions)

@@ -1,0 +1,107 @@
+{
+  "ingredient": "Arctium Lappa Root Extract",
+  "search_results": [
+    {
+      "identifier": "18325",
+      "inci_name": "ARCTIUM LAPPA ROOT EXTRACT"
+    },
+    {
+      "identifier": "13773",
+      "inci_name": "SACCHAROMYCES/LEUCONOSTOC/APPLE FRUIT/CARROT ROOT/RADISH ROOT/CABBAGE LEAF/CELERY LEAF/CUCUMBER FRUIT/BANANA FRUIT/ONION BULB/ARCTIUM LAPPA ROOT/SPINACH LEAF/ ORANGE PEEL/TOMATO FRUIT/PHASEOLUS RADIATUS SPROUT/PUMPKIN FRUIT EXTRACT FERMENT FILTRATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 18325,
+      "inci_name": "ARCTIUM LAPPA ROOT EXTRACT",
+      "name": "Burdock root extract",
+      "description": "Burdock root has been used for hundreds of years in traditional medicine or for its nutritional qualities (it is consumed in China, it is rich in fiber and is also known for its aphrodisiac properties). In dermatology, it is used for the treatment of acne or against seborrheic dermatitis. In cosmetics, Burdock is used as a binder and humectant.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "84012-13-5",
+      "einecs_elincs": "281-658-8",
+      "cosmetic_restriction": "",
+      "percentage": 0.41,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "1.32",
+          "count": 308
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "1.13",
+          "count": 124
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "1.62",
+          "count": 102
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "0.58",
+          "count": 65
+        },
+        {
+          "category_name": "Face Lotion and Toner",
+          "percentage": "1.1",
+          "count": 56
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 13773,
+      "inci_name": "SACCHAROMYCES/LEUCONOSTOC/APPLE FRUIT/CARROT ROOT/RADISH ROOT/CABBAGE LEAF/CELERY LEAF/CUCUMBER FRUIT/BANANA FRUIT/ONION BULB/ARCTIUM LAPPA ROOT/SPINACH LEAF/ ORANGE PEEL/TOMATO FRUIT/PHASEOLUS RADIATUS SPROUT/PUMPKIN FRUIT EXTRACT FERMENT FILTRATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "ingredient": "Rosmarinus Officinalis Leaf Extract",
+  "search_results": [
+    {
+      "identifier": "15809",
+      "inci_name": "ROSMARINUS OFFICINALIS LEAF EXTRACT"
+    },
+    {
+      "identifier": "20541",
+      "inci_name": "ROSMARINUS OFFICINALIS FLOWER/LEAF/STEM EXTRACT"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 15809,
+      "inci_name": "ROSMARINUS OFFICINALIS LEAF EXTRACT",
+      "name": "Rosemary leaf extract",
+      "description": "Rosmarinus officinalis, commonly known as rosemary, is a woody, perennial herb with fragrant, evergreen, needle-like leaves and white, pink, purple, or blue flowers, native to the Mediterranean region.It is a member of the mint family Lamiaceae, which includes many other herbs. The name \"rosemary\" derives from Latin ros marinus (\"dew of the sea\"). The plant is also sometimes called anthos, from the ancient Greek word ἄνθος, meaning \"flower\". Rosemary has a fibrous root system.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "84604-14-8",
+      "einecs_elincs": "283-291-9",
+      "cosmetic_restriction": "",
+      "percentage": 2.62,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "4.05",
+          "count": 947
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "4.81",
+          "count": 530
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "3.37",
+          "count": 521
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "4.31",
+          "count": 483
+        },
+        {
+          "category_name": "Solid soap",
+          "percentage": "5.03",
+          "count": 435
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antimicrobial",
+          "description": "Helps slowing the growth of micro-organisms on the skin and counteracts the development of microbes"
+        },
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20541,
+      "inci_name": "ROSMARINUS OFFICINALIS FLOWER/LEAF/STEM EXTRACT",
+      "name": null,
+      "description": "Rosmarinus officinalis, commonly known as rosemary, is a woody, perennial herb with fragrant, evergreen, needle-like leaves and white, pink, purple, or blue flowers, native to the Mediterranean region.It is a member of the mint family Lamiaceae, which includes many other herbs. The name \"rosemary\" derives from Latin ros marinus (\"dew of the sea\"). The plant is also sometimes called anthos, from the ancient Greek word ἄνθος, meaning \"flower\". Rosemary has a fibrous root system.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "84604-14-8",
+      "einecs_elincs": "283-291-9",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

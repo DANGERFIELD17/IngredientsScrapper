@@ -1,0 +1,126 @@
+{
+  "ingredient": "Behentrimonium Methosulfate",
+  "search_results": [
+    {
+      "identifier": "9070",
+      "inci_name": "BEHENTRIMONIUM METHOSULFATE"
+    },
+    {
+      "identifier": "28642",
+      "inci_name": "CETEARYL ALCOHOL (AND) BEHENTRIMONIUM METHOSULFATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 9070,
+      "inci_name": "BEHENTRIMONIUM METHOSULFATE",
+      "name": "Behentrimonium Methosulfate",
+      "description": "This ingredient is classified as ecotoxic according to REACH (Aquatic Acute 1, Aquatic Chronic 2).",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "81646-13-1 / 241148-21-0",
+      "einecs_elincs": "279-791-1",
+      "cosmetic_restriction": "",
+      "percentage": 0.94,
+      "category_percentage": [
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "8.43",
+          "count": 928
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "7.15",
+          "count": 497
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "4.43",
+          "count": 280
+        },
+        {
+          "category_name": "Hair colouring",
+          "percentage": "3.1",
+          "count": 224
+        },
+        {
+          "category_name": "Treatment for curly hair",
+          "percentage": "7.41",
+          "count": 113
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 6,
+          "name": "Sulphate",
+          "score": 3
+        },
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        },
+        {
+          "id": 38,
+          "name": "Cationic surfactant",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 28642,
+      "inci_name": "CETEARYL ALCOHOL (AND) BEHENTRIMONIUM METHOSULFATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

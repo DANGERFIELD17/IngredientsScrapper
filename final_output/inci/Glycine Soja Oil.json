@@ -1,0 +1,158 @@
+{
+  "ingredient": "Glycine Soja Oil",
+  "search_results": [
+    {
+      "identifier": "20257",
+      "inci_name": "GLYCINE SOJA OIL"
+    },
+    {
+      "identifier": "1011",
+      "inci_name": "GLYCINE SOJA OIL UNSAPONIFIABLES"
+    },
+    {
+      "identifier": "14083",
+      "inci_name": "LACTOBACILLUS/MILK/GLYCINE SOJA OIL FERMENT"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 20257,
+      "inci_name": "GLYCINE SOJA OIL",
+      "name": "Soybean Oil",
+      "description": "The soybean oil is extracted from soy beans. It is found in many products for its emollient, moisturizing and antioxidant properties. It is authorized in Bio.\n\nAvoid, however, if you are allergic to soy.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "8001-22-7",
+      "einecs_elincs": "232-274-4",
+      "cosmetic_restriction": "",
+      "percentage": 3.8,
+      "category_percentage": [
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "8.94",
+          "count": 1380
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "10",
+          "count": 1121
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "7.48",
+          "count": 824
+        },
+        {
+          "category_name": "Hand cream",
+          "percentage": "9.33",
+          "count": 745
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "9.82",
+          "count": 683
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 1011,
+      "inci_name": "GLYCINE SOJA OIL UNSAPONIFIABLES",
+      "name": "Soybean oil unsaponifiables",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "91770-67-1",
+      "einecs_elincs": "294-853-8",
+      "cosmetic_restriction": "",
+      "percentage": 0.06,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 14083,
+      "inci_name": "LACTOBACILLUS/MILK/GLYCINE SOJA OIL FERMENT",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

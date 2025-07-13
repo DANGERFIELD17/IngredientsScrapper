@@ -1,4 +1,0 @@
-{
-  "ingredient": "Ketoconazole",
-  "error": "Error searching for Ketoconazole: 429 Client Error: Too Many Requests for url: https://api.incibeauty.com/ingredient/search/Ketoconazole?accessKeyId=d5ae0e8abc0cc240&hmac=2c9d9e5828413ae7d0ca1620bff74e01229c460366b562257a36053fb2e289ac"
-}

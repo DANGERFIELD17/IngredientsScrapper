@@ -1,0 +1,426 @@
+{
+  "ingredient": "Alcohol Denat.",
+  "search_results": [
+    {
+      "identifier": "18672",
+      "inci_name": "ALCOHOL DENAT."
+    },
+    {
+      "identifier": "14896",
+      "inci_name": "ALCOHOL DENAT. SD ALCOHOL 40-B"
+    },
+    {
+      "identifier": "12629",
+      "inci_name": "ALCOHOL DENAT. SD ALCOHOL 39-C"
+    },
+    {
+      "identifier": "4693",
+      "inci_name": "ALCOHOL DENAT. SD ALCOHOL 40"
+    },
+    {
+      "identifier": "15404",
+      "inci_name": "ALCOHOL DENAT. SD ALCOHOL 38-B"
+    },
+    {
+      "identifier": "1878",
+      "inci_name": "ALCOHOL DENAT. SD ALCOHOL 40-A"
+    },
+    {
+      "identifier": "8769",
+      "inci_name": "ALCOHOL DENAT. SD ALCOHOL 3-C"
+    },
+    {
+      "identifier": "19676",
+      "inci_name": "ALCOHOL DENAT. SD ALCOHOL 40-C"
+    },
+    {
+      "identifier": "1505",
+      "inci_name": "ALCOHOL DENAT. SD ALCOHOL 39-D"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 18672,
+      "inci_name": "ALCOHOL DENAT.",
+      "name": "Denatured alcohol",
+      "description": "Denatured alcohol is an alcohol rendered unfit for consumption in order to avoid excise duties (indirect tax levied for example on alcohol, tobacco, or petroleum products) so that it can not be used to create \"drinkable alcohols\".\nIn cosmetics, it provides a feeling of freshness (aftershave, deodorants or perfumes). It is also used in organic products with essential oils to avoid the use of a preservative and has interesting properties (astringent, solvent ...).\n\nSince 1 August 2017, Europe has imposed a very precise denaturing procedure:\n+ 3 liters of IPA (Isopropyl alcohol / CAS No. 67-63-0)\n+ 3 liters MEK (methyl ethyl ketone (butanone) / CAS no 78-93-3)\n+ 1 g of Denatium benzoate (Denatonium benzoate / CAS No. 3734-33-6) must be used per hectolitre of ethanol (pure alcohol).\n\nDenat alcohol. is not recommended for very sensitive skin like baby's skin. It can be irritating and tend to dry out the skin.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "64-17-5",
+      "einecs_elincs": "200-578-6",
+      "cosmetic_restriction": "",
+      "percentage": 9.33,
+      "category_percentage": [
+        {
+          "category_name": "Perfume for women",
+          "percentage": "57.75",
+          "count": 2988
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "24.71",
+          "count": 2961
+        },
+        {
+          "category_name": "Deodorant spray",
+          "percentage": "39.06",
+          "count": 2688
+        },
+        {
+          "category_name": "Foundation",
+          "percentage": "13.47",
+          "count": 1402
+        },
+        {
+          "category_name": "Eau de toilette for women",
+          "percentage": "58.58",
+          "count": 1366
+        }
+      ],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 30,
+          "name": "Alcohol",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antifoaming",
+          "description": "Removes foam during manufacturing / reduces foam formation in liquid finished products"
+        },
+        {
+          "name": "Antimicrobial",
+          "description": "Helps slowing the growth of micro-organisms on the skin and counteracts the development of microbes"
+        },
+        {
+          "name": "Astringent",
+          "description": "Helps tighten skin pores"
+        },
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Solvent",
+          "description": "Dissolves other substances"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 14896,
+      "inci_name": "ALCOHOL DENAT. SD ALCOHOL 40-B",
+      "name": "Alcohol Denat. Sd Alcohol 40-b",
+      "description": "This alcohol is denatured using T-butyl alcohol and any combination of one or more of the following: brucine (alkaloid), brucine sulfate, or quassin.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.13,
+      "category_percentage": [
+        {
+          "category_name": "Perfume for women",
+          "percentage": "1.1",
+          "count": 57
+        }
+      ],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 30,
+          "name": "Alcohol",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Solvent",
+          "description": "Dissolves other substances"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 12629,
+      "inci_name": "ALCOHOL DENAT. SD ALCOHOL 39-C",
+      "name": "Alcohol Denat. Sd Alcohol 39-c",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [],
+      "families": [
+        {
+          "id": 30,
+          "name": "Alcohol",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Solvent",
+          "description": "Dissolves other substances"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 4693,
+      "inci_name": "ALCOHOL DENAT. SD ALCOHOL 40",
+      "name": "Alcohol Denat. Sd Alcohol 40",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.02,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [],
+      "families": [
+        {
+          "id": 30,
+          "name": "Alcohol",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Solvent",
+          "description": "Dissolves other substances"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 15404,
+      "inci_name": "ALCOHOL DENAT. SD ALCOHOL 38-B",
+      "name": "Alcohol Denat. Sd Alcohol 38-b",
+      "description": "This alcohol is denatured with one or more of the following ingredients: anethol, anise oil, bay oil (myrcia oil), benzaldehyde, bergamot oil, bitter almond oil, camphor, cedar leaf oil, chlorothymol, cinnamic aldehyde, cinnamon oil (cassia oil) , citronella oil (natural), clove oil, coal tar, eucalyptol, eucalyptus oil, eugenol, guaiacol, lavender oil, menthol, methyl salicylate, mustard oil, volatile (allyl isothiocyanate), peppermint oil, phenol, phenyl salicylate (salol), pine oil, pine needle oil, dwarf, rosemary oil, safrole, sassafras oil, spearmint oil, spearmint oil (terpeneless), spike lavender oil, natural, storax, thyme oil, thymol, tolu balsam, turpentine oil, or from other approved essential oils.\r\n\r\nIt is authorized in organic.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 30,
+          "name": "Alcohol",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Solvent",
+          "description": "Dissolves other substances"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 1878,
+      "inci_name": "ALCOHOL DENAT. SD ALCOHOL 40-A",
+      "name": "Alcohol Denat. Sd Alcohol 40-a",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [],
+      "families": [
+        {
+          "id": 30,
+          "name": "Alcohol",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Solvent",
+          "description": "Dissolves other substances"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 8769,
+      "inci_name": "ALCOHOL DENAT. SD ALCOHOL 3-C",
+      "name": "Alcohol Denat. Sd Alcohol 3-c",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [],
+      "families": [
+        {
+          "id": 30,
+          "name": "Alcohol",
+          "score": 2
+        }
+      ],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 19676,
+      "inci_name": "ALCOHOL DENAT. SD ALCOHOL 40-C",
+      "name": "Alcohol Denat. Sd Alcohol 40-c",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [],
+      "families": [
+        {
+          "id": 30,
+          "name": "Alcohol",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Solvent",
+          "description": "Dissolves other substances"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 1505,
+      "inci_name": "ALCOHOL DENAT. SD ALCOHOL 39-D",
+      "name": "Alcohol Denat. Sd Alcohol 39-d",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [],
+      "families": [
+        {
+          "id": 30,
+          "name": "Alcohol",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Solvent",
+          "description": "Dissolves other substances"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

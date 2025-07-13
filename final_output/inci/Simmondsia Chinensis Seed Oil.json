@@ -1,0 +1,84 @@
+{
+  "ingredient": "Simmondsia Chinensis Seed Oil",
+  "search_results": [
+    {
+      "identifier": "5598",
+      "inci_name": "SIMMONDSIA CHINENSIS SEED OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 5598,
+      "inci_name": "SIMMONDSIA CHINENSIS SEED OIL",
+      "name": "Jojoba seed oil",
+      "description": "Jojoba oil is a liquid wax used on the skin to soften and moisturize it. It produces a light lipid film, without a greasy feeling. It is known to prevent germs related to blackheads or acne, and also has good antioxidant properties. It is often associated with hair care. It is allowed in organic.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "90045-98-0",
+      "einecs_elincs": "289-964-3",
+      "cosmetic_restriction": "",
+      "percentage": 6.26,
+      "category_percentage": [
+        {
+          "category_name": "Lipstick",
+          "percentage": "13.49",
+          "count": 1591
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "13.71",
+          "count": 1537
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "7.17",
+          "count": 1107
+        },
+        {
+          "category_name": "Lip balm",
+          "percentage": "24.77",
+          "count": 994
+        },
+        {
+          "category_name": "Moisturizing oil for the body and face",
+          "percentage": "17.7",
+          "count": 930
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,0 @@
-{
-  "ingredient": "Disodium Phosphate",
-  "error": "Error searching for Disodium Phosphate: HTTPSConnectionPool(host='api.incibeauty.com', port=443): Max retries exceeded with url: /ingredient/search/Disodium%20Phosphate?accessKeyId=09f4844a6b23c229&hmac=734d793409c14a6d41a648257790aa4b5276ecd816575c4cb16487c7e9b32177 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000126F3CB2350>: Failed to resolve 'api.incibeauty.com' ([Errno 11001] getaddrinfo failed)\"))"
-}

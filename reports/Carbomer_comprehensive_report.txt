@@ -1,0 +1,203 @@
+COMPREHENSIVE CARBOMER REPORT
+=================================
+
+🧪 INGREDIENT OVERVIEW
+-----------------------
+- INCI Name: CARBOMER
+- CAS Number: 9007-20-9 / 9003-01-4 / 76050-42-5 / 9062-04-8 / 9007-16-3 / 9007-17-4
+- Function(s): Emulsion stabilising, Gel forming, Viscosity controlling
+- Origin: Synthetic
+- Description: Carbomers are hydrophilic synthetic polymers of acrylic acid. In cosmetics, they are used to thicken the preparations as a gelling agent or emulsifier, but also as a solvent to help the formulas stay well mixed. These are big molecules that do not penetrate the barriers of the skin. They improve the textures of creams or shampoos, so that they are more pleasant to use.
+
+The CIR (Cosmetic Ingredient Review) believes that carbomers are safe for health in cosmetics. Indeed, they have been the subject of many tests and do not pose in general no problems.
+
+⚠️ SAFETY INFORMATION
+----------------------
+- Safety Score: 5
+- Assessment: "Medium penalty" in all categories.
+
+📊 PRODUCT USAGE DATA
+-----------------------
+- Body milk and cream: 29.15% (n=4501)
+- Classic shampoo: 10.79% (n=2519)
+- Face cream: 20.54% (n=2303)
+- Fabric mask: 42.85% (n=2156)
+- Hand cream: 20.43% (n=1632)
+
+📈 REDDIT COMMUNITY ANALYSIS
+-----------------------------
+================================================================================
+COMPREHENSIVE CARBOMER ANALYSIS REPORT
+================================================================================
+Generated: 2025-07-13 13:53:33
+
+OVERVIEW:
+Ingredient Analyzed: Carbomer
+Total Posts Analyzed: 139
+Posts with Comments: 139
+Comment Coverage: 100.0%
+
+POSITIVE BENEFITS ANALYSIS:
+--------------------------------------------------
+Total Positive Statements: 0
+Key Positive Themes:
+
+NEGATIVE CONS ANALYSIS:
+--------------------------------------------------
+Total Negative Statements: 1
+Key Negative Themes:
+
+DOSAGE EFFECTIVENESS ANALYSIS:
+--------------------------------------------------
+Total Dosage Statements: 12
+Dosage Insights:
+  • Percentage-Based Dosage: 12 mentions
+  • Effective Dosage: 11 mentions
+  • Overdose Concerns: 3 mentions
+  • Daily Usage: 2 mentions
+  • Optimal Dosage: 1 mentions
+
+Most Common Dosages:
+  • 3 mg: 3 mentions
+  • 2 %: 2 mentions
+  • 10 mg: 2 mentions
+  • 10 percent: 2 mentions
+  • 5 %: 1 mentions
+  • 15 %: 1 mentions
+  • 20 %: 1 mentions
+  • 4 mg: 1 mentions
+
+CATEGORY BREAKDOWN:
+--------------------------------------------------
+Ingredient Usage Patterns: 123 posts (88.5%)
+Treatment Experiences: 129 posts (92.8%)
+Product Recommendations: 138 posts (99.3%)
+Progress Report: 106 posts (76.3%)
+Side Effects: 105 posts (75.5%)
+Dosage Questions: 94 posts (67.6%)
+Combination Therapy: 139 posts (100.0%)
+Scientific Discussion: 56 posts (40.3%)
+Humor Meme: 110 posts (79.1%)
+Seeking Advice: 139 posts (100.0%)
+
+TOP INGREDIENT COMBINATIONS:
+--------------------------------------------------
+  • spf, sunscreen: 6 posts
+  • sunscreen, zinc: 3 posts
+  • hyaluronic acid, spf, sunscreen: 2 posts
+  • niacinamide, sunscreen: 2 posts
+  • niacinamide, vitamin c: 2 posts
+  • iron, spf, zinc: 1 posts
+  • hyaluronic acid, niacinamide, retinol, salicylic acid, salicylicacid, sunscreen, tretinoin, vitamin c: 1 posts
+  • hyaluronic acid, niacinamide, peptides, retinol, spf, sunscreen, zinc: 1 posts
+  • spf, sunscreen, vitamin e: 1 posts
+  • retinol, salicylic acid: 1 posts
+
+TOP INGREDIENTS MENTIONED IN COMMENTS:
+--------------------------------------------------
+  • sunscreen: 41 mentions
+  • niacinamide: 27 mentions
+  • hyaluronic acid: 21 mentions
+  • spf: 20 mentions
+  • retinol: 14 mentions
+  • zinc: 13 mentions
+  • vitamin c: 13 mentions
+  • tretinoin: 12 mentions
+  • collagen: 7 mentions
+  • peptide: 7 mentions
+
+TOP BRANDS MENTIONED:
+--------------------------------------------------
+  • cerave: 20 mentions
+  • cosrx: 16 mentions
+  • neutrogena: 12 mentions
+  • the ordinary: 12 mentions
+  • la roche posay: 5 mentions
+  • paula's choice: 4 mentions
+  • stridex: 3 mentions
+  • olay: 2 mentions
+  • drunk elephant: 2 mentions
+  • pixi: 1 mentions
+
+PRODUCT FORMS:
+--------------------------------------------------
+  • cream: 67 mentions
+  • oil: 41 mentions
+  • gel: 39 mentions
+  • serum: 38 mentions
+  • lotion: 33 mentions
+  • patches: 9 mentions
+  • spray: 8 mentions
+  • powder: 8 mentions
+  • liquid: 8 mentions
+  • topical: 7 mentions
+
+BODY PARTS WHERE CARBOMER IS USED:
+--------------------------------------------------
+  • skin: 112 mentions
+  • face: 69 mentions
+  • acne: 50 mentions
+  • hair: 15 mentions
+  • facial: 13 mentions
+  • pores: 11 mentions
+  • scalp: 6 mentions
+  • forehead: 3 mentions
+  • fine lines: 2 mentions
+  • wrinkles: 2 mentions
+
+SENTIMENT ANALYSIS:
+--------------------------------------------------
+Positive sentiment keywords: 409 (63.5%)
+Negative sentiment keywords: 235 (36.5%)
+Overall sentiment: POSITIVE
+
+SENTIMENT INDICATORS:
+--------------------------------------------------
+Positive sentiment posts: 92
+Negative sentiment posts: 24
+
+TEMPORAL PATTERNS:
+--------------------------------------------------
+2014: 2 posts
+2015: 2 posts
+2016: 7 posts
+2017: 3 posts
+2018: 19 posts
+2019: 20 posts
+2020: 21 posts
+2021: 14 posts
+2022: 18 posts
+2023: 14 posts
+2024: 7 posts
+2025: 12 posts
+
+SUBREDDIT DISTRIBUTION:
+--------------------------------------------------
+AsianBeauty: 51 posts (36.7%)
+IndianSkincareAddicts: 27 posts (19.4%)
+SkincareAddiction: 25 posts (18.0%)
+MakeupAddiction: 5 posts (3.6%)
+beautytalkph: 4 posts (2.9%)
+BeautyBoxes: 4 posts (2.9%)
+HaircareScience: 3 posts (2.2%)
+estrogel: 3 posts (2.2%)
+Ipsy: 2 posts (1.4%)
+scacjdiscussion: 2 posts (1.4%)
+chemistry: 1 posts (0.7%)
+conspiracy: 1 posts (0.7%)
+SkincareAddictionLux: 1 posts (0.7%)
+dollartreebeauty: 1 posts (0.7%)
+curlyhair: 1 posts (0.7%)
+abdiscussion: 1 posts (0.7%)
+PlasticFreeLiving: 1 posts (0.7%)
+SkincareAddictionUK: 1 posts (0.7%)
+AusSkincare: 1 posts (0.7%)
+boxycharm: 1 posts (0.7%)
+
+KEY INSIGHTS:
+--------------------------------------------------
+• 3 mg is the most commonly mentioned dosage
+• cerave is the most trusted brand (20 mentions)
+• 32.4% of posts discuss Carbomer in combination with other treatments
+• cream form is the most popular product form (67 mentions)
+• skin is the primary usage area (112 mentions)

@@ -1,0 +1,212 @@
+COMPREHENSIVE PHENOXYETHANOL REPORT
+=======================================
+
+🧪 INGREDIENT OVERVIEW
+-----------------------
+- INCI Name: PHENOXYETHANOL
+- CAS Number: 122-99-6
+- Function(s): Antimicrobial, Preservative
+- Origin: Synthetic
+- Description: Phenoxyethanol is a synthetic preservative known by the acronym of EGPhE, widely used in cosmetics and increasingly controversial. Since 2012, the ANSM (National Agency for the Safety of Medicines and Health Products) has recommended that this preservative not be used in cosmetic products intended for babies' seats and that its maximum content be set at 0.4% for other products for children under 3 years old. It also denounces its liver toxicity, its potentially harmful effects on reproduction as well as many other inconveniences: the conclusions of the 2012 ANSM report are alarming.
+In its opinion of May 2018, the Temporary Scientific Special Committee (CSST) responsible for the re-evaluation of phenoxyethanol at the European level, for its part concluded: "The recommendation by the Ansm of non-use of phenoxyethanol in products It is advisable to extend it to wipes, which are very commonly used also for cleaning the seats of young children.In all other cosmetic products intended for children aged 3 and under, the maximum concentration of Phenoxyethanol could remain 1%. " The CSST would therefore follow the ANSM for wipes but not for concentration. In any case, by law, phenoxyethanol is still allowed in baby wipes!
+Phenoxyethanol is produced by ethoxylation (a highly polluting chemical process) by reacting phenol and ethylene oxide at high temperature and pressure. Note, however, that phenoxyethanol is naturally present in green tea, but it is not this version of the compound that is used in cosmetics. Due to its manufacturing process, Phenoxyethanol is banned in Bio.
+
+⚠️ SAFETY INFORMATION
+----------------------
+- Safety Score: 10
+- Assessment: "Strong penalty" in the following categories :
+- Safety Score: 5
+- Assessment: "Medium penalty" in all other categories.
+
+📊 PRODUCT USAGE DATA
+-----------------------
+- Body milk and cream: 50.95% (n=7884)
+- Foundation: 67.32% (n=7007)
+- Classic shampoo: 29.63% (n=6922)
+- Adult sun cream: 42.07% (n=5055)
+- Hair conditioner: 43.89% (n=4837)
+
+📈 REDDIT COMMUNITY ANALYSIS
+-----------------------------
+================================================================================
+COMPREHENSIVE PHENOXYETHANOL ANALYSIS REPORT
+================================================================================
+Generated: 2025-07-13 13:40:04
+
+OVERVIEW:
+Ingredient Analyzed: Phenoxyethanol
+Total Posts Analyzed: 139
+Posts with Comments: 139
+Comment Coverage: 100.0%
+
+POSITIVE BENEFITS ANALYSIS:
+--------------------------------------------------
+Total Positive Statements: 5
+Key Positive Themes:
+  • Skin Health Improvement: 5 mentions
+  • High Recommendation: 4 mentions
+  • Overall Effectiveness: 2 mentions
+
+NEGATIVE CONS ANALYSIS:
+--------------------------------------------------
+Total Negative Statements: 3
+Key Negative Themes:
+  • Acne/Breakout Issues: 3 mentions
+  • Thyroid/Hormonal Issues: 1 mentions
+  • Cost Concerns: 1 mentions
+
+DOSAGE EFFECTIVENESS ANALYSIS:
+--------------------------------------------------
+Total Dosage Statements: 22
+Dosage Insights:
+  • Percentage-Based Dosage: 21 mentions
+  • Effective Dosage: 17 mentions
+  • Overdose Concerns: 2 mentions
+  • Optimal Dosage: 1 mentions
+  • Daily Usage: 1 mentions
+
+Most Common Dosages:
+  • 5 %: 2 mentions
+  • 2 %: 2 mentions
+  • 0 %: 2 mentions
+  • 15 %: 1 mentions
+  • 20 %: 1 mentions
+  • 20 mg: 1 mentions
+  • 30 mg: 1 mentions
+
+CATEGORY BREAKDOWN:
+--------------------------------------------------
+Ingredient Usage Patterns: 122 posts (87.8%)
+Treatment Experiences: 122 posts (87.8%)
+Product Recommendations: 135 posts (97.1%)
+Progress Report: 100 posts (71.9%)
+Side Effects: 104 posts (74.8%)
+Dosage Questions: 91 posts (65.5%)
+Combination Therapy: 138 posts (99.3%)
+Scientific Discussion: 67 posts (48.2%)
+Humor Meme: 104 posts (74.8%)
+Seeking Advice: 137 posts (98.6%)
+
+TOP INGREDIENT COMBINATIONS:
+--------------------------------------------------
+  • spf, sunscreen: 14 posts
+  • spf, sunscreen, vitamin c: 2 posts
+  • sunscreen, zinc: 2 posts
+  • hyaluronic acid, sunscreen: 2 posts
+  • niacinamide, peptide: 2 posts
+  • retinol, sunscreen: 2 posts
+  • niacinamide, vitamin c: 2 posts
+  • peptides, retinol, spf, sunscreen: 1 posts
+  • hyaluronic acid, niacinamide, peptides, retinol, spf, sunscreen, vitamin b, vitamin c, zinc: 1 posts
+  • iron, spf, zinc: 1 posts
+
+TOP INGREDIENTS MENTIONED IN COMMENTS:
+--------------------------------------------------
+  • sunscreen: 45 mentions
+  • spf: 29 mentions
+  • niacinamide: 22 mentions
+  • vitamin c: 20 mentions
+  • retinol: 18 mentions
+  • hyaluronic acid: 15 mentions
+  • zinc: 12 mentions
+  • tretinoin: 9 mentions
+  • salicylic acid: 7 mentions
+  • iron: 6 mentions
+
+TOP BRANDS MENTIONED:
+--------------------------------------------------
+  • cerave: 19 mentions
+  • the ordinary: 15 mentions
+  • cosrx: 12 mentions
+  • neutrogena: 10 mentions
+  • la roche posay: 6 mentions
+  • paula's choice: 5 mentions
+  • inkey list: 3 mentions
+  • stridex: 3 mentions
+  • drunk elephant: 3 mentions
+  • olay: 2 mentions
+
+PRODUCT FORMS:
+--------------------------------------------------
+  • cream: 49 mentions
+  • oil: 45 mentions
+  • serum: 40 mentions
+  • lotion: 35 mentions
+  • gel: 32 mentions
+  • spray: 14 mentions
+  • liquid: 14 mentions
+  • powder: 10 mentions
+  • patches: 6 mentions
+  • drops: 5 mentions
+
+BODY PARTS WHERE PHENOXYETHANOL IS USED:
+--------------------------------------------------
+  • skin: 99 mentions
+  • face: 73 mentions
+  • acne: 46 mentions
+  • hair: 25 mentions
+  • facial: 13 mentions
+  • scalp: 9 mentions
+  • pores: 8 mentions
+  • forehead: 3 mentions
+  • head: 3 mentions
+  • fine lines: 2 mentions
+
+SENTIMENT ANALYSIS:
+--------------------------------------------------
+Positive sentiment keywords: 467 (62.8%)
+Negative sentiment keywords: 277 (37.2%)
+Overall sentiment: POSITIVE
+
+SENTIMENT INDICATORS:
+--------------------------------------------------
+Positive sentiment posts: 87
+Negative sentiment posts: 27
+
+TEMPORAL PATTERNS:
+--------------------------------------------------
+2014: 2 posts
+2015: 3 posts
+2016: 2 posts
+2017: 6 posts
+2018: 19 posts
+2019: 16 posts
+2020: 15 posts
+2021: 23 posts
+2022: 19 posts
+2023: 9 posts
+2024: 9 posts
+2025: 16 posts
+
+SUBREDDIT DISTRIBUTION:
+--------------------------------------------------
+SkincareAddiction: 35 posts (25.2%)
+AsianBeauty: 30 posts (21.6%)
+IndianSkincareAddicts: 24 posts (17.3%)
+beautytalkph: 8 posts (5.8%)
+HaircareScience: 7 posts (5.0%)
+MakeupAddiction: 5 posts (3.6%)
+chemistry: 2 posts (1.4%)
+muacjdiscussion: 2 posts (1.4%)
+dollartreebeauty: 2 posts (1.4%)
+curlyhair: 2 posts (1.4%)
+scacjdiscussion: 2 posts (1.4%)
+chemicalreactiongifs: 1 posts (0.7%)
+YouShouldKnow: 1 posts (0.7%)
+Ipsy: 1 posts (0.7%)
+PCOS: 1 posts (0.7%)
+Accutane: 1 posts (0.7%)
+SkincareAddictionLux: 1 posts (0.7%)
+BeautyBoxes: 1 posts (0.7%)
+interestingasfuck: 1 posts (0.7%)
+AusSkincare: 1 posts (0.7%)
+
+KEY INSIGHTS:
+--------------------------------------------------
+• Skin Health Improvement is the most mentioned benefit (5 mentions)
+• Acne/Breakout Issues is the primary concern (3 mentions)
+• 5 % is the most commonly mentioned dosage
+• cerave is the most trusted brand (19 mentions)
+• 32.4% of posts discuss Phenoxyethanol in combination with other treatments
+• cream form is the most popular product form (49 mentions)
+• skin is the primary usage area (99 mentions)

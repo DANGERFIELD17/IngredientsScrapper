@@ -1,4 +1,0 @@
-{
-  "ingredient": "Propanediol",
-  "error": "Error searching for Propanediol: 429 Client Error: Too Many Requests for url: https://api.incibeauty.com/ingredient/search/Propanediol?accessKeyId=d5ae0e8abc0cc240&hmac=cd2677776c077b9c4cbd93c1d35de471c503865027c48a7a683c570add5f8a9c"
-}

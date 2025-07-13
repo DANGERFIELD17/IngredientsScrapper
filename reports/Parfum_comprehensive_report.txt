@@ -1,0 +1,180 @@
+COMPREHENSIVE PARFUM REPORT
+===============================
+
+🧪 INGREDIENT OVERVIEW
+-----------------------
+- INCI Name: PARFUM
+- CAS Number: 
+- Function(s): Masking, Perfuming
+- Origin: Vegetal, Animal, Synthetic
+- Description: Unfortunately, the term “fragrance” conceals numerous odorant molecules that are potentially irritating or even allergenic. It's hard to know what to do when you're allergic to a product and the information isn't very detailed. Nevertheless, to help us, Europe has regulated 24 molecules (more than 80 from 2026) which, when used above a certain concentration, must be mentioned in the INCI list (generally at the end), even though they are themselves part of a product's fragrance. This is the case, for example, with Limonene, linalool...
+
+⚠️ SAFETY INFORMATION
+----------------------
+- Safety Score: 3
+- Assessment: "Low penalty" in all categories.
+
+📊 PRODUCT USAGE DATA
+-----------------------
+- Classic shampoo: 91.36% (n=21322)
+- Shower gel: 93.29% (n=16669)
+- Body milk and cream: 84.72% (n=13083)
+- Hair conditioner: 93.37% (n=10280)
+- Face cream: 71.79% (n=8048)
+
+📈 REDDIT COMMUNITY ANALYSIS
+-----------------------------
+================================================================================
+COMPREHENSIVE PARFUM ANALYSIS REPORT
+================================================================================
+Generated: 2025-07-13 21:48:54
+
+OVERVIEW:
+Ingredient Analyzed: Parfum
+Total Posts Analyzed: 139
+Posts with Comments: 139
+Comment Coverage: 100.0%
+
+POSITIVE BENEFITS ANALYSIS:
+--------------------------------------------------
+Total Positive Statements: 3
+Key Positive Themes:
+  • High Recommendation: 2 mentions
+  • Overall Effectiveness: 2 mentions
+  • Anti-Aging Benefits: 1 mentions
+  • Hair Growth Enhancement: 1 mentions
+
+NEGATIVE CONS ANALYSIS:
+--------------------------------------------------
+Total Negative Statements: 0
+Key Negative Themes:
+
+DOSAGE EFFECTIVENESS ANALYSIS:
+--------------------------------------------------
+Total Dosage Statements: 5
+Dosage Insights:
+  • Percentage-Based Dosage: 5 mentions
+  • Effective Dosage: 4 mentions
+  • Overdose Concerns: 1 mentions
+
+Most Common Dosages:
+  • 100 percent: 3 mentions
+  • 202 %: 1 mentions
+
+CATEGORY BREAKDOWN:
+--------------------------------------------------
+Treatment Experiences: 116 posts (83.5%)
+Product Recommendations: 130 posts (93.5%)
+Combination Therapy: 138 posts (99.3%)
+Humor Meme: 108 posts (77.7%)
+Seeking Advice: 139 posts (100.0%)
+Ingredient Usage Patterns: 73 posts (52.5%)
+Side Effects: 88 posts (63.3%)
+Dosage Questions: 63 posts (45.3%)
+Progress Report: 95 posts (68.3%)
+Scientific Discussion: 49 posts (35.3%)
+
+TOP INGREDIENT COMBINATIONS:
+--------------------------------------------------
+  • salicylic acid, spf, sunscreen: 1 posts
+  • peptide, retinol, sunscreen: 1 posts
+  • spf, sunscreen: 1 posts
+
+TOP INGREDIENTS MENTIONED IN COMMENTS:
+--------------------------------------------------
+  • sunscreen: 4 mentions
+  • min: 3 mentions
+  • spf: 2 mentions
+  • vitamin : 1 mentions
+  • salicylic acid: 1 mentions
+  • fin: 1 mentions
+  • iron: 1 mentions
+  • retinol: 1 mentions
+  • peptide: 1 mentions
+
+TOP BRANDS MENTIONED:
+--------------------------------------------------
+  • neutrogena: 1 mentions
+
+PRODUCT FORMS:
+--------------------------------------------------
+  • spray: 29 mentions
+  • oil: 14 mentions
+  • lotion: 10 mentions
+  • cream: 6 mentions
+  • powder: 3 mentions
+  • liquid: 3 mentions
+  • gel: 3 mentions
+  • pill: 2 mentions
+  • patches: 2 mentions
+  • drops: 2 mentions
+
+BODY PARTS WHERE PARFUM IS USED:
+--------------------------------------------------
+  • face: 36 mentions
+  • head: 32 mentions
+  • hair: 19 mentions
+  • skin: 14 mentions
+  • facial: 8 mentions
+  • nail: 5 mentions
+  • nails: 2 mentions
+  • pores: 2 mentions
+  • crown: 1 mentions
+  • acne: 1 mentions
+
+SENTIMENT ANALYSIS:
+--------------------------------------------------
+Positive sentiment keywords: 404 (56.9%)
+Negative sentiment keywords: 306 (43.1%)
+Overall sentiment: POSITIVE
+
+SENTIMENT INDICATORS:
+--------------------------------------------------
+Positive sentiment posts: 70
+Negative sentiment posts: 47
+
+TEMPORAL PATTERNS:
+--------------------------------------------------
+2014: 1 posts
+2016: 4 posts
+2017: 2 posts
+2018: 7 posts
+2019: 16 posts
+2020: 17 posts
+2021: 12 posts
+2022: 19 posts
+2023: 19 posts
+2024: 24 posts
+2025: 18 posts
+
+SUBREDDIT DISTRIBUTION:
+--------------------------------------------------
+AmItheAsshole: 14 posts (10.1%)
+BestofRedditorUpdates: 11 posts (7.9%)
+todayilearned: 7 posts (5.0%)
+LifeProTips: 6 posts (4.3%)
+Wellthatsucks: 4 posts (2.9%)
+AITAH: 4 posts (2.9%)
+relationship_advice: 4 posts (2.9%)
+crappyoffbrands: 4 posts (2.9%)
+nosleep: 3 posts (2.2%)
+mildlyinteresting: 2 posts (1.4%)
+MadeMeSmile: 2 posts (1.4%)
+Jokes: 2 posts (1.4%)
+Art: 2 posts (1.4%)
+funny: 2 posts (1.4%)
+unpopularopinion: 2 posts (1.4%)
+tifu: 2 posts (1.4%)
+pics: 2 posts (1.4%)
+DesignPorn: 2 posts (1.4%)
+memes: 2 posts (1.4%)
+CasualUK: 2 posts (1.4%)
+
+KEY INSIGHTS:
+--------------------------------------------------
+• High Recommendation is the most mentioned benefit (2 mentions)
+• 100 percent is the most commonly mentioned dosage
+• neutrogena is the most trusted brand (1 mentions)
+• 2.2% of posts discuss Parfum in combination with other treatments
+• spray form is the most popular product form (29 mentions)
+• face is the primary usage area (36 mentions)

@@ -1,0 +1,371 @@
+{
+  "ingredient": "Lavender Oil",
+  "search_results": [
+    {
+      "identifier": "18118",
+      "inci_name": "LAVANDULA ANGUSTIFOLIA OIL"
+    },
+    {
+      "identifier": "16629",
+      "inci_name": "LAVANDULA HYBRIDA OIL"
+    },
+    {
+      "identifier": "35031",
+      "inci_name": "LAVANDULA ANGUSTIFOLIA FLOWER OIL"
+    },
+    {
+      "identifier": "17380",
+      "inci_name": "LAVANDULA ANGUSTIFOLIA HERB OIL"
+    },
+    {
+      "identifier": "7749",
+      "inci_name": "LAVANDULA OFFICINALIS FLOWER OIL"
+    },
+    {
+      "identifier": "19785",
+      "inci_name": "LAVANDULA SPICA FLOWER OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 18118,
+      "inci_name": "LAVANDULA ANGUSTIFOLIA OIL",
+      "name": "Lavender essential oil",
+      "description": "The essential oil of true lavender or fine lavender is highly concentrated in Linalool (it contains between 30 and 40%). It is attributed many analgesic, calming and even healing properties. It calms muscle excitement (cramps ..), regulates the nervous system or even promotes sleep. It is one of the most used essential oils in cosmetics.\r\n\r\nIt contains the following allergens:\r\n- Linalool (very high concentration> 25%);\r\n- Geraniol (<1.5%)\r\n- Limonene (<2%)\r\n- Coumarin (<0.5%)",
+      "regulation": "The presence of the substance or substances must be indicated by “Lavandula Oil/Extract” in the list of ingredients referred to in Article 19(1), point g), when the concentration of the substance or substances is higher:\n- at 0.001% in leave-on products,\n- 0.01% in rinse-off products.",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "8000-28-0 / 90063-37-9",
+      "einecs_elincs": "- / 289-995-2",
+      "cosmetic_restriction": "III/360",
+      "percentage": 1.63,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "1.58",
+          "count": 368
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "2.39",
+          "count": 268
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "1.49",
+          "count": 230
+        },
+        {
+          "category_name": "Cream / Gel Mask",
+          "percentage": "3.53",
+          "count": 214
+        },
+        {
+          "category_name": "Moisturizing oil for the body and face",
+          "percentage": "3.93",
+          "count": 209
+        }
+      ],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 4,
+          "name": "Allergen",
+          "score": 2
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Tonic",
+          "description": "Produces a feeling of well-being on skin and hair"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 16629,
+      "inci_name": "LAVANDULA HYBRIDA OIL",
+      "name": "Hybrid Lavender oil",
+      "description": "",
+      "regulation": "The presence of the substance or substances must be indicated by “Lavandula Oil/Extract” in the list of ingredients referred to in Article 19(1), point g), when the concentration of the substance or substances is higher:\n- at 0.001% in leave-on products,\n- 0.01% in rinse-off products.",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "8022-15-9 / 91722-69-9",
+      "einecs_elincs": "- / 294-470-6",
+      "cosmetic_restriction": "III/360",
+      "percentage": 0.49,
+      "category_percentage": [
+        {
+          "category_name": "Solid soap",
+          "percentage": "2.3",
+          "count": 199
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.7",
+          "count": 164
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "0.66",
+          "count": 118
+        },
+        {
+          "category_name": "Liquid soap",
+          "percentage": "1.63",
+          "count": 96
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "0.54",
+          "count": 83
+        }
+      ],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 4,
+          "name": "Allergen",
+          "score": 2
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 35031,
+      "inci_name": "LAVANDULA ANGUSTIFOLIA FLOWER OIL",
+      "name": "Lavender flower oil",
+      "description": "",
+      "regulation": "The presence of the substance or substances must be indicated by “Lavandula Oil/Extract” in the list of ingredients referred to in Article 19(1), point g), when the concentration of the substance or substances is higher:\n- at 0.001% in leave-on products,\n- 0.01% in rinse-off products.",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.14,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 4,
+          "name": "Allergen",
+          "score": 2
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 17380,
+      "inci_name": "LAVANDULA ANGUSTIFOLIA HERB OIL",
+      "name": "Lavender herb oil",
+      "description": "",
+      "regulation": "The presence of the substance or substances must be indicated by “Lavandula Oil/Extract” in the list of ingredients referred to in Article 19(1), point g), when the concentration of the substance or substances is higher:\n- at 0.001% in leave-on products,\n- 0.01% in rinse-off products.",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "90063-37-9",
+      "einecs_elincs": "289-995-2",
+      "cosmetic_restriction": "",
+      "percentage": 0.08,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 4,
+          "name": "Allergen",
+          "score": 2
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 7749,
+      "inci_name": "LAVANDULA OFFICINALIS FLOWER OIL",
+      "name": "Lavender flower oil",
+      "description": "",
+      "regulation": "The presence of the substance or substances must be indicated by “Lavandula Oil/Extract” in the list of ingredients referred to in Article 19(1), point g), when the concentration of the substance or substances is higher:\n- at 0.001% in leave-on products,\n- 0.01% in rinse-off products.",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "84776-65-8",
+      "einecs_elincs": "283-994-0",
+      "cosmetic_restriction": "",
+      "percentage": 0.05,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 4,
+          "name": "Allergen",
+          "score": 2
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 19785,
+      "inci_name": "LAVANDULA SPICA FLOWER OIL",
+      "name": "Lavender flower oil",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "97722-12-8",
+      "einecs_elincs": "307-762-6",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

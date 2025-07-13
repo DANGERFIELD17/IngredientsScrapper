@@ -1,0 +1,123 @@
+{
+  "ingredient": "Rosemary Oil",
+  "search_results": [
+    {
+      "identifier": "18851",
+      "inci_name": "ROSMARINUS OFFICINALIS LEAF OIL"
+    },
+    {
+      "identifier": "791",
+      "inci_name": "ROSMARINUS OFFICINALIS FLOWER OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 18851,
+      "inci_name": "ROSMARINUS OFFICINALIS LEAF OIL",
+      "name": "Rosemary leaf oil",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "84604-14-8 / 8000-25-7",
+      "einecs_elincs": "283-291-9",
+      "cosmetic_restriction": "",
+      "percentage": 1.18,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "1.85",
+          "count": 433
+        },
+        {
+          "category_name": "Solid soap",
+          "percentage": "1.87",
+          "count": 162
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "1.41",
+          "count": 155
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "2.37",
+          "count": 150
+        },
+        {
+          "category_name": "Hair oil",
+          "percentage": "5.89",
+          "count": 136
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 791,
+      "inci_name": "ROSMARINUS OFFICINALIS FLOWER OIL",
+      "name": "Rosemary flower oil",
+      "description": "Rosmarinus officinalis, commonly known as rosemary, is a woody, perennial herb with fragrant, evergreen, needle-like leaves and white, pink, purple, or blue flowers, native to the Mediterranean region.It is a member of the mint family Lamiaceae, which includes many other herbs. The name \"rosemary\" derives from Latin ros marinus (\"dew of the sea\"). The plant is also sometimes called anthos, from the ancient Greek word ἄνθος, meaning \"flower\". Rosemary has a fibrous root system.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "84604-14-8",
+      "einecs_elincs": "283-291-9",
+      "cosmetic_restriction": "",
+      "percentage": 0.07,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

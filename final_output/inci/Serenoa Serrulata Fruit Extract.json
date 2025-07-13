@@ -1,0 +1,60 @@
+{
+  "ingredient": "Serenoa Serrulata Fruit Extract",
+  "search_results": [
+    {
+      "identifier": "10805",
+      "inci_name": "SERENOA SERRULATA FRUIT EXTRACT"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 10805,
+      "inci_name": "SERENOA SERRULATA FRUIT EXTRACT",
+      "name": "Saw Palmetto extract (fruit)",
+      "description": "Serenoa repens, commonly known as saw palmetto, is the sole species currently classified in the genus Serenoa. It is a small palm, growing to a maximum height around 7–10 ft (2.1–3.0 m). It is endemic to the subtropical Southeastern United States, most commonly along the south Atlantic and Gulf Coastal plains and sand hills. It grows in clumps or dense thickets in sandy coastal areas, and as undergrowth in pine woods or hardwood hammocks.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "84604-15-9",
+      "einecs_elincs": "283-292-4",
+      "cosmetic_restriction": "",
+      "percentage": 0.16,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.46",
+          "count": 107
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "0.42",
+          "count": 46
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "0.65",
+          "count": 41
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

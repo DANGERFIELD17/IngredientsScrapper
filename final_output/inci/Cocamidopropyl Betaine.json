@@ -1,0 +1,108 @@
+{
+  "ingredient": "Cocamidopropyl Betaine",
+  "search_results": [
+    {
+      "identifier": "6903",
+      "inci_name": "COCAMIDOPROPYL BETAINE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 6903,
+      "inci_name": "COCAMIDOPROPYL BETAINE",
+      "name": "Cocamidopropyl betaine",
+      "description": "Betaine cocamidopropyl or CAPB is amphoteric surfactant often used in shower gels and shampoos as a secondary TA. It has softened more aggressive surfactants such as sulfated anionics such as Sodium Laureth Sulfate or Sodium Lauryl Sulfate. This surfactant is made from coconut oil derivative and dimethylaminopropylamine, which does not make it a natural compound.\r\nIt is one of the ingredients that is an exception in the COSMOS specifications: it is authorized in organic.",
+      "regulation": "",
+      "reference": "Fiche de sécurité du Cocamidopropyl betaine - http://www.chimieplus.com/base/fichepdf/fds29004.pdf\r\n\r\nCNESST - https://www.csst.qc.ca/prevention/reptox/Pages/fiche-complete.aspx?no_produit=408278\r\n\r\nINRS - http://www.inrs.fr/dms/inrs/PDF/bdd-demeter/DEM-137/DEM%20137.pdf",
+      "cheminical_iupac_name": "",
+      "cas": "97862-59-4 (generic)/61789-40-0/70851-07-9/83138-08-3",
+      "einecs_elincs": "-/263-058-8/274-923-4/-",
+      "cosmetic_restriction": "",
+      "percentage": 14.03,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "71.19",
+          "count": 16614
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "78.87",
+          "count": 14093
+        },
+        {
+          "category_name": "Liquid soap",
+          "percentage": "61.16",
+          "count": 3597
+        },
+        {
+          "category_name": "Anti-dandruff shampoo",
+          "percentage": "79.57",
+          "count": 2209
+        },
+        {
+          "category_name": "Adult toothpaste",
+          "percentage": "29.99",
+          "count": 2116
+        }
+      ],
+      "score": 3,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        },
+        {
+          "id": 39,
+          "name": "Amphoteric surfactant",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foam boosting",
+          "description": "Improves the quality of the foam produced by increasing one or more of the following properties: volume, texture and/or stability"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        },
+        {
+          "name": "Skin conditioning - miscellaneous",
+          "description": "Improving the appearance of dry and/or damaged skin by reducing flaking and restoring its suppleness."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 3,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "ingredient": "Methylparaben",
+  "search_results": [
+    {
+      "identifier": "18918",
+      "inci_name": "METHYLPARABEN"
+    },
+    {
+      "identifier": "598",
+      "inci_name": "SODIUM METHYLPARABEN"
+    },
+    {
+      "identifier": "777",
+      "inci_name": "POTASSIUM METHYLPARABEN"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 18918,
+      "inci_name": "METHYLPARABEN",
+      "name": "Methylparaben",
+      "description": "Methylparaben is a preservative belonging to the parabens. It is currently being evaluated at the European level to determine whether it is an endocrine disruptor.",
+      "regulation": "The concentration of this preservative can not exceed in cosmetics:\r\n- 0.4% (in acid) for a single ester\r\n- 0.8% (in acid) for a mixture of esters",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "99-76-3",
+      "einecs_elincs": "202-785-7",
+      "cosmetic_restriction": "V/12",
+      "percentage": 5.49,
+      "category_percentage": [
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "9.25",
+          "count": 1428
+        },
+        {
+          "category_name": "Eyeshadow",
+          "percentage": "12.29",
+          "count": 978
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "3.36",
+          "count": 783
+        },
+        {
+          "category_name": "Foundation",
+          "percentage": "6.78",
+          "count": 706
+        },
+        {
+          "category_name": "Hair colouring",
+          "percentage": "8.89",
+          "count": 642
+        }
+      ],
+      "score": 10,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 1,
+          "name": "Paraben",
+          "score": 10
+        },
+        {
+          "id": 8,
+          "name": "Suspected endocrine disruptor",
+          "score": 10
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 35,
+          "name": "Preservative",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Preservative",
+          "description": "Inhibits the development of microorganisms in cosmetic products."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 10,
+          "label": "\"Strong penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 598,
+      "inci_name": "SODIUM METHYLPARABEN",
+      "name": "Sodium Methylparaben",
+      "description": "",
+      "regulation": "The maximum concentration allowed in ready-to-use cosmetic preparations is:\r\n- 0.4% (as acid) for an ester\r\n- 0.8% (in acid) for ester mixtures",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "5026-62-0",
+      "einecs_elincs": "225-714-1",
+      "cosmetic_restriction": "V/12",
+      "percentage": 0.37,
+      "category_percentage": [
+        {
+          "category_name": "Hair colouring",
+          "percentage": "6.29",
+          "count": 454
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "2.33",
+          "count": 256
+        },
+        {
+          "category_name": "Adult toothpaste",
+          "percentage": "2.2",
+          "count": 155
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.32",
+          "count": 74
+        },
+        {
+          "category_name": "Mouthwash",
+          "percentage": "2.33",
+          "count": 41
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 1,
+          "name": "Paraben",
+          "score": 10
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 35,
+          "name": "Preservative",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Preservative",
+          "description": "Inhibits the development of microorganisms in cosmetic products."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 777,
+      "inci_name": "POTASSIUM METHYLPARABEN",
+      "name": "",
+      "description": "",
+      "regulation": "The maximum concentration allowed in ready-to-use cosmetic preparations is:\r\n- 0.4% (as acid) for an ester\r\n- 0.8% (in acid) for ester mixtures",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "26112-07-2",
+      "einecs_elincs": "247-464-2",
+      "cosmetic_restriction": "V/12",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 10,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 1,
+          "name": "Paraben",
+          "score": 10
+        },
+        {
+          "id": 8,
+          "name": "Suspected endocrine disruptor",
+          "score": 10
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Preservative",
+          "description": "Inhibits the development of microorganisms in cosmetic products."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 10,
+          "label": "\"Strong penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

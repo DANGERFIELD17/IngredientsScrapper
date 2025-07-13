@@ -1,0 +1,89 @@
+{
+  "ingredient": "Sodium Benzoate",
+  "search_results": [
+    {
+      "identifier": "1498",
+      "inci_name": "SODIUM BENZOATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 1498,
+      "inci_name": "SODIUM BENZOATE",
+      "name": "Sodium benzoate",
+      "description": "Sodium benzoate is used as an antifungal preservative in cosmetics and in food under the name E211. It is therefore very effective against fungi, yeasts and bacteria. It is made quite easily with soda, water and benzoic acid. It is found naturally in some fruits such as plums, prunes or apples. It is authorized in organic.",
+      "regulation": "The maximum permitted concentration in the finished preparations is :\n- 2.5% (in acid) for rinsed products, except for oral products\n- 1.7% (in acid) for oral products\n- 0,5 % (in acid) for non-rinsed products",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "532-32-1",
+      "einecs_elincs": "208-534-8",
+      "cosmetic_restriction": "V/1",
+      "percentage": 26.32,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "71.06",
+          "count": 16599
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "76.96",
+          "count": 13771
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "42.56",
+          "count": 4690
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "27.72",
+          "count": 4289
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "31.61",
+          "count": 3545
+        }
+      ],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 35,
+          "name": "Preservative",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Anticorrosive",
+          "description": "Prevents corrosion of the packaging"
+        },
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Preservative",
+          "description": "Inhibits the development of microorganisms in cosmetic products."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

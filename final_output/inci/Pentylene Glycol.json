@@ -1,0 +1,83 @@
+{
+  "ingredient": "Pentylene Glycol",
+  "search_results": [
+    {
+      "identifier": "5496",
+      "inci_name": "PENTYLENE GLYCOL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 5496,
+      "inci_name": "PENTYLENE GLYCOL",
+      "name": "Pentylene glycol",
+      "description": "Pentylene glycol is an ingredient found naturally in certain plants. It is mainly used in cosmetics as a solvent: it ensures the homogeneity of the mixture. Today, pentylene glycol can be manufactured from plant-based, non-petrochemical materials, as is the case when the product is COSMOS-certified.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "5343-92-0",
+      "einecs_elincs": "226-285-3",
+      "cosmetic_restriction": "",
+      "percentage": 5.83,
+      "category_percentage": [
+        {
+          "category_name": "Face cream",
+          "percentage": "17.03",
+          "count": 1909
+        },
+        {
+          "category_name": "Foundation",
+          "percentage": "16.12",
+          "count": 1678
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "11.84",
+          "count": 1419
+        },
+        {
+          "category_name": "Anti-aging day face cream",
+          "percentage": "24.7",
+          "count": 1235
+        },
+        {
+          "category_name": "Face moisturizing serum",
+          "percentage": "23.68",
+          "count": 1088
+        }
+      ],
+      "score": 3,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Solvent",
+          "description": "Dissolves other substances"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 3,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

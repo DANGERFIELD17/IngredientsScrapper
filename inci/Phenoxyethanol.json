@@ -1,0 +1,128 @@
+{
+  "ingredient": "Phenoxyethanol",
+  "search_results": [
+    {
+      "identifier": "19762",
+      "inci_name": "PHENOXYETHANOL"
+    },
+    {
+      "identifier": "27942",
+      "inci_name": "PHENOXYETHANOL (AND) METHYLISOTHIAZOLINONE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 19762,
+      "inci_name": "PHENOXYETHANOL",
+      "name": "Phenoxyethanol",
+      "description": "Phenoxyethanol is a synthetic preservative known by the acronym of EGPhE, widely used in cosmetics and increasingly controversial. Since 2012, the ANSM (National Agency for the Safety of Medicines and Health Products) has recommended that this preservative not be used in cosmetic products intended for babies' seats and that its maximum content be set at 0.4% for other products for children under 3 years old. It also denounces its liver toxicity, its potentially harmful effects on reproduction as well as many other inconveniences: the conclusions of the 2012 ANSM report are alarming.\r\nIn its opinion of May 2018, the Temporary Scientific Special Committee (CSST) responsible for the re-evaluation of phenoxyethanol at the European level, for its part concluded: \"The recommendation by the Ansm of non-use of phenoxyethanol in products It is advisable to extend it to wipes, which are very commonly used also for cleaning the seats of young children.In all other cosmetic products intended for children aged 3 and under, the maximum concentration of Phenoxyethanol could remain 1%. \" The CSST would therefore follow the ANSM for wipes but not for concentration. In any case, by law, phenoxyethanol is still allowed in baby wipes!\r\nPhenoxyethanol is produced by ethoxylation (a highly polluting chemical process) by reacting phenol and ethylene oxide at high temperature and pressure. Note, however, that phenoxyethanol is naturally present in green tea, but it is not this version of the compound that is used in cosmetics. Due to its manufacturing process, Phenoxyethanol is banned in Bio.",
+      "regulation": "The maximum concentration allowed in a ready-to-use preparation is 1%.",
+      "reference": "ANSM (20/03/2019) - https://ansm.sante.fr/S-informer/Actualite/Les-produits-cosmetiques-non-rinces-contenant-du-phenoxyethanol-ne-doivent-pas-etre-utilises-sur-les-fesses-des-enfants-de-3-ans-ou-moins-Point-d-Information\r\n\r\nREACH 2-phenoxyethanol - https://echa.europa.eu/fr/substance-information/-/substanceinfo/100.004.173\r\n\r\nANSM, Évaluation du risque lié à l'utilisation du phénoxyéthanol dans les produits cosmétiques (01/06/2012)  -  https://ansm.sante.fr/content/download/41622/541540/version/3/file/phenoxyethanol-cosmetiques_rapport-actualise-2017.pdf\r\n\r\nRecommandation de l'ANSM - https://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Concentration-de-phenoxyethanol-dans-les-produits-cosmetiques-Point-d-information2\r\n\r\nUtilisation du phénoxyéthanol dans les produits cosmétiques - Rapport du CSST (28/05/2018) -https://ansm.sante.fr/content/download/144297/1906413/version/1/file/Rapport+Phenoxyethanol-CSST.pdf\r\n\r\nINRS - Fiche Toxicologique n°269 - http://www.inrs.fr/publications/bdd/fichetox/fiche.html?refINRS=FICHETOX_269\r\n\r\nECHA - https://echa.europa.eu/fr/registration-dossier/-/registered-dossier/15160/5/1\r\n\r\nPubChem - https://pubchem.ncbi.nlm.nih.gov/compound/2-Phenoxyethanol#section=Vapor-Pressure",
+      "cheminical_iupac_name": "",
+      "cas": "122-99-6",
+      "einecs_elincs": "204-589-7",
+      "cosmetic_restriction": "V/29",
+      "percentage": 33.43,
+      "category_percentage": [
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "50.95",
+          "count": 7884
+        },
+        {
+          "category_name": "Foundation",
+          "percentage": "67.32",
+          "count": 7007
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "29.63",
+          "count": 6922
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "42.07",
+          "count": 5055
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "43.89",
+          "count": 4837
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 30,
+          "name": "Alcohol",
+          "score": 2
+        },
+        {
+          "id": 35,
+          "name": "Preservative",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antimicrobial",
+          "description": "Helps slowing the growth of micro-organisms on the skin and counteracts the development of microbes"
+        },
+        {
+          "name": "Preservative",
+          "description": "Inhibits the development of microorganisms in cosmetic products."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 10,
+          "categories": [
+            {
+              "label": "Baby bubble bath, Baby set, Baby care set, Diaper cream, Baby cleansing water, Baby shower gel and cream, Baby bath oil, Baby massage oil, Baby oil, Nose hygiene, Baby cleansing milk, Baby milk and moisturizer, Baby cleaning wipes, Liniment, Baby washing foam, Solid baby soap, Physiological serum, Baby shampoo, 2-in-1 shampoo and body wash for baby, Milk crust care, First teeth care, Talc and powder",
+              "icon": "https://incibeauty.com/img/icon/ic_baby_circle_filled_red@64.png"
+            }
+          ],
+          "label": "\"Strong penalty\" in the following categories :"
+        },
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all other categories."
+        }
+      ]
+    },
+    {
+      "id": 27942,
+      "inci_name": "PHENOXYETHANOL (AND) METHYLISOTHIAZOLINONE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

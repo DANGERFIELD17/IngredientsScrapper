@@ -1,0 +1,87 @@
+{
+  "ingredient": "Benzalkonium Chloride",
+  "search_results": [
+    {
+      "identifier": "15691",
+      "inci_name": "BENZALKONIUM CHLORIDE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 15691,
+      "inci_name": "BENZALKONIUM CHLORIDE",
+      "name": "Benzalkonium Chloride",
+      "description": "",
+      "regulation": "For purposes other than inhibiting the development of microorganisms in the product. This purpose must be apparent from the presentation of the product.\r\nThe maximum permissible concentration in ready-to-use cosmetic preparations is 0.1% (benzalkonium chloride).\r\n\r\nWording of conditions of employment and warnings:\r\n- Avoid contact with eyes",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "63449-41-2 / 68391-01-5 / 68424-85-1 / 85409-22-9",
+      "einecs_elincs": "264-151-6 / 269-919-4 / 270-325-2 / 287-089-1",
+      "cosmetic_restriction": "V/54\r\nIII/65",
+      "percentage": 0.26,
+      "category_percentage": [
+        {
+          "category_name": "Baby cleaning wipes",
+          "percentage": "4.15",
+          "count": 83
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.26",
+          "count": 60
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 35,
+          "name": "Preservative",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antimicrobial",
+          "description": "Helps slowing the growth of micro-organisms on the skin and counteracts the development of microbes"
+        },
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Deodorant",
+          "description": "Reduces or masks unpleasant body odors"
+        },
+        {
+          "name": "Preservative",
+          "description": "Inhibits the development of microorganisms in cosmetic products."
+        },
+        {
+          "name": "Surfactant-dispersing",
+          "description": "Help distribute an insoluble solid in a liquid phase. Suspensions or dispersions of liquids in a second liquid are generally called emulsions. "
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

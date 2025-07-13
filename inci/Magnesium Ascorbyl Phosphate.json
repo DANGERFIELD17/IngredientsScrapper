@@ -1,0 +1,65 @@
+{
+  "ingredient": "Magnesium Ascorbyl Phosphate",
+  "search_results": [
+    {
+      "identifier": "18740",
+      "inci_name": "MAGNESIUM ASCORBYL PHOSPHATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 18740,
+      "inci_name": "MAGNESIUM ASCORBYL PHOSPHATE",
+      "name": "Magnesium Ascorbyl Phosphate",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "114040-31-2 --- 113170-55-1",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.3,
+      "category_percentage": [
+        {
+          "category_name": "Foundation",
+          "percentage": "1.83",
+          "count": 191
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "0.88",
+          "count": 99
+        },
+        {
+          "category_name": "Nail polish",
+          "percentage": "0.86",
+          "count": 78
+        },
+        {
+          "category_name": "Face moisturizing serum",
+          "percentage": "0.89",
+          "count": 41
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antioxidant",
+          "description": "Inhibits reactions favored by oxygen, thus avoiding oxidation and rancidity"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

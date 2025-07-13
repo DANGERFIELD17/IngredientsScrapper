@@ -1,0 +1,70 @@
+{
+  "ingredient": "Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate",
+  "search_results": [
+    {
+      "identifier": "1568",
+      "inci_name": "PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 1568,
+      "inci_name": "PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE",
+      "name": "Pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate",
+      "description": "This ingredient is used as a synthetic antioxidant in cosmetics.\r\nThe EIF expert group concluded in 2014 that the substance was safe and was not a sensitizer.",
+      "regulation": "",
+      "reference": "CIR (2014) - http://www.cir-safety.org/sites/default/files/pentae032014final.pdf",
+      "cheminical_iupac_name": "",
+      "cas": "6683-19-8",
+      "einecs_elincs": "229-722-6",
+      "cosmetic_restriction": "",
+      "percentage": 3.49,
+      "category_percentage": [
+        {
+          "category_name": "Lipstick",
+          "percentage": "30.84",
+          "count": 3637
+        },
+        {
+          "category_name": "Foundation",
+          "percentage": "16.32",
+          "count": 1699
+        },
+        {
+          "category_name": "Gloss and lip gloss",
+          "percentage": "23.4",
+          "count": 727
+        },
+        {
+          "category_name": "Lip pencil",
+          "percentage": "31.31",
+          "count": 669
+        },
+        {
+          "category_name": "Eyeshadow",
+          "percentage": "6.62",
+          "count": 527
+        }
+      ],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antioxidant",
+          "description": "Inhibits reactions favored by oxygen, thus avoiding oxidation and rancidity"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

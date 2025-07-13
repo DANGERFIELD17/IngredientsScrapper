@@ -1,4 +1,0 @@
-{
-  "ingredient": "Ethylhexylglycerin",
-  "error": "Error searching for Ethylhexylglycerin: 429 Client Error: Too Many Requests for url: https://api.incibeauty.com/ingredient/search/Ethylhexylglycerin?accessKeyId=d5ae0e8abc0cc240&hmac=73f86e97be77e6b1e4b80a1f1682736601af65513fbf0321572b78934d7d5c93"
-}

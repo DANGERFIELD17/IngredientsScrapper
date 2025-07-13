@@ -1,0 +1,428 @@
+{
+  "ingredient": "Hydroxyethylcellulose",
+  "search_results": [
+    {
+      "identifier": "3830",
+      "inci_name": "HYDROXYETHYLCELLULOSE"
+    },
+    {
+      "identifier": "9776",
+      "inci_name": "CETYL HYDROXYETHYLCELLULOSE"
+    },
+    {
+      "identifier": "20898",
+      "inci_name": "PG-HYDROXYETHYLCELLULOSE COCODIMONIUM CHLORIDE"
+    },
+    {
+      "identifier": "969",
+      "inci_name": "CARBOXYMETHYL HYDROXYETHYLCELLULOSE"
+    },
+    {
+      "identifier": "13099",
+      "inci_name": "METHYL HYDROXYETHYLCELLULOSE"
+    },
+    {
+      "identifier": "292",
+      "inci_name": "PG-HYDROXYETHYLCELLULOSE STEARYLDIMONIUM CHLORIDE"
+    },
+    {
+      "identifier": "5063",
+      "inci_name": "SODIUM STEAROXY PG-HYDROXYETHYLCELLULOSE SULFONATE"
+    },
+    {
+      "identifier": "16105",
+      "inci_name": "PG-HYDROXYETHYLCELLULOSE LAURYLDIMONIUM CHLORIDE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 3830,
+      "inci_name": "HYDROXYETHYLCELLULOSE",
+      "name": "Hydroxyethylcellulose",
+      "description": "Hydroxyethylcellulose is a polymer obtained by the action of ethylene oxide on cellulose. It is used in cosmetics as a thickener.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "9004-62-0",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 3.82,
+      "category_percentage": [
+        {
+          "category_name": "Mascara",
+          "percentage": "46.45",
+          "count": 1483
+        },
+        {
+          "category_name": "Fabric mask",
+          "percentage": "24.77",
+          "count": 1246
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "10.84",
+          "count": 1193
+        },
+        {
+          "category_name": "Hair colouring",
+          "percentage": "15.98",
+          "count": 1154
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "9.68",
+          "count": 673
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Binding agent",
+          "description": "Allows the cohesion of different cosmetic ingredients"
+        },
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        },
+        {
+          "name": "Stabilising",
+          "description": "Improves ingredients or stability of the formula and shelf life"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 9776,
+      "inci_name": "CETYL HYDROXYETHYLCELLULOSE",
+      "name": "Cetyl Hydroxyethylcellulose",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "80455-45-4",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.19,
+      "category_percentage": [
+        {
+          "category_name": "Hair colouring",
+          "percentage": "1.66",
+          "count": 120
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "0.7",
+          "count": 49
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "0.39",
+          "count": 43
+        }
+      ],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20898,
+      "inci_name": "PG-HYDROXYETHYLCELLULOSE COCODIMONIUM CHLORIDE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "130353-64-9",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.02,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 969,
+      "inci_name": "CARBOXYMETHYL HYDROXYETHYLCELLULOSE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "9088-04-4",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Binding agent",
+          "description": "Allows the cohesion of different cosmetic ingredients"
+        },
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 13099,
+      "inci_name": "METHYL HYDROXYETHYLCELLULOSE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "9032-42-2",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Stabilising",
+          "description": "Improves ingredients or stability of the formula and shelf life"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "inci_name": "PG-HYDROXYETHYLCELLULOSE STEARYLDIMONIUM CHLORIDE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 5063,
+      "inci_name": "SODIUM STEAROXY PG-HYDROXYETHYLCELLULOSE SULFONATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 16105,
+      "inci_name": "PG-HYDROXYETHYLCELLULOSE LAURYLDIMONIUM CHLORIDE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "137802-19-8",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

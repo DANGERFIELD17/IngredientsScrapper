@@ -1,0 +1,145 @@
+================================================================================
+COMPREHENSIVE AQUA ANALYSIS REPORT
+================================================================================
+Generated: 2025-07-13 13:31:40
+
+OVERVIEW:
+Ingredient Analyzed: Aqua
+Total Posts Analyzed: 139
+Posts with Comments: 139
+Comment Coverage: 100.0%
+
+POSITIVE BENEFITS ANALYSIS:
+--------------------------------------------------
+Total Positive Statements: 2
+Key Positive Themes:
+  • High Recommendation: 1 mentions
+  • Nail Strength & Beauty: 1 mentions
+  • Overall Effectiveness: 1 mentions
+
+NEGATIVE CONS ANALYSIS:
+--------------------------------------------------
+Total Negative Statements: 3
+Key Negative Themes:
+  • Side Effects: 2 mentions
+  • Ineffectiveness: 1 mentions
+
+DOSAGE EFFECTIVENESS ANALYSIS:
+--------------------------------------------------
+Total Dosage Statements: 4
+Dosage Insights:
+  • Percentage-Based Dosage: 3 mentions
+  • Medium Dose Usage (5,000 units): 1 mentions
+  • Effective Dosage: 1 mentions
+  • Overdose Concerns: 1 mentions
+
+Most Common Dosages:
+  • 220 mg: 2 mentions
+  • 50 mg: 2 mentions
+  • 50 percent: 1 mentions
+  • 90 percent: 1 mentions
+  • 80 mg: 1 mentions
+  • 584 %: 1 mentions
+
+CATEGORY BREAKDOWN:
+--------------------------------------------------
+Ingredient Usage Patterns: 58 posts (41.7%)
+Treatment Experiences: 115 posts (82.7%)
+Product Recommendations: 131 posts (94.2%)
+Progress Report: 75 posts (54.0%)
+Side Effects: 62 posts (44.6%)
+Dosage Questions: 42 posts (30.2%)
+Combination Therapy: 139 posts (100.0%)
+Seeking Advice: 139 posts (100.0%)
+Humor Meme: 99 posts (71.2%)
+Scientific Discussion: 27 posts (19.4%)
+
+TOP INGREDIENT COMBINATIONS:
+--------------------------------------------------
+
+TOP INGREDIENTS MENTIONED IN COMMENTS:
+--------------------------------------------------
+  • vitamin c: 1 mentions
+
+TOP BRANDS MENTIONED:
+--------------------------------------------------
+  • costco: 3 mentions
+
+PRODUCT FORMS:
+--------------------------------------------------
+  • liquid: 8 mentions
+  • spray: 7 mentions
+  • oil: 4 mentions
+  • cream: 4 mentions
+  • powder: 3 mentions
+  • drops: 2 mentions
+  • gel: 1 mentions
+  • patches: 1 mentions
+  • lotion: 1 mentions
+
+BODY PARTS WHERE AQUA IS USED:
+--------------------------------------------------
+  • head: 25 mentions
+  • face: 24 mentions
+  • skin: 7 mentions
+  • hair: 5 mentions
+  • nails: 4 mentions
+  • nail: 1 mentions
+  • temples: 1 mentions
+  • mustache: 1 mentions
+  • scalp: 1 mentions
+
+SENTIMENT ANALYSIS:
+--------------------------------------------------
+Positive sentiment keywords: 317 (68.9%)
+Negative sentiment keywords: 143 (31.1%)
+Overall sentiment: POSITIVE
+
+SENTIMENT INDICATORS:
+--------------------------------------------------
+Positive sentiment posts: 92
+Negative sentiment posts: 25
+
+TEMPORAL PATTERNS:
+--------------------------------------------------
+2017: 10 posts
+2018: 9 posts
+2019: 14 posts
+2020: 36 posts
+2021: 22 posts
+2022: 17 posts
+2023: 8 posts
+2024: 7 posts
+2025: 16 posts
+
+SUBREDDIT DISTRIBUTION:
+--------------------------------------------------
+interestingasfuck: 26 posts (18.7%)
+aww: 13 posts (9.4%)
+Damnthatsinteresting: 10 posts (7.2%)
+pics: 9 posts (6.5%)
+nextfuckinglevel: 9 posts (6.5%)
+funny: 8 posts (5.8%)
+gifs: 8 posts (5.8%)
+todayilearned: 6 posts (4.3%)
+mildlyinteresting: 4 posts (2.9%)
+oddlysatisfying: 4 posts (2.9%)
+MadeMeSmile: 4 posts (2.9%)
+PublicFreakout: 3 posts (2.2%)
+news: 3 posts (2.2%)
+worldnews: 2 posts (1.4%)
+BeAmazed: 2 posts (1.4%)
+Unexpected: 2 posts (1.4%)
+tifu: 2 posts (1.4%)
+memes: 2 posts (1.4%)
+apolloapp: 1 posts (0.7%)
+movies: 1 posts (0.7%)
+
+KEY INSIGHTS:
+--------------------------------------------------
+• High Recommendation is the most mentioned benefit (1 mentions)
+• Side Effects is the primary concern (2 mentions)
+• 220 mg is the most commonly mentioned dosage
+• costco is the most trusted brand (3 mentions)
+• liquid form is the most popular product form (8 mentions)
+• head is the primary usage area (25 mentions)

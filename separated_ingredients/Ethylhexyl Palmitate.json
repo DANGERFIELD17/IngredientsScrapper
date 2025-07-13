@@ -1,4 +1,0 @@
-{
-  "ingredient": "Ethylhexyl Palmitate",
-  "error": "Error searching for Ethylhexyl Palmitate: 429 Client Error: Too Many Requests for url: https://api.incibeauty.com/ingredient/search/Ethylhexyl%20Palmitate?accessKeyId=d5ae0e8abc0cc240&hmac=cf68e82e9f3a399fadfb2048eeacf09745af55693bb7d477e2cf86e58c39d1a4"
-}

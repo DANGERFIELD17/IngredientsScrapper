@@ -1,0 +1,14 @@
+{
+  "ingredient": "Tetrasodium Pyrophosphate",
+  "search_results": [
+    {
+      "identifier": "16171",
+      "inci_name": "TETRASODIUM PYROPHOSPHATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "error": "Error fetching info for ID 16171: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "ingredient": "Disodium Phosphate",
+  "search_results": [
+    {
+      "identifier": "5706",
+      "inci_name": "DISODIUM PHOSPHATE"
+    },
+    {
+      "identifier": "2381",
+      "inci_name": "DISODIUM LAURIMINODIPROPIONATE TOCOPHERYL PHOSPHATES"
+    },
+    {
+      "identifier": "30508",
+      "inci_name": "DISODIUM ACETYL GLUCOSAMINE PHOSPHATE"
+    },
+    {
+      "identifier": "475",
+      "inci_name": "DISODIUM URIDINE PHOSPHATE"
+    },
+    {
+      "identifier": "8651",
+      "inci_name": "DISODIUM ADENOSINE PHOSPHATE"
+    },
+    {
+      "identifier": "16064",
+      "inci_name": "DISODIUM GLUCOSE PHOSPHATE"
+    },
+    {
+      "identifier": "17960",
+      "inci_name": "DISODIUM LAURYL PHOSPHATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 5706,
+      "inci_name": "DISODIUM PHOSPHATE",
+      "name": "Disodium Phosphate",
+      "description": "Disodium Phosphate is a synthetic ingredient, it is used as a laxative. It is also used in the manufacture of enamel and ceramics for dentists. In cosmetics, it is used for its descaling and masking properties.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "7558-79-4 / 7782-85-6",
+      "einecs_elincs": "231-448-7 / -",
+      "cosmetic_restriction": "",
+      "percentage": 1.16,
+      "category_percentage": [
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "3.81",
+          "count": 458
+        },
+        {
+          "category_name": "Hair colouring",
+          "percentage": "4.64",
+          "count": 335
+        },
+        {
+          "category_name": "Adult toothpaste",
+          "percentage": "3.88",
+          "count": 274
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "1.95",
+          "count": 219
+        },
+        {
+          "category_name": "Mascara",
+          "percentage": "6.51",
+          "count": 208
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Anticorrosive",
+          "description": "Prevents corrosion of the packaging"
+        },
+        {
+          "name": "pH regulator",
+          "description": "Stabilises the pH of cosmetics"
+        },
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 2381,
+      "inci_name": "DISODIUM LAURIMINODIPROPIONATE TOCOPHERYL PHOSPHATES",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foaming",
+          "description": "Capturing small air bubbles or other gases in a small volume of liquid by changing the surface tension of the liquid"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Hair fixing",
+          "description": "Allows hair style control"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 30508,
+      "inci_name": "DISODIUM ACETYL GLUCOSAMINE PHOSPHATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "102029-88-9",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 475,
+      "inci_name": "DISODIUM URIDINE PHOSPHATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "3387-36-8",
+      "einecs_elincs": "222-211-9",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 8651,
+      "inci_name": "DISODIUM ADENOSINE PHOSPHATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "4578-31-8",
+      "einecs_elincs": "224-961-2",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 16064,
+      "inci_name": "DISODIUM GLUCOSE PHOSPHATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "59-56-3",
+      "einecs_elincs": "200-435-8",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 17960,
+      "inci_name": "DISODIUM LAURYL PHOSPHATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "50957-96-5",
+      "einecs_elincs": "256-865-1",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

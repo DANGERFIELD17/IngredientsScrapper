@@ -1,0 +1,44 @@
+{
+  "ingredient": "Saponaria Officinalis Leaf_Root Extract",
+  "search_results": [
+    {
+      "identifier": "8035",
+      "inci_name": "SAPONARIA OFFICINALIS LEAF/ROOT EXTRACT"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 8035,
+      "inci_name": "SAPONARIA OFFICINALIS LEAF/ROOT EXTRACT",
+      "name": null,
+      "description": "Saponaria officinalis is a common perennial plant from the carnation family (Caryophyllaceae). This plant has many common names, including common soapwort, bouncing-bet, crow soap, wild sweet William, and soapweed. There are about 20 species of soapworts altogether.\nThe scientific name Saponaria is derived from the Latin sapo (stem sapon-) meaning \"soap\", which, like its common name, refers to its utility in cleaning. From this same Latin word is derived the name of the toxic substance saponin, contained in the roots at levels up to 20 percent when the plant is flowering (Indian soapnuts contain only 15 percent). It produces a lather when in contact with water. The epithet officinalis indicates its medicinal functions. It is a common host plant for some adult moth species, including the white-lined sphinx.Saponaria officinalis' native range extends throughout Europe, and in Asia to western Siberia. It grows in cool places at low or moderate elevations under hedgerows and along the shoulders of roadways. It can be found in much of North America.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "84775-97-3",
+      "einecs_elincs": "283-921-2",
+      "cosmetic_restriction": "",
+      "percentage": 0.04,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

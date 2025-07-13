@@ -1,0 +1,347 @@
+{
+  "ingredient": "Ascorbic Acid",
+  "search_results": [
+    {
+      "identifier": "14710",
+      "inci_name": "ASCORBIC ACID"
+    },
+    {
+      "identifier": "12763",
+      "inci_name": "3-O-ETHYL ASCORBIC ACID"
+    },
+    {
+      "identifier": "20137",
+      "inci_name": "ETHYL ASCORBIC ACID"
+    },
+    {
+      "identifier": "51",
+      "inci_name": "2-O-ETHYL ASCORBIC ACID"
+    },
+    {
+      "identifier": "18861",
+      "inci_name": "ASCORBIC ACID POLYPEPTIDE"
+    },
+    {
+      "identifier": "580",
+      "inci_name": "ASCORBIC ACID/ORANGE/CITRUS LIMON/CITRUS AURANTIFOLIA POLYPEPTIDES"
+    },
+    {
+      "identifier": "3966",
+      "inci_name": "DIETHYL ASCORBIC ACID"
+    },
+    {
+      "identifier": "9689",
+      "inci_name": "3-O-CETYL ASCORBIC ACID"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 14710,
+      "inci_name": "ASCORBIC ACID",
+      "name": "Ascorbic acid",
+      "description": "Better known as Vitamin C, ascorbic acid is used in cosmetics for its antioxidant properties. It is found quite regularly in anti-aging active ingredients, since it protects cells from damage caused by free radicals and evens out the complexion. It is also present in many other skincare products for these properties.\nIt is present in its natural form in fruits and vegetables (lemons, oranges, kiwis, etc.)",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "50-81-7 / 62624-30-0",
+      "einecs_elincs": "200-066-2 / 263-644-3",
+      "cosmetic_restriction": "",
+      "percentage": 3.01,
+      "category_percentage": [
+        {
+          "category_name": "Hair colouring",
+          "percentage": "61.79",
+          "count": 4461
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "4",
+          "count": 449
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "1.59",
+          "count": 372
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "2.97",
+          "count": 356
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "2.25",
+          "count": 347
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antioxidant",
+          "description": "Inhibits reactions favored by oxygen, thus avoiding oxidation and rancidity"
+        },
+        {
+          "name": "pH regulator",
+          "description": "Stabilises the pH of cosmetics"
+        },
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 12763,
+      "inci_name": "3-O-ETHYL ASCORBIC ACID",
+      "name": "3-o-ethyl Ascorbic Acid",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "86404-04-8",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.43,
+      "category_percentage": [
+        {
+          "category_name": "Face moisturizing serum",
+          "percentage": "4.79",
+          "count": 220
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "1.02",
+          "count": 114
+        },
+        {
+          "category_name": "Fabric mask",
+          "percentage": "2.09",
+          "count": 105
+        },
+        {
+          "category_name": "Anti-aging day face cream",
+          "percentage": "1.3",
+          "count": 65
+        },
+        {
+          "category_name": "Day anti-ageing face serum",
+          "percentage": "2.22",
+          "count": 65
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20137,
+      "inci_name": "ETHYL ASCORBIC ACID",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "L-Ascorbic Acid, 3-O-Ethyl Ether",
+      "cas": "86404-04-8",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.04,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "inci_name": "2-O-ETHYL ASCORBIC ACID",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "112894-37-8",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 18861,
+      "inci_name": "ASCORBIC ACID POLYPEPTIDE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antioxidant",
+          "description": "Inhibits reactions favored by oxygen, thus avoiding oxidation and rancidity"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 580,
+      "inci_name": "ASCORBIC ACID/ORANGE/CITRUS LIMON/CITRUS AURANTIFOLIA POLYPEPTIDES",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "167973-55-9",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "II/358",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 3966,
+      "inci_name": "DIETHYL ASCORBIC ACID",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "277325-36-7",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 9689,
+      "inci_name": "3-O-CETYL ASCORBIC ACID",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "88306-70-1",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

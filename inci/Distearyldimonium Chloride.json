@@ -1,0 +1,80 @@
+{
+  "ingredient": "Distearyldimonium Chloride",
+  "search_results": [
+    {
+      "identifier": "5894",
+      "inci_name": "DISTEARYLDIMONIUM CHLORIDE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 5894,
+      "inci_name": "DISTEARYLDIMONIUM CHLORIDE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "107-64-2",
+      "einecs_elincs": "203-508-2",
+      "cosmetic_restriction": "",
+      "percentage": 0.16,
+      "category_percentage": [
+        {
+          "category_name": "Dry shampoo",
+          "percentage": "21.74",
+          "count": 235
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "0.59",
+          "count": 91
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "0.69",
+          "count": 76
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "0.66",
+          "count": 46
+        },
+        {
+          "category_name": "Compact powder",
+          "percentage": "1.63",
+          "count": 43
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}
