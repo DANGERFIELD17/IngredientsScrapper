@@ -1,0 +1,50 @@
+{
+  "ingredient": "Benzyl Nicotinate",
+  "search_results": [
+    {
+      "identifier": "6035",
+      "inci_name": "BENZYL NICOTINATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 6035,
+      "inci_name": "BENZYL NICOTINATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "94-44-0",
+      "einecs_elincs": "202-332-3",
+      "cosmetic_restriction": "",
+      "percentage": 0.04,
+      "category_percentage": [
+        {
+          "category_name": "Gloss and lip gloss",
+          "percentage": "1.74",
+          "count": 54
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

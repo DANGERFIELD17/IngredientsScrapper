@@ -1,0 +1,938 @@
+{
+  "ingredient": "Arginine",
+  "search_results": [
+    {
+      "identifier": "522",
+      "inci_name": "ARGININE"
+    },
+    {
+      "identifier": "11614",
+      "inci_name": "ARGININE HCL"
+    },
+    {
+      "identifier": "12837",
+      "inci_name": "ARGININE PCA"
+    },
+    {
+      "identifier": "1806",
+      "inci_name": "ARGININE/LYSINE POLYPEPTIDE"
+    },
+    {
+      "identifier": "16667",
+      "inci_name": "ARGININE FERULATE"
+    },
+    {
+      "identifier": "15872",
+      "inci_name": "LAUROYL ARGININE"
+    },
+    {
+      "identifier": "9138",
+      "inci_name": "DIHYDROXYPROPYL ARGININE HCL"
+    },
+    {
+      "identifier": "14985",
+      "inci_name": "ARGININE COCOATE"
+    },
+    {
+      "identifier": "17836",
+      "inci_name": "ARGININE BICARBONATE"
+    },
+    {
+      "identifier": "11276",
+      "inci_name": "ACETYL CITRULL AMIDO ARGININE"
+    },
+    {
+      "identifier": "17991",
+      "inci_name": "HYDROXYPROPYL ARGININE LAURYL/MYRISTYL ETHER HCL"
+    },
+    {
+      "identifier": "40122",
+      "inci_name": "POTASSIUM COCOYL (ARGININE/GLUTAMIC ACID/ISOLEUCINE/LEUCINE/LYSINE/PHENYLALANINE/PROLINE/THREONINE/VALINE)"
+    },
+    {
+      "identifier": "11440",
+      "inci_name": "ARGININE ASPARTATE"
+    },
+    {
+      "identifier": "100094",
+      "inci_name": "ARGININE LEVULINATE"
+    },
+    {
+      "identifier": "10305",
+      "inci_name": "ARGININE GLUTAMATE"
+    },
+    {
+      "identifier": "37606",
+      "inci_name": "LAUROYL/OLIVOYL (ARGININE/GLUTAMIC ACID/ISOLEUCINE/LEUCINE/LYSINE/PHENYLALANINE/PROLINE/THREONINE/VALINE)"
+    },
+    {
+      "identifier": "39818",
+      "inci_name": "SODIUM BEHENOYL/COCOYL (ARGININE/GLUTAMIC ACID/ISOLEUCINE/LEUCINE/LYSINE/PHENYLALANINE/PROLINE/THREONINE/VALINE)"
+    },
+    {
+      "identifier": "40964",
+      "inci_name": "LAURDIMONIUM HYDROXYPROPYL (ARGININE/GLUTAMIC ACID/ISOLEUCINE/LEUCINE/LYSINE/PHENYLALANINE/PROLINE/THREONINE/VALINE)"
+    },
+    {
+      "identifier": "19950",
+      "inci_name": "SODIUM COCOYL/STEAROYL (ALANINE/ARGININE/ASPARAGINE/ASPARTIC ACID/GLUTAMIC ACID/GLUTAMINE/GLYCINE/HISTIDINE/ISOLEUCINE/LEUCINE/LYSINE/PHENYLALANINE/PROLINE/SERINE/THREONINE/TYROSINE/VALINE)"
+    },
+    {
+      "identifier": "8097",
+      "inci_name": "ARGININE LAUROYL METHYL BETA-ALANINATE"
+    },
+    {
+      "identifier": "38599",
+      "inci_name": "POTASSIUM OLIVOYL (ARGININE/GLUTAMIC ACID/ISOLEUCINE/LEUCINE/LYSINE/PHENYLALANINE/PROLINE/THREONINE/VALINE)"
+    },
+    {
+      "identifier": "19160",
+      "inci_name": "DIMETHICONOL ARGININE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 522,
+      "inci_name": "ARGININE",
+      "name": "Arginine",
+      "description": "Arginine is one of those essential amino acids that our body can not do without, especially for the synthesis of proteins. For example, it is used by the body to synthesize nitric oxide and creatine. Arginine is known to promote hair growth. You will find in many care curbing the hair loss and increasing their resistance.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "74-79-3 / 7200-25-1",
+      "einecs_elincs": "200-811-1 / 230-571-3",
+      "cosmetic_restriction": "",
+      "percentage": 2.83,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "5.31",
+          "count": 1239
+        },
+        {
+          "category_name": "Fabric mask",
+          "percentage": "17.55",
+          "count": 883
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "6.1",
+          "count": 672
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "5.44",
+          "count": 652
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "5.12",
+          "count": 574
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Animal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 11614,
+      "inci_name": "ARGININE HCL",
+      "name": "Arginine Hcl",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1119-34-2",
+      "einecs_elincs": "214-275-1",
+      "cosmetic_restriction": "",
+      "percentage": 0.3,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.89",
+          "count": 207
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "1.02",
+          "count": 112
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "1.6",
+          "count": 111
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "1.16",
+          "count": 73
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 12837,
+      "inci_name": "ARGININE PCA",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "56265-06-6 / 64855-91-0",
+      "einecs_elincs": "260-081-5 / 265-253-3",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [
+        {
+          "category_name": "Foundation",
+          "percentage": "0.45",
+          "count": 47
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 1806,
+      "inci_name": "ARGININE/LYSINE POLYPEPTIDE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "31014-78-5",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 16667,
+      "inci_name": "ARGININE FERULATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 15872,
+      "inci_name": "LAUROYL ARGININE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "42492-22-8",
+      "einecs_elincs": "255-851-2",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 9138,
+      "inci_name": "DIHYDROXYPROPYL ARGININE HCL",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "787607-61-8",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 14985,
+      "inci_name": "ARGININE COCOATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 17836,
+      "inci_name": "ARGININE BICARBONATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Oral care/hygiene agent",
+          "description": "Provides cosmetic effects to the oral cavity (cleaning, deodorization and protection)"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 11276,
+      "inci_name": "ACETYL CITRULL AMIDO ARGININE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin protecting",
+          "description": "Helps to avoid the harmful effects of external factors on the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 17991,
+      "inci_name": "HYDROXYPROPYL ARGININE LAURYL/MYRISTYL ETHER HCL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 40122,
+      "inci_name": "POTASSIUM COCOYL (ARGININE/GLUTAMIC ACID/ISOLEUCINE/LEUCINE/LYSINE/PHENYLALANINE/PROLINE/THREONINE/VALINE)",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Foam boosting",
+          "description": "Improves the quality of the foam produced by increasing one or more of the following properties: volume, texture and/or stability"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 11440,
+      "inci_name": "ARGININE ASPARTATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "7675-83-4",
+      "einecs_elincs": "231-656-8",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 100094,
+      "inci_name": "ARGININE LEVULINATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning - miscellaneous",
+          "description": "Improving the appearance of dry and/or damaged skin by reducing flaking and restoring its suppleness."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 10305,
+      "inci_name": "ARGININE GLUTAMATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "4320-30-3",
+      "einecs_elincs": "224-350-0",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 37606,
+      "inci_name": "LAUROYL/OLIVOYL (ARGININE/GLUTAMIC ACID/ISOLEUCINE/LEUCINE/LYSINE/PHENYLALANINE/PROLINE/THREONINE/VALINE)",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 39818,
+      "inci_name": "SODIUM BEHENOYL/COCOYL (ARGININE/GLUTAMIC ACID/ISOLEUCINE/LEUCINE/LYSINE/PHENYLALANINE/PROLINE/THREONINE/VALINE)",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foam boosting",
+          "description": "Improves the quality of the foam produced by increasing one or more of the following properties: volume, texture and/or stability"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 40964,
+      "inci_name": "LAURDIMONIUM HYDROXYPROPYL (ARGININE/GLUTAMIC ACID/ISOLEUCINE/LEUCINE/LYSINE/PHENYLALANINE/PROLINE/THREONINE/VALINE)",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foam boosting",
+          "description": "Improves the quality of the foam produced by increasing one or more of the following properties: volume, texture and/or stability"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 19950,
+      "inci_name": "SODIUM COCOYL/STEAROYL (ALANINE/ARGININE/ASPARAGINE/ASPARTIC ACID/GLUTAMIC ACID/GLUTAMINE/GLYCINE/HISTIDINE/ISOLEUCINE/LEUCINE/LYSINE/PHENYLALANINE/PROLINE/SERINE/THREONINE/TYROSINE/VALINE)",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 8097,
+      "inci_name": "ARGININE LAUROYL METHYL BETA-ALANINATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 38599,
+      "inci_name": "POTASSIUM OLIVOYL (ARGININE/GLUTAMIC ACID/ISOLEUCINE/LEUCINE/LYSINE/PHENYLALANINE/PROLINE/THREONINE/VALINE)",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 19160,
+      "inci_name": "DIMETHICONOL ARGININE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

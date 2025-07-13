@@ -1,0 +1,803 @@
+{
+  "ingredient": "Hydrolyzed Silk",
+  "search_results": [
+    {
+      "identifier": "14390",
+      "inci_name": "HYDROLYZED SILK"
+    },
+    {
+      "identifier": "21446",
+      "inci_name": "ETHYL ESTER OF HYDROLYZED SILK"
+    },
+    {
+      "identifier": "11212",
+      "inci_name": "HYDROLYZED SILK PG-PROPYL METHYLSILANEDIOL CROSSPOLYMER"
+    },
+    {
+      "identifier": "2803",
+      "inci_name": "ISOSTEAROYL HYDROLYZED SILK"
+    },
+    {
+      "identifier": "8350",
+      "inci_name": "SODIUM LAUROYL HYDROLYZED SILK"
+    },
+    {
+      "identifier": "16869",
+      "inci_name": "COCOYL HYDROLYZED SILK"
+    },
+    {
+      "identifier": "20881",
+      "inci_name": "HYDROLYZED SILK PG-PROPYL METHYLSILANEDIOL"
+    },
+    {
+      "identifier": "11722",
+      "inci_name": "COCODIMONIUM HYDROXYPROPYL HYDROLYZED SILK"
+    },
+    {
+      "identifier": "13958",
+      "inci_name": "HYDROXYPROPYLTRIMONIUM HYDROLYZED SILK"
+    },
+    {
+      "identifier": "10134",
+      "inci_name": "QUATERNIUM-79 HYDROLYZED SILK"
+    },
+    {
+      "identifier": "14188",
+      "inci_name": "SODIUM COCOYL HYDROLYZED SILK"
+    },
+    {
+      "identifier": "13209",
+      "inci_name": "HYDROLYZED SILK GLAND POWDER"
+    },
+    {
+      "identifier": "9809",
+      "inci_name": "AMP-ISOSTEAROYL HYDROLYZED SILK"
+    },
+    {
+      "identifier": "57",
+      "inci_name": "STEARDIMONIUM HYDROXYPROPYL HYDROLYZED SILK"
+    },
+    {
+      "identifier": "13042",
+      "inci_name": "MEA-HYDROLYZED SILK"
+    },
+    {
+      "identifier": "384",
+      "inci_name": "HYDROLYZED SILK GLAND EXTRACT"
+    },
+    {
+      "identifier": "9511",
+      "inci_name": "TRIMETHYLSILYL HYDROLYZED SILK PG-PROPYL METHYLSILANEDIOL CROSSPOLYMER"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 14390,
+      "inci_name": "HYDROLYZED SILK",
+      "name": "Hydrolyzed silk",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "96690-41-4",
+      "einecs_elincs": "306-235-8",
+      "cosmetic_restriction": "",
+      "percentage": 0.75,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "2.03",
+          "count": 474
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "2.92",
+          "count": 321
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "3.82",
+          "count": 241
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "2.89",
+          "count": 201
+        },
+        {
+          "category_name": "Hair colouring",
+          "percentage": "1.57",
+          "count": 113
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Animal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 21446,
+      "inci_name": "ETHYL ESTER OF HYDROLYZED SILK",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [
+        {
+          "category_name": "Specific hair care",
+          "percentage": "0.67",
+          "count": 42
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 11212,
+      "inci_name": "HYDROLYZED SILK PG-PROPYL METHYLSILANEDIOL CROSSPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 2803,
+      "inci_name": "ISOSTEAROYL HYDROLYZED SILK",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 8350,
+      "inci_name": "SODIUM LAUROYL HYDROLYZED SILK",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 16869,
+      "inci_name": "COCOYL HYDROLYZED SILK",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20881,
+      "inci_name": "HYDROLYZED SILK PG-PROPYL METHYLSILANEDIOL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 11722,
+      "inci_name": "COCODIMONIUM HYDROXYPROPYL HYDROLYZED SILK",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        },
+        {
+          "id": 19,
+          "name": "Propoxylated compound",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 13958,
+      "inci_name": "HYDROXYPROPYLTRIMONIUM HYDROLYZED SILK",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 10134,
+      "inci_name": "QUATERNIUM-79 HYDROLYZED SILK",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 14188,
+      "inci_name": "SODIUM COCOYL HYDROLYZED SILK",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 13209,
+      "inci_name": "HYDROLYZED SILK GLAND POWDER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "II/419",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 9809,
+      "inci_name": "AMP-ISOSTEAROYL HYDROLYZED SILK",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "III/61",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Maintenance agent for nails",
+          "description": "Improves the nails’ aesthetic characteristics"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "inci_name": "STEARDIMONIUM HYDROXYPROPYL HYDROLYZED SILK",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        },
+        {
+          "id": 19,
+          "name": "Propoxylated compound",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 13042,
+      "inci_name": "MEA-HYDROLYZED SILK",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "III/61",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 21,
+          "name": "MEA",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 384,
+      "inci_name": "HYDROLYZED SILK GLAND EXTRACT",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "II/419",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 9511,
+      "inci_name": "TRIMETHYLSILYL HYDROLYZED SILK PG-PROPYL METHYLSILANEDIOL CROSSPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "ingredient": "Polyquaternium-67",
+  "search_results": [
+    {
+      "identifier": "1082",
+      "inci_name": "POLYQUATERNIUM-67"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 1082,
+      "inci_name": "POLYQUATERNIUM-67",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.08,
+      "category_percentage": [
+        {
+          "category_name": "Hair colouring",
+          "percentage": "2.58",
+          "count": 186
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.29",
+          "count": 68
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

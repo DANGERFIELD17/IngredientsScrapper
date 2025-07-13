@@ -1,0 +1,263 @@
+{
+  "ingredient": "Argania Spinosa Kernel Oil",
+  "search_results": [
+    {
+      "identifier": "15320",
+      "inci_name": "ARGANIA SPINOSA KERNEL OIL"
+    },
+    {
+      "identifier": "2128",
+      "inci_name": "HYDROGENATED ARGANIA SPINOSA KERNEL OIL"
+    },
+    {
+      "identifier": "65255",
+      "inci_name": "PSEUDOZYMA EPICOLA/ARGANIA SPINOSA KERNEL OIL/CAMELLIA JAPONICA SEED OIL/CAMELLIA SINENSIS SEED OIL/SUNFLOWER SEED OIL/SWEET ALMOND OIL FERMENT EXTRACT"
+    },
+    {
+      "identifier": "13783",
+      "inci_name": "PSEUDOZYMA EPICOLA/ARGANIA SPINOSA KERNEL OIL FERMENT FILTRATE"
+    },
+    {
+      "identifier": "64762",
+      "inci_name": "PSEUDOZYMA EPICOLA/ARGANIA SPINOSA KERNEL OIL/OLIVE FRUIT OIL/SUNFLOWER SEED OIL/(ANGELICA GIGAS/LICORICE/LITHOSPERMUM ERYTHRORHIZON) ROOT FERMENT EXTRACT FILTRATE"
+    },
+    {
+      "identifier": "37580",
+      "inci_name": "SACCHAROMYCES/ARGANIA SPINOSA KERNEL OIL FERMENT FILTRATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 15320,
+      "inci_name": "ARGANIA SPINOSA KERNEL OIL",
+      "name": "Argan kernel oil",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "223747-87-3 ; 299184-75-1",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 5.8,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "9",
+          "count": 2100
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "13.42",
+          "count": 1478
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "18.38",
+          "count": 1278
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "7.6",
+          "count": 1173
+        },
+        {
+          "category_name": "Hair colouring",
+          "percentage": "14.35",
+          "count": 1036
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 2128,
+      "inci_name": "HYDROGENATED ARGANIA SPINOSA KERNEL OIL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 65255,
+      "inci_name": "PSEUDOZYMA EPICOLA/ARGANIA SPINOSA KERNEL OIL/CAMELLIA JAPONICA SEED OIL/CAMELLIA SINENSIS SEED OIL/SUNFLOWER SEED OIL/SWEET ALMOND OIL FERMENT EXTRACT",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 13783,
+      "inci_name": "PSEUDOZYMA EPICOLA/ARGANIA SPINOSA KERNEL OIL FERMENT FILTRATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 64762,
+      "inci_name": "PSEUDOZYMA EPICOLA/ARGANIA SPINOSA KERNEL OIL/OLIVE FRUIT OIL/SUNFLOWER SEED OIL/(ANGELICA GIGAS/LICORICE/LITHOSPERMUM ERYTHRORHIZON) ROOT FERMENT EXTRACT FILTRATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 37580,
+      "inci_name": "SACCHAROMYCES/ARGANIA SPINOSA KERNEL OIL FERMENT FILTRATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

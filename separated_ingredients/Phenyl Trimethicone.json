@@ -1,0 +1,256 @@
+{
+  "ingredient": "Phenyl Trimethicone",
+  "search_results": [
+    {
+      "identifier": "10921",
+      "inci_name": "PHENYL TRIMETHICONE"
+    },
+    {
+      "identifier": "11025",
+      "inci_name": "DIPHENYLSILOXY PHENYL TRIMETHICONE"
+    },
+    {
+      "identifier": "10736",
+      "inci_name": "AMINOPROPYL PHENYL TRIMETHICONE"
+    },
+    {
+      "identifier": "375",
+      "inci_name": "PHENYL PROPYL TRIMETHICONE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 10921,
+      "inci_name": "PHENYL TRIMETHICONE",
+      "name": "Phenyl trimethicone",
+      "description": "This silicone derivative is used in cosmetics as an anti-foaming agent and hair conditioner. It reduces the ability of a product to foam when shaken, and improves the texture of damaged hair. It is prohibited in organic.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "2116-84-9",
+      "einecs_elincs": "218-320-6",
+      "cosmetic_restriction": "",
+      "percentage": 1.9,
+      "category_percentage": [
+        {
+          "category_name": "Foundation",
+          "percentage": "22.99",
+          "count": 2393
+        },
+        {
+          "category_name": "Lipstick",
+          "percentage": "11.21",
+          "count": 1322
+        },
+        {
+          "category_name": "Eyeshadow",
+          "percentage": "6.31",
+          "count": 502
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "6.89",
+          "count": 435
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "2.9",
+          "count": 319
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antifoaming",
+          "description": "Removes foam during manufacturing / reduces foam formation in liquid finished products"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 11025,
+      "inci_name": "DIPHENYLSILOXY PHENYL TRIMETHICONE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.15,
+      "category_percentage": [
+        {
+          "category_name": "Foundation",
+          "percentage": "1.33",
+          "count": 138
+        },
+        {
+          "category_name": "Compact powder",
+          "percentage": "3.67",
+          "count": 97
+        },
+        {
+          "category_name": "Lipstick",
+          "percentage": "0.71",
+          "count": 84
+        },
+        {
+          "category_name": "Concealer",
+          "percentage": "4.74",
+          "count": 69
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antifoaming",
+          "description": "Removes foam during manufacturing / reduces foam formation in liquid finished products"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 10736,
+      "inci_name": "AMINOPROPYL PHENYL TRIMETHICONE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.05,
+      "category_percentage": [
+        {
+          "category_name": "Hair colouring",
+          "percentage": "1.5",
+          "count": 108
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 375,
+      "inci_name": "PHENYL PROPYL TRIMETHICONE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

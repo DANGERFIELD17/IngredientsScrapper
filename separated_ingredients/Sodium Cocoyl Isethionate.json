@@ -1,0 +1,168 @@
+{
+  "ingredient": "Sodium Cocoyl Isethionate",
+  "search_results": [
+    {
+      "identifier": "36901",
+      "inci_name": "SODIUM COCOYL ISETHIONATE"
+    },
+    {
+      "identifier": "65218",
+      "inci_name": "SODIUM COCOYL METHYL ISETHIONATE"
+    },
+    {
+      "identifier": "1260",
+      "inci_name": "SODIUM HYDROGENATED COCOYL METHYL ISETHIONATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 36901,
+      "inci_name": "SODIUM COCOYL ISETHIONATE",
+      "name": "Sodium Cocoyl Isethionate",
+      "description": "Sodium Cocoyl Isethionate or SCI is a mild anionic surfactant without sulfate. Derived from the fatty acids of coconut oil and isethionic acid, it has a very good foaming power. It is found in natural products such as solid shampoos.\nSCI is produced by ethoxylation, which makes it a not very ecological ingredient. It is prohibited in the COSMOS specifications.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "61789-32-0 / 58969-27-0",
+      "einecs_elincs": "263-052-5",
+      "cosmetic_restriction": "",
+      "percentage": 1.14,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "4.72",
+          "count": 1102
+        },
+        {
+          "category_name": "Solid shampoo",
+          "percentage": "47.57",
+          "count": 860
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "2.2",
+          "count": 393
+        },
+        {
+          "category_name": "Solid soap",
+          "percentage": "2.64",
+          "count": 228
+        },
+        {
+          "category_name": "Hair colouring",
+          "percentage": "2.01",
+          "count": 145
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 37,
+          "name": "Anionic surfactant",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 65218,
+      "inci_name": "SODIUM COCOYL METHYL ISETHIONATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 1260,
+      "inci_name": "SODIUM HYDROGENATED COCOYL METHYL ISETHIONATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foam boosting",
+          "description": "Improves the quality of the foam produced by increasing one or more of the following properties: volume, texture and/or stability"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "ingredient": "Menthol",
+  "search_results": [
+    {
+      "identifier": "12265",
+      "inci_name": "MENTHOL"
+    },
+    {
+      "identifier": "10738",
+      "inci_name": "L-MENTHOL"
+    },
+    {
+      "identifier": "11657",
+      "inci_name": "D,L-MENTHOL"
+    },
+    {
+      "identifier": "20008",
+      "inci_name": "D-MENTHOL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 12265,
+      "inci_name": "MENTHOL",
+      "name": "Menthol",
+      "description": "Menthol is a member of the alcohol family and is obtained from mint or peppermint oils. It has a peppermint scent. It is known for its invigorating and refreshing effects on the skin. However, it is highly sensitizing and can cause irritation and even allergic reactions. It is one of the allergens regulated by Europe. It is authorized for organic products.",
+      "regulation": "The presence of the substance must be indicated in the list of ingredients referred to in Article 19, paragraph 1, point g), when its concentration is higher:\n- at 0.001% in leave-on products,\n- 0.01% in rinse-off products.",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1490-04-6 / 2216-51-5 / 89-78-1 / 15356-70-4",
+      "einecs_elincs": "216-074-4 / 218-690-9 / 201-939-0 / 239-388-3",
+      "cosmetic_restriction": "III/338",
+      "percentage": 2.5,
+      "category_percentage": [
+        {
+          "category_name": "Adult toothpaste",
+          "percentage": "15.22",
+          "count": 1074
+        },
+        {
+          "category_name": "Mouthwash",
+          "percentage": "43.01",
+          "count": 757
+        },
+        {
+          "category_name": "Anti-dandruff shampoo",
+          "percentage": "26.87",
+          "count": 746
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "3.18",
+          "count": 741
+        },
+        {
+          "category_name": "Men shower gel",
+          "percentage": "13.86",
+          "count": 276
+        }
+      ],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 4,
+          "name": "Allergen",
+          "score": 2
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Denaturant",
+          "description": "Makes cosmetics unpleasant. Mainly added to cosmetics containing ethyl alcohol"
+        },
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Refreshing",
+          "description": "Provides a pleasant freshness to the skin"
+        },
+        {
+          "name": "Soothing",
+          "description": "Helps to reduce the skin or scalp discomfort"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 10738,
+      "inci_name": "L-MENTHOL",
+      "name": "L-menthol",
+      "description": "Naturally present in mint oil (Mentha arvensis, Mentha piperita), L-menthol is used to reconstitute mint scents in cosmetics. Among menthol isomers, L-menthol is the only one to provoke a sensation of cold. It is a regulated allergen in Europe.",
+      "regulation": "The presence of the substance must be indicated in the list of ingredients referred to in Article 19, paragraph 1, point g), when its concentration is higher:\n- at 0.001% in leave-on products,\n- 0.01% in rinse-off products.",
+      "reference": "",
+      "cheminical_iupac_name": "(1R, 2S, 5R)-5-Methyl-2-(1-methylethyl)-cyclohexanol; [1R-(1alpha,2beta,5alpha)]-5-Methyl-2-Isopropylcyclohexanol",
+      "cas": "2216-51-5",
+      "einecs_elincs": "218-690-9",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 4,
+          "name": "Allergen",
+          "score": 2
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        }
+      ],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 11657,
+      "inci_name": "D,L-MENTHOL",
+      "name": "",
+      "description": "",
+      "regulation": "The presence of the substance must be indicated in the list of ingredients referred to in Article 19, paragraph 1, point g), when its concentration is higher:\n- at 0.001% in leave-on products,\n- 0.01% in rinse-off products.",
+      "reference": "",
+      "cheminical_iupac_name": "3-p-Menthanol; (1R, 2S, 5R)-rel-5-methyl-2-(1-methylethyl)-cyclohexanol; [1alpha,2beta,5alpha]-5-Methyl-2-isopropylcyclohexanol; Hexahydrothymol; menthol racemic",
+      "cas": "89-78-1",
+      "einecs_elincs": "201-939-0",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [],
+      "families": [
+        {
+          "id": 4,
+          "name": "Allergen",
+          "score": 2
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        }
+      ],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20008,
+      "inci_name": "D-MENTHOL",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "(1S, 2R, 5S)-5-Methyl-2-(1-methylethyl)-cyclohexanol",
+      "cas": "15356-70-4",
+      "einecs_elincs": "239-388-3",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        }
+      ],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

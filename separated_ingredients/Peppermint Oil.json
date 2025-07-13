@@ -1,0 +1,153 @@
+{
+  "ingredient": "Peppermint Oil",
+  "search_results": [
+    {
+      "identifier": "18382",
+      "inci_name": "MENTHA PIPERITA OIL"
+    },
+    {
+      "identifier": "64390",
+      "inci_name": "MENTHA PIPERITA FLOWER/LEAF/STEM OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 18382,
+      "inci_name": "MENTHA PIPERITA OIL",
+      "name": "Peppermint oil",
+      "description": "",
+      "regulation": "The presence of the substance must be indicated in the list of ingredients referred to in Article 19, paragraph 1, point g), when its concentration is higher:\n- at 0.001% in leave-on products,\n- 0.01% in rinse-off products.",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "8006-90-4 / 84082-70-2",
+      "einecs_elincs": "- / 282-015-4",
+      "cosmetic_restriction": "III/361",
+      "percentage": 1.28,
+      "category_percentage": [
+        {
+          "category_name": "Adult toothpaste",
+          "percentage": "9.43",
+          "count": 665
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "1.97",
+          "count": 460
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "1.63",
+          "count": 179
+        },
+        {
+          "category_name": "Drugstore",
+          "percentage": "6.55",
+          "count": 152
+        },
+        {
+          "category_name": "Solid soap",
+          "percentage": "1.58",
+          "count": 136
+        }
+      ],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 4,
+          "name": "Allergen",
+          "score": 2
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Refreshing",
+          "description": "Provides a pleasant freshness to the skin"
+        },
+        {
+          "name": "Tonic",
+          "description": "Produces a feeling of well-being on skin and hair"
+        },
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 64390,
+      "inci_name": "MENTHA PIPERITA FLOWER/LEAF/STEM OIL",
+      "name": "Peppermint oil (flower/leaf/stem)",
+      "description": "",
+      "regulation": "The presence of the substance must be indicated in the list of ingredients referred to in Article 19, paragraph 1, point g), when its concentration is higher:\n- at 0.001% in leave-on products,\n- 0.01% in rinse-off products.",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "8006-90-4, 84082-70-2",
+      "einecs_elincs": "282-015-4",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [
+        {
+          "category_name": "Anti-dandruff shampoo",
+          "percentage": "1.69",
+          "count": 47
+        }
+      ],
+      "score": 2,
+      "origin": [],
+      "families": [
+        {
+          "id": 4,
+          "name": "Allergen",
+          "score": 2
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

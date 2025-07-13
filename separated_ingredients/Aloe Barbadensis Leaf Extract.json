@@ -1,0 +1,115 @@
+{
+  "ingredient": "Aloe Barbadensis Leaf Extract",
+  "search_results": [
+    {
+      "identifier": "2223",
+      "inci_name": "ALOE BARBADENSIS LEAF EXTRACT"
+    },
+    {
+      "identifier": "5368",
+      "inci_name": "HYDROLYZED ALOE BARBADENSIS LEAF EXTRACT"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 2223,
+      "inci_name": "ALOE BARBADENSIS LEAF EXTRACT",
+      "name": "Aloe Vera Leaf extract",
+      "description": "Aloe vera ( or ) is a succulent plant species of the genus Aloe. An evergreen perennial, it originates from the Arabian Peninsula but grows wild in tropical climates around the world and is cultivated for agricultural and medicinal uses. The species is also used for decorative purposes and grows successfully indoors as a potted plant.It is found in many consumer products including beverages, skin lotion, cosmetics, or ointments for minor burns and sunburns.  There is little scientific evidence for the effectiveness or safety of Aloe vera extract as a cosmetic or medicine.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "85507-69-3 / 94349-62-9",
+      "einecs_elincs": "287-390-8 / 305-181-2",
+      "cosmetic_restriction": "",
+      "percentage": 3.19,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "2.35",
+          "count": 549
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "4.04",
+          "count": 484
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "4.08",
+          "count": 457
+        },
+        {
+          "category_name": "Fabric mask",
+          "percentage": "8.98",
+          "count": 452
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "2.49",
+          "count": 384
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Oral care/hygiene agent",
+          "description": "Provides cosmetic effects to the oral cavity (cleaning, deodorization and protection)"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 5368,
+      "inci_name": "HYDROLYZED ALOE BARBADENSIS LEAF EXTRACT",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "ingredient": "Tocopherol",
+  "search_results": [
+    {
+      "identifier": "6717",
+      "inci_name": "TOCOPHEROL"
+    },
+    {
+      "identifier": "9811",
+      "inci_name": "TOCOPHERYL ACETATE"
+    },
+    {
+      "identifier": "14695",
+      "inci_name": "TOCOPHEROL/WHEAT POLYPEPTIDES"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 6717,
+      "inci_name": "TOCOPHEROL",
+      "name": "Vitamin E",
+      "description": "Tocopherol represents different components of Vitamin E. It is used in cosmetics for its antioxidant properties. This fat-soluble ingredient (which dissolves in oil) is found naturally in vegetable oils such as palm oil, sunflower oil or wheat germ ... In 2014, Tocopherol made the another ERC study and 13 other vitamin E derivatives. The agency concluded that it is safe. Note that Tocopherol can be of synthetic origin (made entirely in the laboratory).",
+      "regulation": "",
+      "reference": "CIR - Safety Assessment of Tocopherols and Tocotrienols as Used in Cosmetics (2014) - https://online.personalcarecouncil.org/ctfa-static/online/lists/cir-pdfs/FR667.pdf",
+      "cheminical_iupac_name": "",
+      "cas": "54-28-4 (gamma)/ 16698-35-4(beta) / 10191-41-0(DL) / 119-13-1 / 1406-18-4 / 1406-66-2 / 2074-53-5 (DL) / 59-02-9 (D)/7616-22-0",
+      "einecs_elincs": "200-201-5 / 240-747-1 / 233-466-0 / 204-299-0 /215-798-8 / - / 218-197-9 / 200-412-2 / -",
+      "cosmetic_restriction": "",
+      "percentage": 26.16,
+      "category_percentage": [
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "42.71",
+          "count": 6595
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "52.65",
+          "count": 6308
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "55.09",
+          "count": 6176
+        },
+        {
+          "category_name": "Lipstick",
+          "percentage": "51.06",
+          "count": 6023
+        },
+        {
+          "category_name": "Foundation",
+          "percentage": "50.23",
+          "count": 5228
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antioxidant",
+          "description": "Inhibits reactions favored by oxygen, thus avoiding oxidation and rancidity"
+        },
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Skin conditioning - miscellaneous",
+          "description": "Improving the appearance of dry and/or damaged skin by reducing flaking and restoring its suppleness."
+        },
+        {
+          "name": "Skin conditioning - occlusive",
+          "description": "Retarding the evaporation of water from the skin surface. Occlusives are generally lipids which tend to remain on the skin surface and thus increase the water content of skin."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 9811,
+      "inci_name": "TOCOPHERYL ACETATE",
+      "name": "Tocopheryl acetate",
+      "description": "Tocopherol acetate is a derivative of Vitamin E. It acts in cosmetics as an antioxidant. It can be produced synthetically or of natural origin, extract of soybean oil or sunflower for example. It is often used in cosmetics as an alternative to pure tocopherol because it is considered more stable and less acidic.\r\nIt is authorized in organic, when it is of vegetable origin.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "7695-91-2 / 58-95-7",
+      "einecs_elincs": "231-710-0 / 200-405-4",
+      "cosmetic_restriction": "",
+      "percentage": 18.86,
+      "category_percentage": [
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "55.67",
+          "count": 6670
+        },
+        {
+          "category_name": "Lipstick",
+          "percentage": "39.26",
+          "count": 4631
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "28.79",
+          "count": 4445
+        },
+        {
+          "category_name": "Foundation",
+          "percentage": "35.26",
+          "count": 3670
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "31.39",
+          "count": 3519
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antioxidant",
+          "description": "Inhibits reactions favored by oxygen, thus avoiding oxidation and rancidity"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 14695,
+      "inci_name": "TOCOPHEROL/WHEAT POLYPEPTIDES",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [],
+      "families": [
+        {
+          "id": 28,
+          "name": "Gluten",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

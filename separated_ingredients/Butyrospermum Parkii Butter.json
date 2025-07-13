@@ -1,0 +1,4 @@
+{
+  "ingredient": "Butyrospermum Parkii Butter",
+  "error": "Error searching for Butyrospermum Parkii Butter: 429 Client Error: Too Many Requests for url: https://api.incibeauty.com/ingredient/search/Butyrospermum%20Parkii%20Butter?accessKeyId=d5ae0e8abc0cc240&hmac=0f2a486ddf9bbb82259677000ae65ed129962dc1653b094476092c0b25bad1ec"
+}

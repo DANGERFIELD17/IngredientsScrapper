@@ -1,0 +1,820 @@
+{
+  "ingredient": "Sodium Hyaluronate",
+  "search_results": [
+    {
+      "identifier": "19966",
+      "inci_name": "SODIUM HYALURONATE"
+    },
+    {
+      "identifier": "3772",
+      "inci_name": "SODIUM HYALURONATE CROSSPOLYMER"
+    },
+    {
+      "identifier": "2198",
+      "inci_name": "SODIUM ACETYLATED HYALURONATE"
+    },
+    {
+      "identifier": "7077",
+      "inci_name": "HYDROLYZED SODIUM HYALURONATE"
+    },
+    {
+      "identifier": "1385",
+      "inci_name": "SODIUM HYALURONATE DIMETHYLSILANOL"
+    },
+    {
+      "identifier": "38668",
+      "inci_name": "SODIUM HYALURONATE CROSSPOLYMER-3"
+    },
+    {
+      "identifier": "88358",
+      "inci_name": "SODIUM RETINOYL HYALURONATE"
+    },
+    {
+      "identifier": "7019",
+      "inci_name": "SODIUM HYALURONATE CROSSPOLYMER-2"
+    },
+    {
+      "identifier": "38211",
+      "inci_name": "SODIUM OLEOYL HYALURONATE"
+    },
+    {
+      "identifier": "1361",
+      "inci_name": "PEG-9 DIGLYCIDYL ETHER/SODIUM HYALURONATE CROSSPOLYMER"
+    },
+    {
+      "identifier": "37215",
+      "inci_name": "SODIUM CARBOXYMETHYL HYALURONATE"
+    },
+    {
+      "identifier": "7200",
+      "inci_name": "SODIUM BUTYROYL HYALURONATE"
+    },
+    {
+      "identifier": "1884",
+      "inci_name": "SODIUM STEAROYL HYALURONATE"
+    },
+    {
+      "identifier": "12633",
+      "inci_name": "SODIUM SULFATED HYALURONATE"
+    },
+    {
+      "identifier": "12130",
+      "inci_name": "SODIUM THIOCTOYL HYALURONATE"
+    },
+    {
+      "identifier": "38656",
+      "inci_name": "SODIUM HYALURONATE CROSSPOLYMER-5"
+    },
+    {
+      "identifier": "20741",
+      "inci_name": "SODIUM BUTYROYL/FORMOYL HYALURONATE"
+    },
+    {
+      "identifier": "39545",
+      "inci_name": "SODIUM HYALURONATE CROSSPOLYMER-4"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 19966,
+      "inci_name": "SODIUM HYALURONATE",
+      "name": "Sodium hyaluronate",
+      "description": "Sodium hyaluronate is the salt of hyaluronic acid. This active ingredient is appreciated for its moisturizing and plumping effect on the skin. It is a natural component of the connective tissue. It easily penetrates the epidermis and is then able to fix a large amount of water, up to 20 times its weight. For this reason, it is found in many cosmetics such as anti-aging, moisturizing creams or even foundations ...\r\n\r\nDiscovered in the 1930s, hyaluronic acid is abundant in the dermis of young skin, but its quantity decreases with age: the skin appears more damaged, with wrinkles. Hyaluronic acid is a fairly large molecule that has difficulty penetrating the skin, and is much more effective injection. In a cosmetic, it is its salt that is used: sodium hyaluronate is a much smaller molecule, which penetrates more easily and can then move into the deep layers of the skin.\r\n\r\nThis salt is a powerful humectant that attracts and holds water to it, making it the moisturizer of choice for the skin: it helps keep it \"wet\". As it attracts and binds to the water, it causes a slight swelling which reduces the appearance of lines and wrinkles, to give the skin a younger appearance.\r\nIt is authorized in Bio.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "9067-32-7",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 10.75,
+      "category_percentage": [
+        {
+          "category_name": "Face cream",
+          "percentage": "33.31",
+          "count": 3734
+        },
+        {
+          "category_name": "Fabric mask",
+          "percentage": "60.76",
+          "count": 3057
+        },
+        {
+          "category_name": "Foundation",
+          "percentage": "27.81",
+          "count": 2895
+        },
+        {
+          "category_name": "Anti-aging day face cream",
+          "percentage": "44.82",
+          "count": 2241
+        },
+        {
+          "category_name": "Face moisturizing serum",
+          "percentage": "48.08",
+          "count": 2209
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Animal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 3772,
+      "inci_name": "SODIUM HYALURONATE CROSSPOLYMER",
+      "name": "Sodium Hyaluronate Crosspolymer",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "105524-32-1",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.51,
+      "category_percentage": [
+        {
+          "category_name": "Face moisturizing serum",
+          "percentage": "3.46",
+          "count": 159
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "1.28",
+          "count": 143
+        },
+        {
+          "category_name": "Fabric mask",
+          "percentage": "2.41",
+          "count": 121
+        },
+        {
+          "category_name": "Anti-aging day face cream",
+          "percentage": "1.76",
+          "count": 88
+        },
+        {
+          "category_name": "Day anti-ageing face serum",
+          "percentage": "2.29",
+          "count": 67
+        }
+      ],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 2198,
+      "inci_name": "SODIUM ACETYLATED HYALURONATE",
+      "name": "Sodium Acetylated Hyaluronate",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.43,
+      "category_percentage": [
+        {
+          "category_name": "Fabric mask",
+          "percentage": "3.64",
+          "count": 183
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "0.97",
+          "count": 109
+        },
+        {
+          "category_name": "Face moisturizing serum",
+          "percentage": "2.35",
+          "count": 108
+        },
+        {
+          "category_name": "Anti-aging day face cream",
+          "percentage": "1.84",
+          "count": 92
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "0.59",
+          "count": 71
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 7077,
+      "inci_name": "HYDROLYZED SODIUM HYALURONATE",
+      "name": "Hydrolyzed Sodium Hyaluronate",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.43,
+      "category_percentage": [
+        {
+          "category_name": "Face cream",
+          "percentage": "1.1",
+          "count": 123
+        },
+        {
+          "category_name": "Face moisturizing serum",
+          "percentage": "2.57",
+          "count": 118
+        },
+        {
+          "category_name": "Fabric mask",
+          "percentage": "1.99",
+          "count": 100
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "0.48",
+          "count": 57
+        },
+        {
+          "category_name": "Day anti-ageing face serum",
+          "percentage": "1.88",
+          "count": 55
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 1385,
+      "inci_name": "SODIUM HYALURONATE DIMETHYLSILANOL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "108775-04-8",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 38668,
+      "inci_name": "SODIUM HYALURONATE CROSSPOLYMER-3",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 88358,
+      "inci_name": "SODIUM RETINOYL HYALURONATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 7019,
+      "inci_name": "SODIUM HYALURONATE CROSSPOLYMER-2",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 38211,
+      "inci_name": "SODIUM OLEOYL HYALURONATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 1361,
+      "inci_name": "PEG-9 DIGLYCIDYL ETHER/SODIUM HYALURONATE CROSSPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 37215,
+      "inci_name": "SODIUM CARBOXYMETHYL HYALURONATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 7200,
+      "inci_name": "SODIUM BUTYROYL HYALURONATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "942471-70-7",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 1884,
+      "inci_name": "SODIUM STEAROYL HYALURONATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "222400-51-3",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 12633,
+      "inci_name": "SODIUM SULFATED HYALURONATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 3,
+      "origin": [],
+      "families": [
+        {
+          "id": 6,
+          "name": "Sulphate",
+          "score": 3
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 3,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 12130,
+      "inci_name": "SODIUM THIOCTOYL HYALURONATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1223313-45-8",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 38656,
+      "inci_name": "SODIUM HYALURONATE CROSSPOLYMER-5",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20741,
+      "inci_name": "SODIUM BUTYROYL/FORMOYL HYALURONATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "100201-66-0",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 39545,
+      "inci_name": "SODIUM HYALURONATE CROSSPOLYMER-4",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "781214-94-6",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

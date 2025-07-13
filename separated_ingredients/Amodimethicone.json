@@ -1,0 +1,4 @@
+{
+  "ingredient": "Amodimethicone",
+  "error": "Error searching for Amodimethicone: HTTPSConnectionPool(host='api.incibeauty.com', port=443): Max retries exceeded with url: /ingredient/search/Amodimethicone?accessKeyId=09f4844a6b23c229&hmac=fe0f53df60f2886dc5c15362dddab0465bff176641eeb7fda5e876f8c8aaa443 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000126F3CB1A90>: Failed to resolve 'api.incibeauty.com' ([Errno 11001] getaddrinfo failed)\"))"
+}

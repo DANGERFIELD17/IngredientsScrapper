@@ -1,0 +1,318 @@
+{
+  "ingredient": "Xanthan Gum",
+  "search_results": [
+    {
+      "identifier": "20747",
+      "inci_name": "XANTHAN GUM"
+    },
+    {
+      "identifier": "5394",
+      "inci_name": "DEHYDROXANTHAN GUM"
+    },
+    {
+      "identifier": "5584",
+      "inci_name": "XANTHAN GUM CROSSPOLYMER"
+    },
+    {
+      "identifier": "15568",
+      "inci_name": "UNDECYLENOYL XANTHAN GUM"
+    },
+    {
+      "identifier": "9649",
+      "inci_name": "HYDROXYPROPYL XANTHAN GUM"
+    },
+    {
+      "identifier": "30726",
+      "inci_name": "LYSOLECITHIN (AND) SCLEROTIUM GUM (AND) XANTHAN GUM (AND) PULLULAN"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 20747,
+      "inci_name": "XANTHAN GUM",
+      "name": "Xanthan Gum",
+      "description": "Xanthan gum is used in cosmetics as an emulsion stabilizer, film-forming agent or binder. It is obtained by the fermentation of a carbohydrate (for example glucose) with the bacterium Xanthomonas campestris. It is authorized in Bio.\r\n\r\nA 2016 study of the Cosmetic Ingredient Review (CIR) on microbial polysaccharide gums, of which Xanthan gum is a part, concludes that the ingredient is safe.\r\n\r\nNote that Xanthan gum is not regulated in Europe. In the United States, the FDA limits its use to 6% of the total ingredients in cosmetics.",
+      "regulation": "",
+      "reference": "CIR - Safety Assessment of Microbial Polysaccharide Gums as used in cosmetics (2016) - https://online.personalcarecouncil.org/ctfa-static/online/lists/cir-pdfs/PR611.pdf",
+      "cheminical_iupac_name": "",
+      "cas": "11138-66-2",
+      "einecs_elincs": "234-394-2",
+      "cosmetic_restriction": "",
+      "percentage": 17.84,
+      "category_percentage": [
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "41.23",
+          "count": 6366
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "50.91",
+          "count": 6100
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "49.15",
+          "count": 5510
+        },
+        {
+          "category_name": "Adult toothpaste",
+          "percentage": "51.13",
+          "count": 3607
+        },
+        {
+          "category_name": "Fabric mask",
+          "percentage": "65.39",
+          "count": 3290
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 54,
+          "name": "Natural or hemisynthesis polymer",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Binding agent",
+          "description": "Allows the cohesion of different cosmetic ingredients"
+        },
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Gel forming",
+          "description": "Gives a liquid preparation the consistency of a gel"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 5394,
+      "inci_name": "DEHYDROXANTHAN GUM",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.18,
+      "category_percentage": [
+        {
+          "category_name": "Deodorant ball",
+          "percentage": "1.44",
+          "count": 66
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "0.53",
+          "count": 59
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "0.32",
+          "count": 50
+        },
+        {
+          "category_name": "Face moisturizing serum",
+          "percentage": "0.89",
+          "count": 41
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        },
+        {
+          "name": "Hair fixing",
+          "description": "Allows hair style control"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 5584,
+      "inci_name": "XANTHAN GUM CROSSPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Skin protecting",
+          "description": "Helps to avoid the harmful effects of external factors on the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 15568,
+      "inci_name": "UNDECYLENOYL XANTHAN GUM",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "224580-85-2",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 9649,
+      "inci_name": "HYDROXYPROPYL XANTHAN GUM",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 30726,
+      "inci_name": "LYSOLECITHIN (AND) SCLEROTIUM GUM (AND) XANTHAN GUM (AND) PULLULAN",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

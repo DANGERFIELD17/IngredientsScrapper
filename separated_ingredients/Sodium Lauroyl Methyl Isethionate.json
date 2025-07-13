@@ -1,0 +1,83 @@
+{
+  "ingredient": "Sodium Lauroyl Methyl Isethionate",
+  "search_results": [
+    {
+      "identifier": "42674",
+      "inci_name": "SODIUM LAUROYL METHYL ISETHIONATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 42674,
+      "inci_name": "SODIUM LAUROYL METHYL ISETHIONATE",
+      "name": "Sodium Lauroyl Methyl Isethionate",
+      "description": "Sodium Lauroyl Methyl Isethionate or SLMI is a mild anionic surfactant derived from coconut, which contains no sulphate. Unlike SCI (Sodium Cocoyl Isethionate), which allows for the creation of opaque products, SLMI has excellent water solubility and therefore allows for the creation of sulfate-free, transparent shampoo formulations. It is often used in conjunction with CAPB.\nSLMI is produced by ethoxylation, which makes it an environmentally unfriendly ingredient. It is prohibited in the COSMOS specifications.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.42,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "3.87",
+          "count": 903
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "1.19",
+          "count": 212
+        },
+        {
+          "category_name": "Shampoo for colored/highlighted hair",
+          "percentage": "5.6",
+          "count": 95
+        },
+        {
+          "category_name": "Face cleansing gel",
+          "percentage": "1.8",
+          "count": 56
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 37,
+          "name": "Anionic surfactant",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

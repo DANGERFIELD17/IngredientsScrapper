@@ -1,0 +1,87 @@
+{
+  "ingredient": "Hexyl Cinnamal",
+  "search_results": [
+    {
+      "identifier": "6124",
+      "inci_name": "HEXYL CINNAMAL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 6124,
+      "inci_name": "HEXYL CINNAMAL",
+      "name": "Hexyl cinnamal",
+      "description": "This aromatic ingredient of synthetic origin is on Europe's list of regulated allergens. It is used as a perfuming agent for its jasmine-like scent.",
+      "regulation": "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19 (1) (g) when its concentration is greater:\r\n- to 0,001% in products without rinsing\r\n- to 0,01% in the products to be rinsed",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "101-86-0",
+      "einecs_elincs": "202-983-3/639-566-4",
+      "cosmetic_restriction": "III/87",
+      "percentage": 13.08,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "27.62",
+          "count": 6446
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "21.09",
+          "count": 3769
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "30.36",
+          "count": 3343
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "19.32",
+          "count": 2983
+        },
+        {
+          "category_name": "Deodorant spray",
+          "percentage": "27.84",
+          "count": 1916
+        }
+      ],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 4,
+          "name": "Allergen",
+          "score": 2
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ],
+      "special_mentions": [
+        {
+          "icon": "https://incibeauty.com/img/icon/ic_water_circle_filled_green@64.png",
+          "label": "Bonus if present in essential oils"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "ingredient": "Cetrimonium Methosulfate",
+  "search_results": [
+    {
+      "identifier": "11038",
+      "inci_name": "CETRIMONIUM METHOSULFATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 11038,
+      "inci_name": "CETRIMONIUM METHOSULFATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "65060-02-8",
+      "einecs_elincs": "265-352-1",
+      "cosmetic_restriction": "",
+      "percentage": 0.11,
+      "category_percentage": [
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "0.96",
+          "count": 106
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "1.2",
+          "count": 76
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "1.02",
+          "count": 71
+        },
+        {
+          "category_name": "Hair colouring",
+          "percentage": "0.96",
+          "count": 69
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 6,
+          "name": "Sulphate",
+          "score": 3
+        },
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antimicrobial",
+          "description": "Helps slowing the growth of micro-organisms on the skin and counteracts the development of microbes"
+        },
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

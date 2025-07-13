@@ -1,0 +1,50 @@
+{
+  "ingredient": "Acacia Concinna Fruit Extract",
+  "search_results": [
+    {
+      "identifier": "15432",
+      "inci_name": "ACACIA CONCINNA FRUIT EXTRACT"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 15432,
+      "inci_name": "ACACIA CONCINNA FRUIT EXTRACT",
+      "name": "Shikakai fruit extract",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "202148-87-6",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.07,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.41",
+          "count": 95
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

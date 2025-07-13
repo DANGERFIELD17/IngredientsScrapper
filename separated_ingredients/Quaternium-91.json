@@ -1,0 +1,71 @@
+{
+  "ingredient": "Quaternium-91",
+  "search_results": [
+    {
+      "identifier": "2814",
+      "inci_name": "QUATERNIUM-91"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 2814,
+      "inci_name": "QUATERNIUM-91",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.13,
+      "category_percentage": [
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "1.23",
+          "count": 135
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "1.27",
+          "count": 80
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "1.11",
+          "count": 77
+        },
+        {
+          "category_name": "Hair colouring",
+          "percentage": "0.96",
+          "count": 69
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

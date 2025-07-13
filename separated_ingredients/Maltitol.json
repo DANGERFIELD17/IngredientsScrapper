@@ -1,0 +1,126 @@
+{
+  "ingredient": "Maltitol",
+  "search_results": [
+    {
+      "identifier": "7431",
+      "inci_name": "MALTITOL"
+    },
+    {
+      "identifier": "4926",
+      "inci_name": "C12-14 HYDROXYALKYL MALTITOL ETHER"
+    },
+    {
+      "identifier": "14739",
+      "inci_name": "MALTITOL LAURATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 7431,
+      "inci_name": "MALTITOL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "585-88-6",
+      "einecs_elincs": "209-567-0",
+      "cosmetic_restriction": "",
+      "percentage": 0.09,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Moisturising",
+          "description": "Increases the water content of the skin and helps keep it smooth and smooth"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 4926,
+      "inci_name": "C12-14 HYDROXYALKYL MALTITOL ETHER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 14739,
+      "inci_name": "MALTITOL LAURATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "75765-49-0",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

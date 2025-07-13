@@ -1,0 +1,971 @@
+{
+  "ingredient": "Glycerin",
+  "search_results": [
+    {
+      "identifier": "6832",
+      "inci_name": "GLYCERIN"
+    },
+    {
+      "identifier": "2011",
+      "inci_name": "CAPRYLOYL GLYCERIN/SEBACIC ACID COPOLYMER"
+    },
+    {
+      "identifier": "7129",
+      "inci_name": "PHTHALIC ANHYDRIDE/GLYCERIN/GLYCIDYL DECANOATE COPOLYMER"
+    },
+    {
+      "identifier": "3343",
+      "inci_name": "PEG/PPG/POLYBUTYLENE GLYCOL-8/5/3 GLYCERIN"
+    },
+    {
+      "identifier": "20945",
+      "inci_name": "TRIMETHYLPENTANEDIOL/ADIPIC ACID/GLYCERIN CROSSPOLYMER"
+    },
+    {
+      "identifier": "1709",
+      "inci_name": "MENTHONE GLYCERIN ACETAL"
+    },
+    {
+      "identifier": "13487",
+      "inci_name": "PALMITOYL HYDROXYPROPYLTRIMONIUM AMYLOPECTIN/GLYCERIN CROSSPOLYMER"
+    },
+    {
+      "identifier": "65419",
+      "inci_name": "CAPRYLOYL GLYCERIN"
+    },
+    {
+      "identifier": "14875",
+      "inci_name": "GLYCERIN/OXYBUTYLENE COPOLYMER STEARYL ETHER"
+    },
+    {
+      "identifier": "1633",
+      "inci_name": "ADIPIC ACID/DIETHYLENE GLYCOL/GLYCERIN CROSSPOLYMER"
+    },
+    {
+      "identifier": "8790",
+      "inci_name": "GLYCIDYL C8-11 ACIDATE/GLYCERIN/PHTHALIC ANHYDRIDE COPOLYMER"
+    },
+    {
+      "identifier": "12053",
+      "inci_name": "OZONIZED GLYCERIN"
+    },
+    {
+      "identifier": "137952",
+      "inci_name": "C12-18 ALKANOYL GLYCERIN/SEBACIC ACID COPOLYMER"
+    },
+    {
+      "identifier": "26756",
+      "inci_name": "SODIUM COCOAMPHOACETATE (AND) GLYCERIN (AND) LAURYL GLUCOSIDE (AND) SODIUM COCOYL GLUTAMATE (AND) SODIUM LAURYL GLUCOSE CARBOXYLATE"
+    },
+    {
+      "identifier": "15679",
+      "inci_name": "CAPRYLYL GLYCOL/GLYCERIN/POLYACRYLIC ACID COPOLYMER"
+    },
+    {
+      "identifier": "88455",
+      "inci_name": "HYDROXYSTEARIC ACID/ADIPIC ACID/GLYCERIN CROSSPOLYMER"
+    },
+    {
+      "identifier": "15963",
+      "inci_name": "GLYCERIN DIMETHYL ETHER"
+    },
+    {
+      "identifier": "19051",
+      "inci_name": "GLYCERIN/MA/ROSIN ACID COPOLYMER"
+    },
+    {
+      "identifier": "1657",
+      "inci_name": "ETHYL GLYCERIN ACETAL LEVULINATE"
+    },
+    {
+      "identifier": "26757",
+      "inci_name": "DIHEPTYL SUCCINATE (AND) CAPRYLOYL GLYCERIN/SEBACIC ACID COPOLYMER"
+    },
+    {
+      "identifier": "1312",
+      "inci_name": "GLYCERIN/PHTHALIC ACID COPOLYMER HYDROXYPROPYL C9-11 ISOALKYL ACIDATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 6832,
+      "inci_name": "GLYCERIN",
+      "name": "Glycerin",
+      "description": "Glycerol or glycerol is part of the family of polyalcohols, it can be produced synthetically from petroleum derivatives, or from animal or vegetable fats by saponification. It is in the form of a colorless liquid, hygroscopic (which absorbs moisture) and syrupy.\r\n\r\nGlycerine is used for its high moisturizing, occlusive (protects the skin of aggressions), emollient (smooth skin and hair) or humectant (allows a product to maintain its fluid appearance).\r\n\r\nIt has been demonstrated (2005, Andersen) that it has anti-inflammatory power when incorporated into potentially irritating products, such as those using Sodium lauryl sulfate.",
+      "regulation": "",
+      "reference": "Interchimie - https://www.interchimie.fr/wp-content/uploads/GLYCERINE56-81-5.pdf\r\n\r\nPubchem - https://pubchem.ncbi.nlm.nih.gov/compound/Glycerol",
+      "cheminical_iupac_name": "",
+      "cas": "56-81-5",
+      "einecs_elincs": "200-289-5",
+      "cosmetic_restriction": "",
+      "percentage": 55.64,
+      "category_percentage": [
+        {
+          "category_name": "Shower gel",
+          "percentage": "81.79",
+          "count": 14615
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "62.04",
+          "count": 14479
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "87.83",
+          "count": 13562
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "89.79",
+          "count": 10066
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "70.76",
+          "count": 8479
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Animal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Denaturant",
+          "description": "Makes cosmetics unpleasant. Mainly added to cosmetics containing ethyl alcohol"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Oral care/hygiene agent",
+          "description": "Provides cosmetic effects to the oral cavity (cleaning, deodorization and protection)"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Skin protecting",
+          "description": "Helps to avoid the harmful effects of external factors on the skin"
+        },
+        {
+          "name": "Solvent",
+          "description": "Dissolves other substances"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        },
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 2011,
+      "inci_name": "CAPRYLOYL GLYCERIN/SEBACIC ACID COPOLYMER",
+      "name": "",
+      "description": "This ingredient is a semisynthetic polymer created from castor oil (sebacic acid), vegetable glycerin and fatty acid from coconut oil (possibly palm).\r\nIt is biodegradable and poses no environmental concerns.\r\nManufacturing process: esterification.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1190099-88-7",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.2,
+      "category_percentage": [
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "1.58",
+          "count": 189
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "0.82",
+          "count": 90
+        },
+        {
+          "category_name": "Foundation",
+          "percentage": "0.69",
+          "count": 72
+        },
+        {
+          "category_name": "Children sun cream",
+          "percentage": "1.88",
+          "count": 42
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 54,
+          "name": "Natural or hemisynthesis polymer",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Skin protecting",
+          "description": "Helps to avoid the harmful effects of external factors on the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 7129,
+      "inci_name": "PHTHALIC ANHYDRIDE/GLYCERIN/GLYCIDYL DECANOATE COPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.09,
+      "category_percentage": [
+        {
+          "category_name": "Nail polish",
+          "percentage": "6.77",
+          "count": 612
+        }
+      ],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 3343,
+      "inci_name": "PEG/PPG/POLYBUTYLENE GLYCOL-8/5/3 GLYCERIN",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.08,
+      "category_percentage": [
+        {
+          "category_name": "Foundation",
+          "percentage": "0.54",
+          "count": 56
+        },
+        {
+          "category_name": "Face moisturizing serum",
+          "percentage": "1.22",
+          "count": 56
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 19,
+          "name": "Propoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20945,
+      "inci_name": "TRIMETHYLPENTANEDIOL/ADIPIC ACID/GLYCERIN CROSSPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.07,
+      "category_percentage": [
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "1.12",
+          "count": 134
+        },
+        {
+          "category_name": "Mascara",
+          "percentage": "1.85",
+          "count": 59
+        }
+      ],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 1709,
+      "inci_name": "MENTHONE GLYCERIN ACETAL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "63187-91-7",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.05,
+      "category_percentage": [
+        {
+          "category_name": "Gloss and lip gloss",
+          "percentage": "1.71",
+          "count": 53
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Refreshing",
+          "description": "Provides a pleasant freshness to the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 13487,
+      "inci_name": "PALMITOYL HYDROXYPROPYLTRIMONIUM AMYLOPECTIN/GLYCERIN CROSSPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.02,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        },
+        {
+          "id": 19,
+          "name": "Propoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 65419,
+      "inci_name": "CAPRYLOYL GLYCERIN",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Unclassified",
+          "description": "Unclassified"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 14875,
+      "inci_name": "GLYCERIN/OXYBUTYLENE COPOLYMER STEARYL ETHER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 1633,
+      "inci_name": "ADIPIC ACID/DIETHYLENE GLYCOL/GLYCERIN CROSSPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "26760-54-3",
+      "einecs_elincs": "500-050-8",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 8790,
+      "inci_name": "GLYCIDYL C8-11 ACIDATE/GLYCERIN/PHTHALIC ANHYDRIDE COPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 12053,
+      "inci_name": "OZONIZED GLYCERIN",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Astringent",
+          "description": "Helps tighten skin pores"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 137952,
+      "inci_name": "C12-18 ALKANOYL GLYCERIN/SEBACIC ACID COPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning - miscellaneous",
+          "description": "Improving the appearance of dry and/or damaged skin by reducing flaking and restoring its suppleness."
+        },
+        {
+          "name": "Skin conditioning - occlusive",
+          "description": "Retarding the evaporation of water from the skin surface. Occlusives are generally lipids which tend to remain on the skin surface and thus increase the water content of skin."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 26756,
+      "inci_name": "SODIUM COCOAMPHOACETATE (AND) GLYCERIN (AND) LAURYL GLUCOSIDE (AND) SODIUM COCOYL GLUTAMATE (AND) SODIUM LAURYL GLUCOSE CARBOXYLATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 15679,
+      "inci_name": "CAPRYLYL GLYCOL/GLYCERIN/POLYACRYLIC ACID COPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 88455,
+      "inci_name": "HYDROXYSTEARIC ACID/ADIPIC ACID/GLYCERIN CROSSPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Skin conditioning - occlusive",
+          "description": "Retarding the evaporation of water from the skin surface. Occlusives are generally lipids which tend to remain on the skin surface and thus increase the water content of skin."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 15963,
+      "inci_name": "GLYCERIN DIMETHYL ETHER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "623-69-8",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 19051,
+      "inci_name": "GLYCERIN/MA/ROSIN ACID COPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 1657,
+      "inci_name": "ETHYL GLYCERIN ACETAL LEVULINATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "902272-78-0",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Solvent",
+          "description": "Dissolves other substances"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 26757,
+      "inci_name": "DIHEPTYL SUCCINATE (AND) CAPRYLOYL GLYCERIN/SEBACIC ACID COPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 1312,
+      "inci_name": "GLYCERIN/PHTHALIC ACID COPOLYMER HYDROXYPROPYL C9-11 ISOALKYL ACIDATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 19,
+          "name": "Propoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

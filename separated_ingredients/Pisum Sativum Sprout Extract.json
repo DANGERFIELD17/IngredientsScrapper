@@ -1,0 +1,40 @@
+{
+  "ingredient": "Pisum Sativum Sprout Extract",
+  "search_results": [
+    {
+      "identifier": "9564",
+      "inci_name": "PISUM SATIVUM SPROUT EXTRACT"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 9564,
+      "inci_name": "PISUM SATIVUM SPROUT EXTRACT",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

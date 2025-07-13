@@ -1,0 +1,4 @@
+{
+  "ingredient": "Juglans Regia Seed Oil",
+  "error": "Error searching for Juglans Regia Seed Oil: HTTPSConnectionPool(host='api.incibeauty.com', port=443): Max retries exceeded with url: /ingredient/search/Juglans%20Regia%20Seed%20Oil?accessKeyId=09f4844a6b23c229&hmac=d025479f1c8e1cfee59949fc4eb32412876240531407828ae9095cc5d49df8ec (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000126F3CB1BD0>: Failed to resolve 'api.incibeauty.com' ([Errno 11001] getaddrinfo failed)\"))"
+}

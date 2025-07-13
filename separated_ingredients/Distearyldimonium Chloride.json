@@ -1,0 +1,4 @@
+{
+  "ingredient": "Distearyldimonium Chloride",
+  "error": "Error searching for Distearyldimonium Chloride: HTTPSConnectionPool(host='api.incibeauty.com', port=443): Max retries exceeded with url: /ingredient/search/Distearyldimonium%20Chloride?accessKeyId=09f4844a6b23c229&hmac=ab04f54d2f3e28517dca35649d6da7392f888f13c555b15b878e66940bfd6b5d (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000126F3CB34D0>: Failed to resolve 'api.incibeauty.com' ([Errno 11001] getaddrinfo failed)\"))"
+}

@@ -1,0 +1,50 @@
+{
+  "ingredient": "Brassica Nigra Seed Oil",
+  "search_results": [
+    {
+      "identifier": "15060",
+      "inci_name": "BRASSICA NIGRA SEED EXTRACT"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 15060,
+      "inci_name": "BRASSICA NIGRA SEED EXTRACT",
+      "name": "Black Mustard seed oil",
+      "description": "Brassica nigra, or black mustard, is an annual plant cultivated for its black or dark brown seeds, which are commonly used as a spice. It is native to tropical regions of North Africa, temperate regions of Europe, and parts of Asia.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "90064-15-6",
+      "einecs_elincs": "290-076-3",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

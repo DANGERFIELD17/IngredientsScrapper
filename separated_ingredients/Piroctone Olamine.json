@@ -1,0 +1,4 @@
+{
+  "ingredient": "Piroctone Olamine",
+  "error": "Error searching for Piroctone Olamine: 429 Client Error: Too Many Requests for url: https://api.incibeauty.com/ingredient/search/Piroctone%20Olamine?accessKeyId=d5ae0e8abc0cc240&hmac=de7cf37757af5f4cc26ef43f7b04ccfe8ddc30c9f52e03cb81a4958a37e1267a"
+}

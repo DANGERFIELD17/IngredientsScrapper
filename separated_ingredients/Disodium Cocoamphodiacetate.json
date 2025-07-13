@@ -1,0 +1,4 @@
+{
+  "ingredient": "Disodium Cocoamphodiacetate",
+  "error": "Error searching for Disodium Cocoamphodiacetate: 429 Client Error: Too Many Requests for url: https://api.incibeauty.com/ingredient/search/Disodium%20Cocoamphodiacetate?accessKeyId=d5ae0e8abc0cc240&hmac=3d7d0fc7f1c2c8fa5bc4d97f6384ea04b247b857df52c0e9015bded21894ae08"
+}

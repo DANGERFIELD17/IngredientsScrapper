@@ -1,0 +1,117 @@
+{
+  "ingredient": "Persea Gratissima Oil",
+  "search_results": [
+    {
+      "identifier": "1634",
+      "inci_name": "PERSEA GRATISSIMA OIL"
+    },
+    {
+      "identifier": "13907",
+      "inci_name": "PERSEA GRATISSIMA OIL UNSAPONIFIABLES"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 1634,
+      "inci_name": "PERSEA GRATISSIMA OIL",
+      "name": "Avocado oil",
+      "description": "The avocado (Persea americana), a tree with probable origin in South Central Mexico, is classified as a member of the flowering plant family Lauraceae. The fruit of the plant, also called an avocado (or avocado pear or alligator pear), is botanically a large berry containing a single large seed.Avocados are commercially valuable and are cultivated in tropical and Mediterranean climates throughout the world. They have a green-skinned, fleshy body that may be pear-shaped, egg-shaped, or spherical. Commercially, they ripen after harvesting. Avocado trees are partially self-pollinating, and are often propagated through grafting to maintain  predictable fruit quality and quantity. In 2017, Mexico produced 34% of the world supply of avocados.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "8024-32-6",
+      "einecs_elincs": "232-428-0",
+      "cosmetic_restriction": "",
+      "percentage": 3.76,
+      "category_percentage": [
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "5.52",
+          "count": 853
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "6.91",
+          "count": 761
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "3.1",
+          "count": 723
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "5.63",
+          "count": 631
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "8.92",
+          "count": 620
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 13907,
+      "inci_name": "PERSEA GRATISSIMA OIL UNSAPONIFIABLES",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "91770-40-0",
+      "einecs_elincs": "294-825-5",
+      "cosmetic_restriction": "",
+      "percentage": 0.02,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

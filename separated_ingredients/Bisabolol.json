@@ -1,0 +1,81 @@
+{
+  "ingredient": "Bisabolol",
+  "search_results": [
+    {
+      "identifier": "1154",
+      "inci_name": "BISABOLOL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 1154,
+      "inci_name": "BISABOLOL",
+      "name": "Bisabolol",
+      "description": "Bisabolol, also known as Levomenol, is obtained by distillation of certain essential oils, including wild camomile (Matricaria Recutita). It is in the form of a slightly fragrant oily liquid. It is used in cosmetics for its soothing properties, but is also known as an anti-inflammatory and healing agent. It is also for these functions (anti-irritant) that it is found in some toothpastes.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "515-69-5 / 23089-26-1",
+      "einecs_elincs": "208-205-9 / 245-423-3",
+      "cosmetic_restriction": "",
+      "percentage": 2.51,
+      "category_percentage": [
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "5.62",
+          "count": 673
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "5.44",
+          "count": 610
+        },
+        {
+          "category_name": "After Sun",
+          "percentage": "22.55",
+          "count": 386
+        },
+        {
+          "category_name": "Hand cream",
+          "percentage": "4.81",
+          "count": 384
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "2.37",
+          "count": 366
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Soothing",
+          "description": "Helps to reduce the skin or scalp discomfort"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

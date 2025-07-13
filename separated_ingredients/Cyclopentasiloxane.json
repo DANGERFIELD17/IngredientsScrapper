@@ -1,0 +1,193 @@
+{
+  "ingredient": "Cyclopentasiloxane",
+  "search_results": [
+    {
+      "identifier": "20580",
+      "inci_name": "CYCLOPENTASILOXANE"
+    },
+    {
+      "identifier": "28641",
+      "inci_name": "CYCLOPENTASILOXANE (AND) DIMETHICONE"
+    },
+    {
+      "identifier": "18515",
+      "inci_name": "TRIFLUOROPROPYL CYCLOPENTASILOXANE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 20580,
+      "inci_name": "CYCLOPENTASILOXANE",
+      "name": "Cyclopentasiloxane",
+      "description": "This substance is no longer authorized in cosmetics in Europe because it has been identified as a persistent organic pollutant (POP) or (very) persistent, (very) bioaccumulative and toxic (PBT/vPvB). Its use is prohibited by the Stockholm Convention on POPs or restricted by the REACH regulation.\n\n---------------------------\nCyclopentasiloxane is a volatile silicone also called Silicone D5. It does not accumulate on hair or skin and allows consumers to benefit from the advantage of this family without its disadvantages: soft, non-greasy feel and lubricating properties.\nNevertheless, it has been closely monitored for several years and its release into nature remains a concern. D5 is classified as vPvB (very persistent and very bioaccumulative). The risk to the environment arises from its presence in certain cosmetic products rinsed with water: from January 31, 2020, the maximum content of D5 will be set at 0.1% in cosmetic products rinsed with water, which in fact prohibits its use, since in such concentrations it will no longer be of any interest. It is prohibited in organic.",
+      "regulation": "Must not be placed on the market in rinse-off cosmetic products in a concentration equal to or greater than 0.1% by weight of each substance, after January 31, 2020.\n\nMust not be placed on the market in any products in a concentration equal to or greater than 0.1% by weight of each substance, after June 6, 2027.",
+      "reference": "Hazardous chemicals found in cosmetic products - https://echa.europa.eu/fr/-/hazardous-chemicals-found-in-cosmetic-products\r\n\r\nDe nouvelles restrictions pour les D4, D5 et D6 en Europe - https://incibeauty.com/topic/15106\r\n\r\nRÈGLEMENT (UE) 2024/1328 DE LA COMMISSION du 16 mai 2024 - https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=OJ:L_202401328",
+      "cheminical_iupac_name": "",
+      "cas": "541-02-6",
+      "einecs_elincs": "208-764-9",
+      "cosmetic_restriction": "",
+      "percentage": 5.73,
+      "category_percentage": [
+        {
+          "category_name": "Foundation",
+          "percentage": "36.03",
+          "count": 3750
+        },
+        {
+          "category_name": "Deodorant spray",
+          "percentage": "20.42",
+          "count": 1405
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "8.96",
+          "count": 1074
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "16.42",
+          "count": 1037
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "6",
+          "count": 926
+        }
+      ],
+      "score": 10,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 8,
+          "name": "Suspected endocrine disruptor",
+          "score": 10
+        },
+        {
+          "id": 42,
+          "name": "Forbidden in Europe",
+          "score": 10
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Solvent",
+          "description": "Dissolves other substances"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 10,
+          "label": "\"Strong penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 28641,
+      "inci_name": "CYCLOPENTASILOXANE (AND) DIMETHICONE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 10,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 8,
+          "name": "Suspected endocrine disruptor",
+          "score": 10
+        }
+      ],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 10,
+          "label": "\"Strong penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 18515,
+      "inci_name": "TRIFLUOROPROPYL CYCLOPENTASILOXANE",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 10,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 58,
+          "name": "PFAS",
+          "score": 10
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 10,
+          "label": "\"Strong penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

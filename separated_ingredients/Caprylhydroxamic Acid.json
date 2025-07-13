@@ -1,0 +1,70 @@
+{
+  "ingredient": "Caprylhydroxamic Acid",
+  "search_results": [
+    {
+      "identifier": "463",
+      "inci_name": "CAPRYLHYDROXAMIC ACID"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 463,
+      "inci_name": "CAPRYLHYDROXAMIC ACID",
+      "name": "Caprylhydroxamic Acid",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "7377-03-9",
+      "einecs_elincs": "230-936-7",
+      "cosmetic_restriction": "",
+      "percentage": 1.09,
+      "category_percentage": [
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "8.73",
+          "count": 1046
+        },
+        {
+          "category_name": "Children sun cream",
+          "percentage": "13.9",
+          "count": 310
+        },
+        {
+          "category_name": "Fabric mask",
+          "percentage": "5.8",
+          "count": 292
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "1.92",
+          "count": 215
+        },
+        {
+          "category_name": "Foundation",
+          "percentage": "1.68",
+          "count": 175
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Chelating",
+          "description": "Reacts and forms complexes with metal ions that could affect the stability and / or appearance of cosmetic products"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "ingredient": "Urtica Dioica Extract",
+  "search_results": [
+    {
+      "identifier": "2604",
+      "inci_name": "URTICA DIOICA LEAF EXTRACT"
+    },
+    {
+      "identifier": "4536",
+      "inci_name": "URTICA DIOICA EXTRACT"
+    },
+    {
+      "identifier": "17301",
+      "inci_name": "URTICA DIOICA ROOT EXTRACT"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 2604,
+      "inci_name": "URTICA DIOICA LEAF EXTRACT",
+      "name": "Nettle extract",
+      "description": "Urtica dioica, often known as common nettle, stinging nettle (although not all plants of this species sting) or nettle leaf, or just a nettle or stinger, is a herbaceous perennial flowering plant in the family Urticaceae. Originally native to Europe, much of temperate Asia and western North Africa, it is now found worldwide, including New Zealand and  North America. The species is divided into six subspecies, five of which have many hollow stinging hairs called trichomes on the leaves and stems, which act like hypodermic needles, injecting histamine and other chemicals that produce a stinging sensation upon contact (\"contact urticaria\", a form or contact dermatitis). The plant has a long history of use as a source for traditional medicine, food, tea, and textile raw material in ancient societies.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "84012-40-8",
+      "einecs_elincs": "281-685-5",
+      "cosmetic_restriction": "",
+      "percentage": 0.43,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "1.9",
+          "count": 444
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "1.38",
+          "count": 152
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "1.85",
+          "count": 117
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "0.91",
+          "count": 63
+        },
+        {
+          "category_name": "Solid shampoo",
+          "percentage": "3.48",
+          "count": 63
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 4536,
+      "inci_name": "URTICA DIOICA EXTRACT",
+      "name": "Nettle extract",
+      "description": "Urtica dioica, often known as common nettle, stinging nettle (although not all plants of this species sting) or nettle leaf, or just a nettle or stinger, is a herbaceous perennial flowering plant in the family Urticaceae. Originally native to Europe, much of temperate Asia and western North Africa, it is now found worldwide, including New Zealand and  North America. The species is divided into six subspecies, five of which have many hollow stinging hairs called trichomes on the leaves and stems, which act like hypodermic needles, injecting histamine and other chemicals that produce a stinging sensation upon contact (\"contact urticaria\", a form or contact dermatitis). The plant has a long history of use as a source for traditional medicine, food, tea, and textile raw material in ancient societies.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "84012-40-8",
+      "einecs_elincs": "281-685-5",
+      "cosmetic_restriction": "",
+      "percentage": 0.42,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "2.2",
+          "count": 513
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "1.53",
+          "count": 168
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "2.11",
+          "count": 133
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "0.92",
+          "count": 64
+        },
+        {
+          "category_name": "Fall protection shampoo",
+          "percentage": "6.76",
+          "count": 52
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Anti dandruff",
+          "description": "Helps fight against dandruff"
+        },
+        {
+          "name": "Astringent",
+          "description": "Helps tighten skin pores"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Soothing",
+          "description": "Helps to reduce the skin or scalp discomfort"
+        },
+        {
+          "name": "Tonic",
+          "description": "Produces a feeling of well-being on skin and hair"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 17301,
+      "inci_name": "URTICA DIOICA ROOT EXTRACT",
+      "name": "Nettle root extract",
+      "description": "Urtica dioica, often known as common nettle, stinging nettle (although not all plants of this species sting) or nettle leaf, or just a nettle or stinger, is a herbaceous perennial flowering plant in the family Urticaceae. Originally native to Europe, much of temperate Asia and western North Africa, it is now found worldwide, including New Zealand and  North America. The species is divided into six subspecies, five of which have many hollow stinging hairs called trichomes on the leaves and stems, which act like hypodermic needles, injecting histamine and other chemicals that produce a stinging sensation upon contact (\"contact urticaria\", a form or contact dermatitis). The plant has a long history of use as a source for traditional medicine, food, tea, and textile raw material in ancient societies.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "84012-40-8",
+      "einecs_elincs": "281-685-5",
+      "cosmetic_restriction": "",
+      "percentage": 0.02,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

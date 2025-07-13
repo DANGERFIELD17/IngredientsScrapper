@@ -1,0 +1,398 @@
+{
+  "ingredient": "Panax Ginseng Root Extract",
+  "search_results": [
+    {
+      "identifier": "20859",
+      "inci_name": "PANAX GINSENG ROOT EXTRACT"
+    },
+    {
+      "identifier": "609",
+      "inci_name": "PANAX QUINQUEFOLIUM ROOT EXTRACT"
+    },
+    {
+      "identifier": "38857",
+      "inci_name": "LACTOBACILLUS/PANAX GINSENG ROOT EXTRACT FERMENT FILTRATE"
+    },
+    {
+      "identifier": "140449",
+      "inci_name": "PSEUDOZYMA EPICOLA/APRICOT KERNEL OIL/OLIVE FRUIT OIL/SUNFLOWER SEED OIL/SWEET ALMOND OIL/PANAX GINSENG ROOT EXTRACT FERMENT EXTRACT FILTRATE"
+    },
+    {
+      "identifier": "37139",
+      "inci_name": "PHELLINUS BAUMII MYCELIUM/PANAX GINSENG ROOT FERMENT EXTRACT FILTRATE"
+    },
+    {
+      "identifier": "41202",
+      "inci_name": "PANAX GINSENG LEAF/ROOT/STEM EXTRACT"
+    },
+    {
+      "identifier": "138893",
+      "inci_name": "LACTOBACILLUS/(CENTELLA ASIATICA/COFFEE SEED/GANODERMA LUCIDUM/HOPS/PANAX GINSENG ROOT/SCUTELLARIA BAICALENSIS ROOT) EXTRACT/PEA EXTRACT/RICE SEED EXTRACT FERMENT FILTRATE"
+    },
+    {
+      "identifier": "108529",
+      "inci_name": "PANAX GINSENG ROOT CELL EXTRACT"
+    },
+    {
+      "identifier": "37096",
+      "inci_name": "PANAX GINSENG ROOT/VELVET EXTRACT"
+    },
+    {
+      "identifier": "64687",
+      "inci_name": "PEDIOCOCCUS/PANAX GINSENG ADVENTITIOUS ROOT EXTRACT FERMENT EXTRACT"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 20859,
+      "inci_name": "PANAX GINSENG ROOT EXTRACT",
+      "name": "Ginseng root extract",
+      "description": "Panax ginseng, the ginseng, also known as Asian ginseng, Chinese ginseng, or Korean ginseng, is a species of plant whose root is the original source of ginseng. It is a perennial plant that grows in the mountains of Eastern Asia.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "84650-12-4",
+      "einecs_elincs": "283-493-7",
+      "cosmetic_restriction": "",
+      "percentage": 1.01,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "1.68",
+          "count": 393
+        },
+        {
+          "category_name": "Fabric mask",
+          "percentage": "3.3",
+          "count": 166
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "1.44",
+          "count": 158
+        },
+        {
+          "category_name": "Cream / Gel Mask",
+          "percentage": "2.56",
+          "count": 155
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "1.36",
+          "count": 153
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin protecting",
+          "description": "Helps to avoid the harmful effects of external factors on the skin"
+        },
+        {
+          "name": "Tonic",
+          "description": "Produces a feeling of well-being on skin and hair"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 609,
+      "inci_name": "PANAX QUINQUEFOLIUM ROOT EXTRACT",
+      "name": null,
+      "description": "American ginseng (Panax quinquefolius, Panacis quinquefolis) is a herbaceous perennial plant in the ivy family, commonly used as Chinese or traditional medicine. It is native to eastern North America, though it is also cultivated in China. Since the 18th century, American ginseng (P. quinquefolius) has been primarily exported to Asia, where it is highly valued for perceived superior quality and sweet taste.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "90045-38-8",
+      "einecs_elincs": "289-898-5",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 38857,
+      "inci_name": "LACTOBACILLUS/PANAX GINSENG ROOT EXTRACT FERMENT FILTRATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 140449,
+      "inci_name": "PSEUDOZYMA EPICOLA/APRICOT KERNEL OIL/OLIVE FRUIT OIL/SUNFLOWER SEED OIL/SWEET ALMOND OIL/PANAX GINSENG ROOT EXTRACT FERMENT EXTRACT FILTRATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin protecting",
+          "description": "Helps to avoid the harmful effects of external factors on the skin"
+        },
+        {
+          "name": "Skin conditioning - humectant",
+          "description": "Increasing the water content of the top layers of the skin. Humectants are primarily hygroscopic agents drawing moisture from the surrounding air."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 37139,
+      "inci_name": "PHELLINUS BAUMII MYCELIUM/PANAX GINSENG ROOT FERMENT EXTRACT FILTRATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 41202,
+      "inci_name": "PANAX GINSENG LEAF/ROOT/STEM EXTRACT",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antioxidant",
+          "description": "Inhibits reactions favored by oxygen, thus avoiding oxidation and rancidity"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 138893,
+      "inci_name": "LACTOBACILLUS/(CENTELLA ASIATICA/COFFEE SEED/GANODERMA LUCIDUM/HOPS/PANAX GINSENG ROOT/SCUTELLARIA BAICALENSIS ROOT) EXTRACT/PEA EXTRACT/RICE SEED EXTRACT FERMENT FILTRATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antioxidant",
+          "description": "Inhibits reactions favored by oxygen, thus avoiding oxidation and rancidity"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 108529,
+      "inci_name": "PANAX GINSENG ROOT CELL EXTRACT",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning - miscellaneous",
+          "description": "Improving the appearance of dry and/or damaged skin by reducing flaking and restoring its suppleness."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 37096,
+      "inci_name": "PANAX GINSENG ROOT/VELVET EXTRACT",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 64687,
+      "inci_name": "PEDIOCOCCUS/PANAX GINSENG ADVENTITIOUS ROOT EXTRACT FERMENT EXTRACT",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

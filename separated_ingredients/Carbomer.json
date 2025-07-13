@@ -1,0 +1,289 @@
+{
+  "ingredient": "Carbomer",
+  "search_results": [
+    {
+      "identifier": "13165",
+      "inci_name": "CARBOMER"
+    },
+    {
+      "identifier": "11005",
+      "inci_name": "SODIUM CARBOMER"
+    },
+    {
+      "identifier": "17713",
+      "inci_name": "TEA-CARBOMER"
+    },
+    {
+      "identifier": "26442",
+      "inci_name": "CARBOMER/PAPAIN CROSSPOLYMER"
+    },
+    {
+      "identifier": "20669",
+      "inci_name": "POTASSIUM CARBOMER"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 13165,
+      "inci_name": "CARBOMER",
+      "name": "Carbomer",
+      "description": "Carbomers are hydrophilic synthetic polymers of acrylic acid. In cosmetics, they are used to thicken the preparations as a gelling agent or emulsifier, but also as a solvent to help the formulas stay well mixed. These are big molecules that do not penetrate the barriers of the skin. They improve the textures of creams or shampoos, so that they are more pleasant to use.\n\nThe CIR (Cosmetic Ingredient Review) believes that carbomers are safe for health in cosmetics. Indeed, they have been the subject of many tests and do not pose in general no problems.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "9007-20-9 / 9003-01-4 / 76050-42-5 / 9062-04-8 / 9007-16-3 / 9007-17-4",
+      "einecs_elincs": "- / - / - / - / - / -",
+      "cosmetic_restriction": "",
+      "percentage": 9.32,
+      "category_percentage": [
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "29.15",
+          "count": 4501
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "10.79",
+          "count": 2519
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "20.54",
+          "count": 2303
+        },
+        {
+          "category_name": "Fabric mask",
+          "percentage": "42.85",
+          "count": 2156
+        },
+        {
+          "category_name": "Hand cream",
+          "percentage": "20.43",
+          "count": 1632
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Gel forming",
+          "description": "Gives a liquid preparation the consistency of a gel"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 11005,
+      "inci_name": "SODIUM CARBOMER",
+      "name": "Sodium Carbomer",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "73298-57-4",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.29,
+      "category_percentage": [
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "1.34",
+          "count": 207
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "1.11",
+          "count": 125
+        },
+        {
+          "category_name": "Anti-aging day face cream",
+          "percentage": "1.58",
+          "count": 79
+        },
+        {
+          "category_name": "Hand cream",
+          "percentage": "0.8",
+          "count": 64
+        },
+        {
+          "category_name": "Cream / Gel Mask",
+          "percentage": "0.71",
+          "count": 43
+        }
+      ],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        },
+        {
+          "name": "Gel forming",
+          "description": "Gives a liquid preparation the consistency of a gel"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 17713,
+      "inci_name": "TEA-CARBOMER",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "III/62",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 20,
+          "name": "TEA",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Gel forming",
+          "description": "Gives a liquid preparation the consistency of a gel"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 26442,
+      "inci_name": "CARBOMER/PAPAIN CROSSPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1203594-64-2",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20669,
+      "inci_name": "POTASSIUM CARBOMER",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

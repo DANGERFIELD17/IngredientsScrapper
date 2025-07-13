@@ -1,0 +1,85 @@
+{
+  "ingredient": "Hibiscus Rosa-Sinensis Flower Extract",
+  "search_results": [
+    {
+      "identifier": "3734",
+      "inci_name": "HIBISCUS ROSA-SINENSIS FLOWER EXTRACT"
+    },
+    {
+      "identifier": "17739",
+      "inci_name": "HIBISCUS ROSA-SINENSIS FLOWER/LEAF EXTRACT"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 3734,
+      "inci_name": "HIBISCUS ROSA-SINENSIS FLOWER EXTRACT",
+      "name": "Hibiscus flower extract",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.04,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 17739,
+      "inci_name": "HIBISCUS ROSA-SINENSIS FLOWER/LEAF EXTRACT",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Tonic",
+          "description": "Produces a feeling of well-being on skin and hair"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

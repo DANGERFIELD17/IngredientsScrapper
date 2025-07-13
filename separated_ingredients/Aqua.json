@@ -1,0 +1,820 @@
+{
+  "ingredient": "Aqua",
+  "search_results": [
+    {
+      "identifier": "5555",
+      "inci_name": "AQUA"
+    },
+    {
+      "identifier": "11294",
+      "inci_name": "MARIS AQUA"
+    },
+    {
+      "identifier": "11642",
+      "inci_name": "MENTHA AQUATICA LEAF EXTRACT"
+    },
+    {
+      "identifier": "20029",
+      "inci_name": "MENTHA AQUATICA EXTRACT"
+    },
+    {
+      "identifier": "26047",
+      "inci_name": "GAMARDE AQUA"
+    },
+    {
+      "identifier": "15057",
+      "inci_name": "MENTHA AQUATICA FLOWER/LEAF/STEM EXTRACT"
+    },
+    {
+      "identifier": "14123",
+      "inci_name": "AQUAPHILUS DOLOMIAE EXTRACT"
+    },
+    {
+      "identifier": "27228",
+      "inci_name": "BALARUC-LES-BAINS AQUA"
+    },
+    {
+      "identifier": "40640",
+      "inci_name": "AQUAPHILUS DOLOMIAE FERMENT FILTRATE"
+    },
+    {
+      "identifier": "27234",
+      "inci_name": "SAINT-GERVAIS AQUA"
+    },
+    {
+      "identifier": "26466",
+      "inci_name": "MONTBRUN AQUA"
+    },
+    {
+      "identifier": "18662",
+      "inci_name": "ALISMA PLANTAGO AQUATICA EXTRACT"
+    },
+    {
+      "identifier": "64749",
+      "inci_name": "AQUAPHILUS DOLOMIAE EXTRACT FILTRATE"
+    },
+    {
+      "identifier": "9808",
+      "inci_name": "AQUAMARINE POWDER"
+    },
+    {
+      "identifier": "10692",
+      "inci_name": "ZIZANIA AQUATICA EXTRACT"
+    },
+    {
+      "identifier": "6546",
+      "inci_name": "AQUAMARINE EXTRACT"
+    },
+    {
+      "identifier": "26881",
+      "inci_name": "EVAUX AQUA"
+    },
+    {
+      "identifier": "10590",
+      "inci_name": "MENTHA AQUATICA FLOWER/LEAF/STEM OIL"
+    },
+    {
+      "identifier": "26111",
+      "inci_name": "CASTERA-VERDUZAN THERMAL AQUA"
+    },
+    {
+      "identifier": "9177",
+      "inci_name": "MENTHA AQUATICA WATER"
+    },
+    {
+      "identifier": "8456",
+      "inci_name": "MENTHA AQUATICA LEAF OIL"
+    },
+    {
+      "identifier": "26709",
+      "inci_name": "OLEA EUROPAEA LEAF EXTRACT (AND) AQUA"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 5555,
+      "inci_name": "AQUA",
+      "name": "Water",
+      "description": "Water is the most used ingredient in cosmetics: 83% of products contain it (percentage established from 50,000 products from the Inci Beauty App). Since water is of mineral origin, it can never be certified organic. This is why organic labels, to certify products, authorize fairly low minimums of organic ingredients (10% for Ecocert) on the total of a formula, taking into account that the presence of non-organic water is essential and often the majority in many cases.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "7732-18-5",
+      "einecs_elincs": "231-791-2",
+      "cosmetic_restriction": "",
+      "percentage": 78.61,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "98.89",
+          "count": 23080
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "99.43",
+          "count": 17767
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "94.81",
+          "count": 14640
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "98.59",
+          "count": 10855
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "96.74",
+          "count": 10846
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Mineral"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Solvent",
+          "description": "Dissolves other substances"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 11294,
+      "inci_name": "MARIS AQUA",
+      "name": "Sea water",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.49,
+      "category_percentage": [
+        {
+          "category_name": "Face cream",
+          "percentage": "1.74",
+          "count": 195
+        },
+        {
+          "category_name": "Cream / Gel Mask",
+          "percentage": "2",
+          "count": 121
+        },
+        {
+          "category_name": "Foundation",
+          "percentage": "1",
+          "count": 104
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "0.65",
+          "count": 101
+        },
+        {
+          "category_name": "Face Lotion and Toner",
+          "percentage": "1.53",
+          "count": 78
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Solvent",
+          "description": "Dissolves other substances"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 11642,
+      "inci_name": "MENTHA AQUATICA LEAF EXTRACT",
+      "name": null,
+      "description": "Mentha aquatica (water mint; syn. Mentha hirsuta Huds.) is a perennial flowering plant in the mint family Lamiaceae.  It grows in moist places and is native to much of Europe, northwest Africa and southwest Asia.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "90063-96-0",
+      "einecs_elincs": "290-056-4",
+      "cosmetic_restriction": "",
+      "percentage": 0.04,
+      "category_percentage": [
+        {
+          "category_name": "Shower gel",
+          "percentage": "0.26",
+          "count": 47
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20029,
+      "inci_name": "MENTHA AQUATICA EXTRACT",
+      "name": null,
+      "description": "Mentha aquatica (water mint; syn. Mentha hirsuta Huds.) is a perennial flowering plant in the mint family Lamiaceae.  It grows in moist places and is native to much of Europe, northwest Africa and southwest Asia.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "90063-96-0",
+      "einecs_elincs": "290-056-4",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Tonic",
+          "description": "Produces a feeling of well-being on skin and hair"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 26047,
+      "inci_name": "GAMARDE AQUA",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "7732-18-5",
+      "einecs_elincs": "231-791-2",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Natural"
+        }
+      ],
+      "families": [],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 15057,
+      "inci_name": "MENTHA AQUATICA FLOWER/LEAF/STEM EXTRACT",
+      "name": null,
+      "description": "Mentha aquatica (water mint; syn. Mentha hirsuta Huds.) is a perennial flowering plant in the mint family Lamiaceae.  It grows in moist places and is native to much of Europe, northwest Africa and southwest Asia.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "90063-96-0",
+      "einecs_elincs": "290-056-4",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 14123,
+      "inci_name": "AQUAPHILUS DOLOMIAE EXTRACT",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Skin protecting",
+          "description": "Helps to avoid the harmful effects of external factors on the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 27228,
+      "inci_name": "BALARUC-LES-BAINS AQUA",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "7732-18-5",
+      "einecs_elincs": "231-791-2",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 40640,
+      "inci_name": "AQUAPHILUS DOLOMIAE FERMENT FILTRATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Skin protecting",
+          "description": "Helps to avoid the harmful effects of external factors on the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 27234,
+      "inci_name": "SAINT-GERVAIS AQUA",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "7732-18-5",
+      "einecs_elincs": "231-791-2",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 26466,
+      "inci_name": "MONTBRUN AQUA",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "7732-18-5",
+      "einecs_elincs": "231-791-2",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 18662,
+      "inci_name": "ALISMA PLANTAGO AQUATICA EXTRACT",
+      "name": null,
+      "description": "Alisma plantago-aquatica, also known as European water-plantain, common water-plantain or mad-dog weed, is a perennial flowering aquatic plant widespread across most of Europe and Asia, and apparently spread elsewhere in both the Old and New World.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "90320-32-4",
+      "einecs_elincs": "291-057-2",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 64749,
+      "inci_name": "AQUAPHILUS DOLOMIAE EXTRACT FILTRATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin protecting",
+          "description": "Helps to avoid the harmful effects of external factors on the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 9808,
+      "inci_name": "AQUAMARINE POWDER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Binding agent",
+          "description": "Allows the cohesion of different cosmetic ingredients"
+        },
+        {
+          "name": "Skin protecting",
+          "description": "Helps to avoid the harmful effects of external factors on the skin"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 10692,
+      "inci_name": "ZIZANIA AQUATICA EXTRACT",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 6546,
+      "inci_name": "AQUAMARINE EXTRACT",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 26881,
+      "inci_name": "EVAUX AQUA",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "7732-18-5",
+      "einecs_elincs": "231-791-2",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 10590,
+      "inci_name": "MENTHA AQUATICA FLOWER/LEAF/STEM OIL",
+      "name": null,
+      "description": "Mentha aquatica (water mint; syn. Mentha hirsuta Huds.) is a perennial flowering plant in the mint family Lamiaceae.  It grows in moist places and is native to much of Europe, northwest Africa and southwest Asia.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "90063-96-0",
+      "einecs_elincs": "290-056-4",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Flavouring agent",
+          "description": "Gives an aroma to the cosmetic product"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 26111,
+      "inci_name": "CASTERA-VERDUZAN THERMAL AQUA",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "7732-18-5",
+      "einecs_elincs": "231-791-2",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 9177,
+      "inci_name": "MENTHA AQUATICA WATER",
+      "name": null,
+      "description": "Mentha aquatica (water mint; syn. Mentha hirsuta Huds.) is a perennial flowering plant in the mint family Lamiaceae.  It grows in moist places and is native to much of Europe, northwest Africa and southwest Asia.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "90063-96-0",
+      "einecs_elincs": "290-056-4",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Astringent",
+          "description": "Helps tighten skin pores"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 8456,
+      "inci_name": "MENTHA AQUATICA LEAF OIL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 26709,
+      "inci_name": "OLEA EUROPAEA LEAF EXTRACT (AND) AQUA",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

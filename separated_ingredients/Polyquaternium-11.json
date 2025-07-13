@@ -1,0 +1,306 @@
+{
+  "ingredient": "Polyquaternium-11",
+  "search_results": [
+    {
+      "identifier": "11662",
+      "inci_name": "POLYQUATERNIUM-11"
+    },
+    {
+      "identifier": "37245",
+      "inci_name": "POLYQUATERNIUM-113"
+    },
+    {
+      "identifier": "13152",
+      "inci_name": "POLYQUATERNIUM-110"
+    },
+    {
+      "identifier": "64924",
+      "inci_name": "POLYQUATERNIUM-116"
+    },
+    {
+      "identifier": "38658",
+      "inci_name": "POLYQUATERNIUM-112"
+    },
+    {
+      "identifier": "38760",
+      "inci_name": "POLYQUATERNIUM-111"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 11662,
+      "inci_name": "POLYQUATERNIUM-11",
+      "name": "Polyquaternium-11",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "53633-54-8",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.42,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.96",
+          "count": 225
+        },
+        {
+          "category_name": "Styling mousse",
+          "percentage": "24.26",
+          "count": 205
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "2.9",
+          "count": 183
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "1.16",
+          "count": 128
+        },
+        {
+          "category_name": "Treatment for curly hair",
+          "percentage": "8.2",
+          "count": 125
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 37245,
+      "inci_name": "POLYQUATERNIUM-113",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 13152,
+      "inci_name": "POLYQUATERNIUM-110",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1323977-82-7",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 7,
+          "name": "Quaternary ammonium cation",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 64924,
+      "inci_name": "POLYQUATERNIUM-116",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "III/62",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 2,
+      "origin": [],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 38658,
+      "inci_name": "POLYQUATERNIUM-112",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        },
+        {
+          "name": "Hair fixing",
+          "description": "Allows hair style control"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 38760,
+      "inci_name": "POLYQUATERNIUM-111",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "67990-40-3",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

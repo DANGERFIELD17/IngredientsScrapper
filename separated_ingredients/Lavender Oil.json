@@ -1,0 +1,4 @@
+{
+  "ingredient": "Lavender Oil",
+  "error": "Error searching for Lavender Oil: 429 Client Error: Too Many Requests for url: https://api.incibeauty.com/ingredient/search/Lavender%20Oil?accessKeyId=d5ae0e8abc0cc240&hmac=d047f40f59121f35b129431c16a22a45b635c82eb076787ce221c0ced52b2957"
+}

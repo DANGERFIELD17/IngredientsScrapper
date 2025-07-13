@@ -1,0 +1,84 @@
+{
+  "ingredient": "Ricinus Communis Seed Oil",
+  "search_results": [
+    {
+      "identifier": "4337",
+      "inci_name": "RICINUS COMMUNIS SEED OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 4337,
+      "inci_name": "RICINUS COMMUNIS SEED OIL",
+      "name": "Castor seed oil",
+      "description": "Castor oil is a vegetable oil extracted from seeds, it is mainly made up of fatty acids (mostly ricinoleic acid). This oil is used because of its numerous properties in cosmetics: it promotes the uniform distribution of pigments in a cosmetic product, it penetrates the stratum corneum and acts in depth, it moisturizes and protects. In hair care, it has toning properties and protects the hair (film-forming agent). It is also very used in lip care, it makes them soft and gives them shine. In makeup, it is used to promote a good distribution of colors. It is allowed in organic.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "8001-79-4",
+      "einecs_elincs": "232-293-8",
+      "cosmetic_restriction": "",
+      "percentage": 4.1,
+      "category_percentage": [
+        {
+          "category_name": "Lipstick",
+          "percentage": "25.38",
+          "count": 2994
+        },
+        {
+          "category_name": "Lip balm",
+          "percentage": "55.25",
+          "count": 2217
+        },
+        {
+          "category_name": "Gloss and lip gloss",
+          "percentage": "23.14",
+          "count": 719
+        },
+        {
+          "category_name": "Mascara",
+          "percentage": "19.67",
+          "count": 628
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "2.53",
+          "count": 590
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "ingredient": "Cedrus Atlantica Bark Oil",
+  "search_results": [
+    {
+      "identifier": "4679",
+      "inci_name": "CEDRUS ATLANTICA BARK OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 4679,
+      "inci_name": "CEDRUS ATLANTICA BARK OIL",
+      "name": "Atlas Cedar bark oil",
+      "description": "",
+      "regulation": "The presence of the substance or substances must be indicated by “Cedrus Atlantica Oil/Extract” in the list of ingredients referred to in Article 19(1), point g), when the concentration of the substance or substances is higher:\n- at 0.001% in leave-on products,\n- 0.01% in rinse-off products.\nPeroxide index less than 10 mmoles/L\nThis limit applies to the substance and not to the finished cosmetic product.",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "8000-27-9 / 92201-55-3 / 92201-55-3 / 92201-55-3",
+      "einecs_elincs": "- / - / 295-985-9 / 295-985-9",
+      "cosmetic_restriction": "III/122",
+      "percentage": 0.24,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.58",
+          "count": 136
+        },
+        {
+          "category_name": "Solid soap",
+          "percentage": "1.32",
+          "count": 114
+        },
+        {
+          "category_name": "Solid shampoo",
+          "percentage": "2.71",
+          "count": 49
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "0.4",
+          "count": 44
+        }
+      ],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 4,
+          "name": "Allergen",
+          "score": 2
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 52,
+          "name": "Essential oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

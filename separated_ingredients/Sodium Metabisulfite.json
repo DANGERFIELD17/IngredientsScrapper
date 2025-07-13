@@ -1,0 +1,4 @@
+{
+  "ingredient": "Sodium Metabisulfite",
+  "error": "Error searching for Sodium Metabisulfite: 429 Client Error: Too Many Requests for url: https://api.incibeauty.com/ingredient/search/Sodium%20Metabisulfite?accessKeyId=d5ae0e8abc0cc240&hmac=d561cbd49345688f644021fe08bfbbb33aa9ee1c86ac5bb56d6d13ca78535342"
+}

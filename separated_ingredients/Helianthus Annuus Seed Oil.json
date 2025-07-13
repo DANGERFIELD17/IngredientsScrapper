@@ -1,0 +1,150 @@
+{
+  "ingredient": "Helianthus Annuus Seed Oil",
+  "search_results": [
+    {
+      "identifier": "1447",
+      "inci_name": "HELIANTHUS ANNUUS SEED OIL"
+    },
+    {
+      "identifier": "12597",
+      "inci_name": "HELIANTHUS ANNUUS SEED OIL UNSAPONIFIABLES"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 1447,
+      "inci_name": "HELIANTHUS ANNUUS SEED OIL",
+      "name": "Sunflower seed oil",
+      "description": "This oil is obtained by pressing the seeds after harvesting sunflower. It is composed mainly of linoleic acid (fatty acid, omega 6) which allows a good hydration of the skin and vitamin E, an antioxidant. Sunflower oil is used in many treatments, it is often used as a base for floral oils. It is used as emollient (softens and softens the skin) or hair conditioner. It is also found in products to clean the skin, in babies in some liniments. It is allowed in organic.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "84776-03-4 (generic)/ 8001-21-6/ 164250-88-8 (generic)",
+      "einecs_elincs": "-/ 232-273-9/ -",
+      "cosmetic_restriction": "",
+      "percentage": 11.97,
+      "category_percentage": [
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "25.89",
+          "count": 3998
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "28.37",
+          "count": 3181
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "18.28",
+          "count": 2190
+        },
+        {
+          "category_name": "Hand cream",
+          "percentage": "27.02",
+          "count": 2159
+        },
+        {
+          "category_name": "Moisturizing oil for the body and face",
+          "percentage": "35.17",
+          "count": 1848
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Solvent",
+          "description": "Dissolves other substances"
+        },
+        {
+          "name": "Skin conditioning - miscellaneous",
+          "description": "Improving the appearance of dry and/or damaged skin by reducing flaking and restoring its suppleness."
+        },
+        {
+          "name": "Skin conditioning - occlusive",
+          "description": "Retarding the evaporation of water from the skin surface. Occlusives are generally lipids which tend to remain on the skin surface and thus increase the water content of skin."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 12597,
+      "inci_name": "HELIANTHUS ANNUUS SEED OIL UNSAPONIFIABLES",
+      "name": "Sunflower seed oil unsaponifiables",
+      "description": "Helianthus annuus, the common sunflower, is a large annual forb of the genus Helianthus grown as a crop for its edible oil and edible fruits. This sunflower species is also used as wild bird food, as livestock forage (as a meal or a silage plant), in some industrial applications, and as an ornamental in domestic gardens. The plant was first domesticated in the Americas. Wild Helianthus annuus is a widely branched annual plant with many flower heads. The domestic sunflower, however, often possesses only a single large inflorescence (flower head) atop an unbranched stem. The name sunflower may derive from the flower's head's shape, which resembles the sun, or from the impression that the blooming plant appears to slowly turn its flower towards the sun as the latter moves across the sky on a daily basis.\nSunflower seeds were brought to Europe from the Americas in the 16th century, where, along with sunflower oil, they became a widespread cooking ingredient.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "8001-21-6",
+      "einecs_elincs": "232-273-9",
+      "cosmetic_restriction": "",
+      "percentage": 0.17,
+      "category_percentage": [
+        {
+          "category_name": "Face cream",
+          "percentage": "0.62",
+          "count": 69
+        },
+        {
+          "category_name": "Hand cream",
+          "percentage": "0.56",
+          "count": 45
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "0.37",
+          "count": 44
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "0.27",
+          "count": 41
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning - miscellaneous",
+          "description": "Improving the appearance of dry and/or damaged skin by reducing flaking and restoring its suppleness."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

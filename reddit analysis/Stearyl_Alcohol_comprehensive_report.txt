@@ -1,0 +1,179 @@
+================================================================================
+COMPREHENSIVE STEARYL ALCOHOL ANALYSIS REPORT
+================================================================================
+Generated: 2025-07-13 13:58:19
+
+OVERVIEW:
+Ingredient Analyzed: Stearyl Alcohol
+Total Posts Analyzed: 139
+Posts with Comments: 136
+Comment Coverage: 97.8%
+
+POSITIVE BENEFITS ANALYSIS:
+--------------------------------------------------
+Total Positive Statements: 4
+Key Positive Themes:
+  • Skin Health Improvement: 4 mentions
+  • High Recommendation: 3 mentions
+  • Overall Effectiveness: 2 mentions
+
+NEGATIVE CONS ANALYSIS:
+--------------------------------------------------
+Total Negative Statements: 3
+Key Negative Themes:
+  • Acne/Breakout Issues: 1 mentions
+  • Discontinued Due to Problems: 1 mentions
+
+DOSAGE EFFECTIVENESS ANALYSIS:
+--------------------------------------------------
+Total Dosage Statements: 7
+Dosage Insights:
+  • Effective Dosage: 7 mentions
+  • Percentage-Based Dosage: 6 mentions
+  • Daily Usage: 2 mentions
+  • Dosage Increase: 1 mentions
+  • Dosage Decrease: 1 mentions
+
+Most Common Dosages:
+  • 4 %: 2 mentions
+  • 9 mg: 1 mentions
+  • 3 mg: 1 mentions
+  • 5 mg: 1 mentions
+
+CATEGORY BREAKDOWN:
+--------------------------------------------------
+Ingredient Usage Patterns: 116 posts (83.5%)
+Treatment Experiences: 117 posts (84.2%)
+Product Recommendations: 133 posts (95.7%)
+Side Effects: 95 posts (68.3%)
+Combination Therapy: 138 posts (99.3%)
+Scientific Discussion: 40 posts (28.8%)
+Humor Meme: 76 posts (54.7%)
+Seeking Advice: 129 posts (92.8%)
+Progress Report: 81 posts (58.3%)
+Dosage Questions: 74 posts (53.2%)
+
+TOP INGREDIENT COMBINATIONS:
+--------------------------------------------------
+  • spf, sunscreen: 10 posts
+  • sunscreen, zinc: 3 posts
+  • sunscreen, tretinoin: 2 posts
+  • sunscreen, vitamin c: 2 posts
+  • hyaluronic acid, sunscreen: 2 posts
+  • niacinamide, vitamin c: 2 posts
+  • peptides, retinol, spf, sunscreen: 1 posts
+  • retinol, salicylic acid: 1 posts
+  • salicylic acid, spf, zinc: 1 posts
+  • dermarolling, retinol, sunscreen: 1 posts
+
+TOP INGREDIENTS MENTIONED IN COMMENTS:
+--------------------------------------------------
+  • sunscreen: 39 mentions
+  • spf: 15 mentions
+  • zinc: 13 mentions
+  • niacinamide: 13 mentions
+  • tretinoin: 10 mentions
+  • vitamin e: 10 mentions
+  • retinol: 9 mentions
+  • vitamin c: 9 mentions
+  • hyaluronic acid: 6 mentions
+  • peptides: 4 mentions
+
+TOP BRANDS MENTIONED:
+--------------------------------------------------
+  • cerave: 24 mentions
+  • neutrogena: 11 mentions
+  • cosrx: 10 mentions
+  • paula's choice: 9 mentions
+  • la roche posay: 6 mentions
+  • olay: 4 mentions
+  • the ordinary: 4 mentions
+  • stridex: 3 mentions
+  • now foods: 1 mentions
+  • costco: 1 mentions
+
+PRODUCT FORMS:
+--------------------------------------------------
+  • cream: 47 mentions
+  • oil: 46 mentions
+  • lotion: 27 mentions
+  • gel: 27 mentions
+  • serum: 18 mentions
+  • liquid: 12 mentions
+  • powder: 9 mentions
+  • spray: 6 mentions
+  • drops: 6 mentions
+  • patches: 4 mentions
+
+BODY PARTS WHERE STEARYL ALCOHOL IS USED:
+--------------------------------------------------
+  • skin: 78 mentions
+  • face: 52 mentions
+  • acne: 34 mentions
+  • hair: 21 mentions
+  • facial: 18 mentions
+  • pores: 9 mentions
+  • scalp: 9 mentions
+  • head: 6 mentions
+  • forehead: 3 mentions
+  • fine lines: 1 mentions
+
+SENTIMENT ANALYSIS:
+--------------------------------------------------
+Positive sentiment keywords: 267 (59.6%)
+Negative sentiment keywords: 181 (40.4%)
+Overall sentiment: POSITIVE
+
+SENTIMENT INDICATORS:
+--------------------------------------------------
+Positive sentiment posts: 66
+Negative sentiment posts: 25
+
+TEMPORAL PATTERNS:
+--------------------------------------------------
+2013: 7 posts
+2014: 13 posts
+2015: 8 posts
+2016: 10 posts
+2017: 5 posts
+2018: 14 posts
+2019: 12 posts
+2020: 18 posts
+2021: 15 posts
+2022: 8 posts
+2023: 9 posts
+2024: 12 posts
+2025: 8 posts
+
+SUBREDDIT DISTRIBUTION:
+--------------------------------------------------
+SkincareAddiction: 38 posts (27.3%)
+AsianBeauty: 30 posts (21.6%)
+IndianSkincareAddicts: 11 posts (7.9%)
+EuroSkincare: 11 posts (7.9%)
+HaircareScience: 9 posts (6.5%)
+curlyhair: 4 posts (2.9%)
+Indiemakeupandmore: 4 posts (2.9%)
+tretinoin: 3 posts (2.2%)
+DIYBeauty: 3 posts (2.2%)
+beautytalkph: 2 posts (1.4%)
+scacjdiscussion: 2 posts (1.4%)
+AusSkincare: 2 posts (1.4%)
+AsianBeautyAdvice: 2 posts (1.4%)
+malehairadvice: 1 posts (0.7%)
+Splendida: 1 posts (0.7%)
+BeautyBoxes: 1 posts (0.7%)
+MUAontheCheap: 1 posts (0.7%)
+memes: 1 posts (0.7%)
+CanSkincare: 1 posts (0.7%)
+keto: 1 posts (0.7%)
+
+KEY INSIGHTS:
+--------------------------------------------------
+• Skin Health Improvement is the most mentioned benefit (4 mentions)
+• Acne/Breakout Issues is the primary concern (1 mentions)
+• 4 % is the most commonly mentioned dosage
+• cerave is the most trusted brand (24 mentions)
+• 22.3% of posts discuss Stearyl Alcohol in combination with other treatments
+• cream form is the most popular product form (47 mentions)
+• skin is the primary usage area (78 mentions)

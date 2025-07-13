@@ -26,7 +26,7 @@ except Exception as e:
     sys.exit(1)
 
 # Step 2: Your configuration
-OR_IDENTIFIERS = ["acetyl tetrapeptide"]  # Any of these terms will match (OR logic)
+OR_IDENTIFIERS = ['Ethylhexylglycerin']  # Any of these terms will match (OR logic)
 AND_IDENTIFIERS = []  # All of these terms must be present (AND logic)
 MONTHS_BACK = 1  # How many months back to search for limited mode
 MAX_COMMENTS = 30 # Number of top comments to collect per post
@@ -34,25 +34,33 @@ UNLIMITED_MODE = True  # Set to True to remove timeline filter and get unlimited
 MAX_POSTS = 139  # Maximum number of posts to process (set as needed)
 
 # Build the search query string
+
+# Build the search query string to include both title and body (selftext)
 search_terms = []
 if OR_IDENTIFIERS:
-    or_query = " OR ".join([f'title:"{term}"' for term in OR_IDENTIFIERS])
+    or_query = " OR ".join([
+        f'title:"{term}"' for term in OR_IDENTIFIERS
+    ] + [
+        f'selftext:"{term}"' for term in OR_IDENTIFIERS
+    ])
     search_terms.append(f'({or_query})')
 if AND_IDENTIFIERS:
-    and_query = " AND ".join([f'title:"{term}"' for term in AND_IDENTIFIERS])
+    and_query = " AND ".join([
+        f'(title:"{term}" OR selftext:"{term}")' for term in AND_IDENTIFIERS
+    ])
     search_terms.append(and_query)
 SEARCH_QUERY = " AND ".join(search_terms) if search_terms else ""
 
 # Build a string for filenames and printouts based on identifiers
 if OR_IDENTIFIERS:
-    identifier_str = "_or_".join([term.replace(" ", "_") for term in OR_IDENTIFIERS])
+    identifier_str = "_or_".join([term.replace(" ", "_").replace("/", "_").replace("-", "_") for term in OR_IDENTIFIERS])
 elif AND_IDENTIFIERS:
-    identifier_str = "_and_".join([term.replace(" ", "_") for term in AND_IDENTIFIERS])
+    identifier_str = "_and_".join([term.replace(" ", "_").replace("/", "_").replace("-", "_") for term in AND_IDENTIFIERS])
 else:
     identifier_str = "ingredient"
 
 # ===== COMMENT COLLECTION OPTIONS =====
-INCLUDE_NESTED_COMMENTS = True  # Set to False for faster processing (top-level only)
+INCLUDE_NESTED_COMMENTS = False  # Set to False for faster processing (top-level only)
 # True = Collects ALL comments including replies (slower but more comprehensive)
 # False = Only top-level comments (faster but may miss valuable nested discussions)
 
@@ -311,48 +319,61 @@ except Exception as e:
     sys.exit(1)
 
 # Step 4: Save raw data as JSON
-with open(f"{identifier_str}_all_comments.json", "w", encoding="utf-8") as f:
+import os
+# Create output folder if it doesn't exist
+raw_data_folder = "raw data"
+if not os.path.exists(raw_data_folder):
+    os.makedirs(raw_data_folder)
+raw_data_path = os.path.join(raw_data_folder, f"{identifier_str}_all_comments.json")
+with open(raw_data_path, "w", encoding="utf-8") as f:
     json.dump(results, f, ensure_ascii=False, indent=2)
 
-print(f"[OK] Done! Saved {len(results)} posts to {identifier_str}_all_comments.json")
+print(f"[OK] Done! Saved {len(results)} posts to {raw_data_path}")
 
-# # Step 5: Enhanced AI Analysis
-# print("\n[AI] Starting Enhanced AI Analysis...")
+# Step 5: Unified spaCy Analysis
+print("\n[ANALYSIS] Starting Unified spaCy Analysis...")
 
-# # Llama Configuration
-# LLAMA_URL = "http://localhost:11434/api/generate"  # Ollama's /api/generate endpoint
+if len(results) > 0:
+    print("[ANALYSIS] Analyzing Reddit discussions with Unified spaCy Analysis...")
+    # Try unified analysis (our best comprehensive option)
+    try:
+        from unified_ingredient_analysis import run_unified_analysis
 
-# if len(results) > 0:
-#     print("[AI] Analyzing Reddit discussions with Enhanced AI Analysis (Llama)...")
-#     # Try enhanced analysis first (it's our best option)
-#     try:
-#         from enhanced_analysis import enhanced_analysis_structure
-#         analysis = enhanced_analysis_structure(results, identifier_str, LLAMA_URL)
-#         print("[OK] Enhanced analysis completed successfully!")
-#         # Save enhanced analysis results
-#         output_filename = f"{identifier_str}_enhanced_analysis.json"
-#         with open(output_filename, "w", encoding="utf-8") as f:
-#             json.dump(analysis, f, ensure_ascii=False, indent=2)
-#         print(f"[OK] Enhanced Analysis complete! Saved to {output_filename}")
-#         print("\n[STATS] Enhanced Analysis Summary:")
-#         print(f"Analysis Sections: {len(analysis.keys())}")
-#         if 'usage_patterns' in analysis:
-#             usage = analysis['usage_patterns']
-#             print(f"Dosage Recommendations: {len(usage.get('dosage_recommendations', []))}")
-#             print(f"Timing Preferences: {len(usage.get('timing_preferences', []))}")
-#         if 'brand_intelligence' in analysis:
-#             brands = analysis['brand_intelligence']
-#             print(f"Top Brands Analyzed: {len(brands.get('top_brands', []))}")
-#         if 'effectiveness_analysis' in analysis:
-#             effectiveness = analysis['effectiveness_analysis']
-#             print(f"Benefits Identified: {len(effectiveness.get('reported_benefits', []))}")
-#             print(f"Side Effects Found: {len(effectiveness.get('reported_side_effects', []))}")
-#     except Exception as e:
-#         print(f"[WARNING] Enhanced analysis failed: {e}")
-#         print("[INFO] Make sure 'enhanced_analysis.py' is in the same directory")
-# else:
-#     print("[ERROR] No data to analyze")
+        # Extract ingredient name from OR_IDENTIFIERS
+        ingredient_name = OR_IDENTIFIERS[0] if OR_IDENTIFIERS else "ingredient"
+        data_filename = os.path.join("raw data", f"{identifier_str}_all_comments.json")
 
-# print("\n[COMPLETE] Analysis pipeline complete!")
-# print(f"Raw data: {identifier_str}_all_comments.json")
-# print(f"Analysis: {identifier_str}_enhanced_analysis.json")
+        # Run the unified analysis
+        analysis_results = run_unified_analysis(ingredient_name, data_filename)
+
+        if analysis_results:
+            print("[OK] Unified spaCy analysis completed successfully!")
+            print("\n[STATS] Analysis Summary:")
+            print(f"Total Posts Analyzed: {analysis_results['total_posts']}")
+            print(f"Comment Coverage: {(analysis_results['comment_analysis']['total_comments_analyzed'] / analysis_results['total_posts'] * 100):.1f}%")
+            print(f"Positive Benefits Found: {len(analysis_results['comment_analysis']['positive_benefits'])}")
+            print(f"Negative Concerns Found: {len(analysis_results['comment_analysis']['negative_cons'])}")
+            print(f"Brands Identified: {len(analysis_results['comment_analysis']['brands_mentioned'])}")
+            print(f"Dosage Mentions: {len(analysis_results['comment_analysis']['dosage_mentions'])}")
+            print(f"Ingredient Combinations: {len(analysis_results['ingredient_combinations'])}")
+        else:
+            print("[WARNING] Unified analysis completed but returned no results")
+
+    except ImportError as e:
+        print(f"[WARNING] Unified analysis module not found: {e}")
+        print("[INFO] Make sure 'unified_ingredient_analysis.py' is in the same directory")
+        print("[INFO] You can run the analysis manually with:")
+        print(f"       python unified_ingredient_analysis.py \"{ingredient_name}\"")
+    except Exception as e:
+        print(f"[WARNING] Unified analysis failed: {e}")
+        print("[INFO] Raw data is still available for manual analysis")
+else:
+    print("[ERROR] No data to analyze")
+
+print("\n[COMPLETE] Analysis pipeline complete!")
+print(f"Raw data: {identifier_str}_all_comments.json")
+if len(results) > 0:
+    clean_name = (OR_IDENTIFIERS[0] if OR_IDENTIFIERS else "ingredient").replace(" ", "_").replace("/", "_")
+    print(f"Unified Analysis: {clean_name}_unified_analysis.json")
+    print(f"Comprehensive Report: {clean_name}_comprehensive_report.txt")
+    print(f"Summary Insights: {clean_name}_summary_insights.json")

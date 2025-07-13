@@ -1,0 +1,107 @@
+{
+  "ingredient": "Sodium Lauroyl Sarcosinate",
+  "search_results": [
+    {
+      "identifier": "14740",
+      "inci_name": "SODIUM LAUROYL SARCOSINATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 14740,
+      "inci_name": "SODIUM LAUROYL SARCOSINATE",
+      "name": "Sodium Lauroyl Sarcosinate",
+      "description": "Lauroyl Sarconisate sodium is a much milder anionic surfactant than sulfated compounds. Derived from fatty acid and natural amine, it is used in the composition of mild cleansing products and is also used in toothpastes.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "137-16-6",
+      "einecs_elincs": "205-281-5",
+      "cosmetic_restriction": "",
+      "percentage": 1.1,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "6.12",
+          "count": 1428
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "2.1",
+          "count": 375
+        },
+        {
+          "category_name": "Adult toothpaste",
+          "percentage": "3.49",
+          "count": 246
+        },
+        {
+          "category_name": "Face cleansing gel",
+          "percentage": "6.05",
+          "count": 188
+        },
+        {
+          "category_name": "Facial Cleansing Foam",
+          "percentage": "9.32",
+          "count": 154
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 37,
+          "name": "Anionic surfactant",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Foaming",
+          "description": "Capturing small air bubbles or other gases in a small volume of liquid by changing the surface tension of the liquid"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

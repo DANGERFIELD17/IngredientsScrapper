@@ -1,0 +1,105 @@
+{
+  "ingredient": "Cocamide DEA",
+  "search_results": [
+    {
+      "identifier": "9277",
+      "inci_name": "COCAMIDE DEA"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 9277,
+      "inci_name": "COCAMIDE DEA",
+      "name": "Cocamide Dea",
+      "description": "Cocamide DEA is obtained by mixing coconut oil fatty acids with diethanolamine. It is used as a thickening and foaming agent in cosmetic products.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "68603-42-9",
+      "einecs_elincs": "271-657-0/931-329-6",
+      "cosmetic_restriction": "III/60",
+      "percentage": 2.23,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "8.56",
+          "count": 1998
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "7.31",
+          "count": 1306
+        },
+        {
+          "category_name": "Liquid soap",
+          "percentage": "13.02",
+          "count": 766
+        },
+        {
+          "category_name": "Hair colouring",
+          "percentage": "3.06",
+          "count": 221
+        },
+        {
+          "category_name": "Personal hygiene",
+          "percentage": "8.76",
+          "count": 180
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 22,
+          "name": "DEA",
+          "score": 5
+        },
+        {
+          "id": 40,
+          "name": "Nonionic surfactant",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Foam boosting",
+          "description": "Improves the quality of the foam produced by increasing one or more of the following properties: volume, texture and/or stability"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

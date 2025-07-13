@@ -1,0 +1,81 @@
+{
+  "ingredient": "Dehydroacetic Acid",
+  "search_results": [
+    {
+      "identifier": "16778",
+      "inci_name": "DEHYDROACETIC ACID"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 16778,
+      "inci_name": "DEHYDROACETIC ACID",
+      "name": "Dehydroacetic acid",
+      "description": "Dehydroacetic acid is used in cosmetics as a preservative for its fungicidal and bactericidal actions. It is used under the name E265 in food. As it is biodegradable, this chemical does not pose a problem for the environment, and the health risks remain quite low. Note, however, that the compound is prohibited in aerosol type sprays. Dehydroacetic acid is authorized in Bio.",
+      "regulation": "The maximum concentration allowed in ready-to-use cosmetic preparations is\r\n0.6% (in acid).\r\nIt is forbidden to use it in aerosol type sprays",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "520-45-6 / 771-03-9 / 16807-48-0",
+      "einecs_elincs": "208-293-9 / 212-227-4 / -",
+      "cosmetic_restriction": "V/13",
+      "percentage": 5.6,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "7.19",
+          "count": 1678
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "12.12",
+          "count": 1359
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "8.79",
+          "count": 1357
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "5.24",
+          "count": 937
+        },
+        {
+          "category_name": "Hand cream",
+          "percentage": "10.79",
+          "count": 862
+        }
+      ],
+      "score": 2,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 35,
+          "name": "Preservative",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Preservative",
+          "description": "Inhibits the development of microorganisms in cosmetic products."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 2,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

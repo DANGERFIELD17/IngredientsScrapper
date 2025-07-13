@@ -1,0 +1,876 @@
+{
+  "ingredient": "Dimethiconol",
+  "search_results": [
+    {
+      "identifier": "10963",
+      "inci_name": "DIMETHICONOL"
+    },
+    {
+      "identifier": "11073",
+      "inci_name": "DIMETHICONOL STEARATE"
+    },
+    {
+      "identifier": "6466",
+      "inci_name": "TRIMETHYLSILOXYSILICATE/DIMETHICONOL CROSSPOLYMER"
+    },
+    {
+      "identifier": "11540",
+      "inci_name": "DIMETHICONOL BEHENATE"
+    },
+    {
+      "identifier": "13506",
+      "inci_name": "DIMETHICONOL/SILSESQUIOXANE COPOLYMER"
+    },
+    {
+      "identifier": "21241",
+      "inci_name": "DIMETHICONOL MEADOWFOAMATE"
+    },
+    {
+      "identifier": "15393",
+      "inci_name": "DIMETHICONOL/METHYLSILANOL/SILICATE CROSSPOLYMER"
+    },
+    {
+      "identifier": "21179",
+      "inci_name": "DIMETHICONOL PANTHENOL"
+    },
+    {
+      "identifier": "7723",
+      "inci_name": "DIMETHICONOL CYSTEINE"
+    },
+    {
+      "identifier": "19847",
+      "inci_name": "DIMETHICONOL/SILICA CROSSPOLYMER"
+    },
+    {
+      "identifier": "16904",
+      "inci_name": "TRIFLUOROPROPYL DIMETHICONOL"
+    },
+    {
+      "identifier": "16913",
+      "inci_name": "DIMETHICONOL FLUOROALCOHOL DILINOLEIC ACID"
+    },
+    {
+      "identifier": "15893",
+      "inci_name": "DIMETHICONOL/IPDI COPOLYMER"
+    },
+    {
+      "identifier": "140355",
+      "inci_name": "DIMETHICONOL/CAPRYLYLSILSESQUIOXANE/SILICATE CROSSPOLYMER"
+    },
+    {
+      "identifier": "1652",
+      "inci_name": "DIMETHICONOL METHIONINE"
+    },
+    {
+      "identifier": "17011",
+      "inci_name": "DIMETHICONOL BEESWAX"
+    },
+    {
+      "identifier": "19160",
+      "inci_name": "DIMETHICONOL ARGININE"
+    },
+    {
+      "identifier": "517",
+      "inci_name": "DIMETHICONOL LACTATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 10963,
+      "inci_name": "DIMETHICONOL",
+      "name": "Dimethiconol",
+      "description": "Dimethiconol is known to create a subtle shine, smooth and silky to the touch. It gives a \"bounced\" appearance to the skin temporarily, which allows it to fill imperfections and small wrinkles. Compared to other silicones, it is known to have a fluid texture and less oily, which facilitates its spread on the skin. Dimethiconol does not pose a health problem: the CIR has given it a score of 1 in 10 in terms of risk (1 representing the best of the ratings). Dimethethiconol is a large molecule that does not penetrate the skin, and is often used with Cyclopentasiloxane for better diffusion. Like all silicones, it is not very biodegradable. It is forbidden in organic.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "31692-79-2 / 70131-67-8",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 3.16,
+      "category_percentage": [
+        {
+          "category_name": "Deodorant spray",
+          "percentage": "23.8",
+          "count": 1638
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "4.59",
+          "count": 1072
+        },
+        {
+          "category_name": "Anti-dandruff shampoo",
+          "percentage": "37.46",
+          "count": 1040
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "13.54",
+          "count": 855
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "7.31",
+          "count": 805
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antifoaming",
+          "description": "Removes foam during manufacturing / reduces foam formation in liquid finished products"
+        },
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Moisturising",
+          "description": "Increases the water content of the skin and helps keep it smooth and smooth"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 11073,
+      "inci_name": "DIMETHICONOL STEARATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "130169-63-0",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.04,
+      "category_percentage": [
+        {
+          "category_name": "Eyeshadow",
+          "percentage": "0.74",
+          "count": 59
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 6466,
+      "inci_name": "TRIMETHYLSILOXYSILICATE/DIMETHICONOL CROSSPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.04,
+      "category_percentage": [
+        {
+          "category_name": "Foundation",
+          "percentage": "1.29",
+          "count": 134
+        },
+        {
+          "category_name": "Eyeliner and Kajal",
+          "percentage": "1.98",
+          "count": 47
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 11540,
+      "inci_name": "DIMETHICONOL BEHENATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.02,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 13506,
+      "inci_name": "DIMETHICONOL/SILSESQUIOXANE COPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "68554-67-6",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 21241,
+      "inci_name": "DIMETHICONOL MEADOWFOAMATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 15393,
+      "inci_name": "DIMETHICONOL/METHYLSILANOL/SILICATE CROSSPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "69856-02-6",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Opacifying",
+          "description": "Reduces transparency or translucency of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 21179,
+      "inci_name": "DIMETHICONOL PANTHENOL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 7723,
+      "inci_name": "DIMETHICONOL CYSTEINE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 19847,
+      "inci_name": "DIMETHICONOL/SILICA CROSSPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 16904,
+      "inci_name": "TRIFLUOROPROPYL DIMETHICONOL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 16913,
+      "inci_name": "DIMETHICONOL FLUOROALCOHOL DILINOLEIC ACID",
+      "name": "Dimethiconol Fluoroalcohol Dilinoleic Acid",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 30,
+          "name": "Alcohol",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 15893,
+      "inci_name": "DIMETHICONOL/IPDI COPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "193281-67-3",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 140355,
+      "inci_name": "DIMETHICONOL/CAPRYLYLSILSESQUIOXANE/SILICATE CROSSPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1802406-18-3",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Surface modifier",
+          "description": "May be applied to other cosmetic ingredients to make them more hydrophilic or hydrophobic, or to otherwise modify their physical/chemical properties. In some cases, surface modifiers may form a covalent bond with the substrate."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 1652,
+      "inci_name": "DIMETHICONOL METHIONINE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 17011,
+      "inci_name": "DIMETHICONOL BEESWAX",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "227200-35-3",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 19160,
+      "inci_name": "DIMETHICONOL ARGININE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 517,
+      "inci_name": "DIMETHICONOL LACTATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "227200-33-1",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "ingredient": "Ammonium Lauryl Sulfate",
+  "error": "Error searching for Ammonium Lauryl Sulfate: 429 Client Error: Too Many Requests for url: https://api.incibeauty.com/ingredient/search/Ammonium%20Lauryl%20Sulfate?accessKeyId=d5ae0e8abc0cc240&hmac=0f73b009b0f1f4aab4e1af5476858d8d7fe50ac00b5dce5e0bd4fec0c67cac2d"
+}

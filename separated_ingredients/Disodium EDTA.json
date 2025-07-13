@@ -1,0 +1,170 @@
+{
+  "ingredient": "Disodium EDTA",
+  "search_results": [
+    {
+      "identifier": "14861",
+      "inci_name": "DISODIUM EDTA"
+    },
+    {
+      "identifier": "10055",
+      "inci_name": "CALCIUM DISODIUM EDTA"
+    },
+    {
+      "identifier": "739",
+      "inci_name": "DISODIUM EDTA-COPPER"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 14861,
+      "inci_name": "DISODIUM EDTA",
+      "name": "Disodium EDTA",
+      "description": "EDTA (EDTA and its main salts used in Disodium EDTA cosmetics, Tetrasodium EDTA, Trisodium EDTA) is a chelating agent that has been used since the 1930s and for which industrialists have complete control of processing and use. Its main property is to complex heavy metals. That is to say, it will somehow neutralize them by forming with them a complex, then serve them as carriers and evacuate them. It is therefore quite logically used in medicine to fight against heavy metal poisoning (lead for example).\r\nIt is often used as a sequestrant (calcium, limestone ...) in soaps or shower gels, this allows to manage the \"hard\" water.\r\n\r\nThe ingredient does not pose a problem for human health but its impact on the environment is disastrous: it is not biodegradable and is extremely harmful to nature. The sewage treatment plants do not hold him back and let him run into our rivers! Charcoal filters in our drinking water are not more effective at stopping it (so we are re-treating EDTA / Iron complexes). The problem is finally that he carries with him heavy metals, whose final destination is unknown.\r\n\r\nEDTA and its salts are banned in organic.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "139-33-3 --- 6381-92-6",
+      "einecs_elincs": "205-358-3",
+      "cosmetic_restriction": "",
+      "percentage": 14.79,
+      "category_percentage": [
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "31.62",
+          "count": 3789
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "14.9",
+          "count": 3478
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "18.95",
+          "count": 2927
+        },
+        {
+          "category_name": "Fabric mask",
+          "percentage": "49.45",
+          "count": 2488
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "21.51",
+          "count": 2411
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 5,
+          "name": "EDTA",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Chelating",
+          "description": "Reacts and forms complexes with metal ions that could affect the stability and / or appearance of cosmetic products"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 10055,
+      "inci_name": "CALCIUM DISODIUM EDTA",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "62-33-9",
+      "einecs_elincs": "200-529-9",
+      "cosmetic_restriction": "",
+      "percentage": 0.02,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 5,
+          "name": "EDTA",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Chelating",
+          "description": "Reacts and forms complexes with metal ions that could affect the stability and / or appearance of cosmetic products"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 739,
+      "inci_name": "DISODIUM EDTA-COPPER",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "14025-15-1",
+      "einecs_elincs": "237-864-5",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 5,
+          "name": "EDTA",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Astringent",
+          "description": "Helps tighten skin pores"
+        },
+        {
+          "name": "Chelating",
+          "description": "Reacts and forms complexes with metal ions that could affect the stability and / or appearance of cosmetic products"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

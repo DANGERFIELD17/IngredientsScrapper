@@ -1,0 +1,164 @@
+{
+  "ingredient": "Oryza Sativa Bran Oil",
+  "search_results": [
+    {
+      "identifier": "19306",
+      "inci_name": "ORYZA SATIVA BRAN OIL"
+    },
+    {
+      "identifier": "6923",
+      "inci_name": "ORYZA SATIVA SEED OIL"
+    },
+    {
+      "identifier": "20631",
+      "inci_name": "ORYZA SATIVA BRAN OIL EXTRACT"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 19306,
+      "inci_name": "ORYZA SATIVA BRAN OIL",
+      "name": "Rice bran oil",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "68553-81-1; 84696-37-7",
+      "einecs_elincs": "271-397-8",
+      "cosmetic_restriction": "",
+      "percentage": 0.8,
+      "category_percentage": [
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "1.45",
+          "count": 224
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "1.8",
+          "count": 202
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "1.36",
+          "count": 163
+        },
+        {
+          "category_name": "Anti-aging day face cream",
+          "percentage": "2.4",
+          "count": 120
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "1.04",
+          "count": 114
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 6923,
+      "inci_name": "ORYZA SATIVA SEED OIL",
+      "name": "Rice bran oil",
+      "description": "Oryza sativa, commonly known as Asian rice, is the plant species most commonly referred to in English as rice. Oryza sativa is a grass with a genome consisting of 430Mb across 12 chromosomes. It is renowned for being easy to genetically modify, and is a model organism for cereal biology.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "68553-81-1",
+      "einecs_elincs": "271-397-8",
+      "cosmetic_restriction": "",
+      "percentage": 0.02,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20631,
+      "inci_name": "ORYZA SATIVA BRAN OIL EXTRACT",
+      "name": null,
+      "description": "Oryza sativa, commonly known as Asian rice, is the plant species most commonly referred to in English as rice. Oryza sativa is a grass with a genome consisting of 430Mb across 12 chromosomes. It is renowned for being easy to genetically modify, and is a model organism for cereal biology.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "68553-81-1",
+      "einecs_elincs": "271-397-8",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Antistatic",
+          "description": "Reduces static electricity by neutralizing electrical charge on a surface"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

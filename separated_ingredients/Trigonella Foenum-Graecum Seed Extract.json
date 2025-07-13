@@ -1,0 +1,95 @@
+{
+  "ingredient": "Trigonella Foenum-Graecum Seed Extract",
+  "search_results": [
+    {
+      "identifier": "611",
+      "inci_name": "TRIGONELLA FOENUM-GRAECUM SEED EXTRACT"
+    },
+    {
+      "identifier": "14289",
+      "inci_name": "HYDROLYZED TRIGONELLA FOENUM-GRAECUM SEED EXTRACT"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 611,
+      "inci_name": "TRIGONELLA FOENUM-GRAECUM SEED EXTRACT",
+      "name": "Fenugreek seed extract",
+      "description": "Fenugreek (; Trigonella foenum-graecum) is an annual plant in the family Fabaceae, with leaves consisting of three small obovate to oblong leaflets. It is cultivated worldwide as a semiarid crop. Its seeds and leaves are common ingredients in dishes from South and Central Asia.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "84625-40-1",
+      "einecs_elincs": "283-415-1",
+      "cosmetic_restriction": "",
+      "percentage": 0.1,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.24",
+          "count": 56
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 14289,
+      "inci_name": "HYDROLYZED TRIGONELLA FOENUM-GRAECUM SEED EXTRACT",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Film forming",
+          "description": "Produces a continuous film on skin, hair or nails"
+        },
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

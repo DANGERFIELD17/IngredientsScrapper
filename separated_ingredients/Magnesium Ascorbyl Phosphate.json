@@ -1,0 +1,4 @@
+{
+  "ingredient": "Magnesium Ascorbyl Phosphate",
+  "error": "Error searching for Magnesium Ascorbyl Phosphate: HTTPSConnectionPool(host='api.incibeauty.com', port=443): Max retries exceeded with url: /ingredient/search/Magnesium%20Ascorbyl%20Phosphate?accessKeyId=09f4844a6b23c229&hmac=15ac96cd864dffc382accf12356f091b0382836252cab3e34a39b8a7659524ae (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000126F3CB3890>: Failed to resolve 'api.incibeauty.com' ([Errno 11001] getaddrinfo failed)\"))"
+}

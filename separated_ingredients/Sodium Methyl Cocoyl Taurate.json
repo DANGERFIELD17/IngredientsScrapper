@@ -1,0 +1,79 @@
+{
+  "ingredient": "Sodium Methyl Cocoyl Taurate",
+  "search_results": [
+    {
+      "identifier": "19614",
+      "inci_name": "SODIUM METHYL COCOYL TAURATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 19614,
+      "inci_name": "SODIUM METHYL COCOYL TAURATE",
+      "name": "Sodium Methyl Cocoyl Taurate",
+      "description": "Sodium Methyl Cocoyl Taurate is the salt of the coconut fatty acid amide of N-methyltaurine. It is a mild surfactant that does not pose a priori any particular problem.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "12765-39-8; 61791-42-2",
+      "einecs_elincs": "-; 263-174-9",
+      "cosmetic_restriction": "",
+      "percentage": 0.62,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "2.99",
+          "count": 698
+        },
+        {
+          "category_name": "Adult toothpaste",
+          "percentage": "5.43",
+          "count": 383
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "1.17",
+          "count": 209
+        },
+        {
+          "category_name": "Face cleansing gel",
+          "percentage": "5.37",
+          "count": 167
+        },
+        {
+          "category_name": "Facial Cleansing Foam",
+          "percentage": "7.87",
+          "count": 130
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 37,
+          "name": "Anionic surfactant",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

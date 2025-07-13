@@ -1,0 +1,1536 @@
+{
+  "ingredient": "Hydrogenated Castor Oil",
+  "search_results": [
+    {
+      "identifier": "5653",
+      "inci_name": "PEG-40 HYDROGENATED CASTOR OIL"
+    },
+    {
+      "identifier": "20058",
+      "inci_name": "HYDROGENATED CASTOR OIL"
+    },
+    {
+      "identifier": "18438",
+      "inci_name": "PEG-60 HYDROGENATED CASTOR OIL"
+    },
+    {
+      "identifier": "16672",
+      "inci_name": "HYDROGENATED CASTOR OIL/SEBACIC ACID COPOLYMER"
+    },
+    {
+      "identifier": "1784",
+      "inci_name": "HYDROGENATED CASTOR OIL DIMER DILINOLEATE"
+    },
+    {
+      "identifier": "8428",
+      "inci_name": "HYDROGENATED CASTOR OIL BEHENYL ESTERS"
+    },
+    {
+      "identifier": "3573",
+      "inci_name": "PEG-7 HYDROGENATED CASTOR OIL"
+    },
+    {
+      "identifier": "3586",
+      "inci_name": "PPG-3 HYDROGENATED CASTOR OIL"
+    },
+    {
+      "identifier": "3232",
+      "inci_name": "HYDROGENATED CASTOR OIL ISOSTEARATE"
+    },
+    {
+      "identifier": "12299",
+      "inci_name": "PEG-25 HYDROGENATED CASTOR OIL"
+    },
+    {
+      "identifier": "21329",
+      "inci_name": "PEG-50 HYDROGENATED CASTOR OIL"
+    },
+    {
+      "identifier": "6744",
+      "inci_name": "CASTOR OIL HYDROGENATED ETHOXYLATED"
+    },
+    {
+      "identifier": "3535",
+      "inci_name": "PEG-2 HYDROGENATED CASTOR OIL"
+    },
+    {
+      "identifier": "14486",
+      "inci_name": "HYDROGENATED CASTOR OIL HYDROXYSTEARATE"
+    },
+    {
+      "identifier": "3550",
+      "inci_name": "PEG-100 HYDROGENATED CASTOR OIL"
+    },
+    {
+      "identifier": "21199",
+      "inci_name": "PEG-10 HYDROGENATED CASTOR OIL"
+    },
+    {
+      "identifier": "9239",
+      "inci_name": "PEG-20 HYDROGENATED CASTOR OIL"
+    },
+    {
+      "identifier": "126",
+      "inci_name": "PEG-80 HYDROGENATED CASTOR OIL"
+    },
+    {
+      "identifier": "1541",
+      "inci_name": "PEG-40 HYDROGENATED CASTOR OIL PCA ISOSTEARATE"
+    },
+    {
+      "identifier": "88076",
+      "inci_name": "HYDROGENATED CASTOR OIL/ADIPIC ACID COPOLYMER"
+    },
+    {
+      "identifier": "15372",
+      "inci_name": "PEG-8 HYDROGENATED CASTOR OIL"
+    },
+    {
+      "identifier": "10272",
+      "inci_name": "PEG-50 HYDROGENATED CASTOR OIL ISOSTEARATE"
+    },
+    {
+      "identifier": "11189",
+      "inci_name": "PEG-30 HYDROGENATED CASTOR OIL"
+    },
+    {
+      "identifier": "348",
+      "inci_name": "PEG-6 HYDROGENATED CASTOR OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 5653,
+      "inci_name": "PEG-40 HYDROGENATED CASTOR OIL",
+      "name": "PEG-40 Hydrogenated castor oil",
+      "description": "This hydrogenated and ethoxylated castor oil is in the form of a slightly perfumed viscous liquid. It is used in cosmetics as an emulsifier, solubilizer or surfactant. The ingredient is produced, as you can imagine, from a PEG-40 (40 moles of ethylene oxide) and natural castor oil.\r\nStudies show that this ingredient does not pose any real problems in itself, it is especially ethoxylation manufacturing processes that lead to possible impurities that are problematic for human health are shown finger.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "61788-85-0",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 6.03,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "8.25",
+          "count": 1925
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "9.6",
+          "count": 1715
+        },
+        {
+          "category_name": "Fabric mask",
+          "percentage": "19.7",
+          "count": 991
+        },
+        {
+          "category_name": "Face Lotion and Toner",
+          "percentage": "18.12",
+          "count": 923
+        },
+        {
+          "category_name": "Specific hair care",
+          "percentage": "11.96",
+          "count": 755
+        }
+      ],
+      "score": 4,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        },
+        {
+          "id": 40,
+          "name": "Nonionic surfactant",
+          "score": 0
+        },
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 4,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20058,
+      "inci_name": "HYDROGENATED CASTOR OIL",
+      "name": "Hydrogenated castor oil",
+      "description": "Castor oil is obtained from castor seeds. It is here hydrogenated to change its consistency at room temperature and make it solid: this makes it a waxy material. It is then used in many cosmetics as emollient, film-forming agent or over-greasing. It is allowed in organic.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "8001-78-3",
+      "einecs_elincs": "232-292-2",
+      "cosmetic_restriction": "",
+      "percentage": 1.85,
+      "category_percentage": [
+        {
+          "category_name": "Deodorant stick",
+          "percentage": "30.54",
+          "count": 725
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "3.01",
+          "count": 702
+        },
+        {
+          "category_name": "Lip balm",
+          "percentage": "15.35",
+          "count": 616
+        },
+        {
+          "category_name": "Lipstick",
+          "percentage": "4.82",
+          "count": 568
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "1.83",
+          "count": 327
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 18438,
+      "inci_name": "PEG-60 HYDROGENATED CASTOR OIL",
+      "name": "Hydrogenated and ethoxylated castor oil",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "61788-85-0",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 1.04,
+      "category_percentage": [
+        {
+          "category_name": "Fabric mask",
+          "percentage": "18.66",
+          "count": 939
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "2.12",
+          "count": 494
+        },
+        {
+          "category_name": "Cream / Gel Mask",
+          "percentage": "4.52",
+          "count": 274
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "1.39",
+          "count": 248
+        },
+        {
+          "category_name": "Mask / Patch",
+          "percentage": "15.37",
+          "count": 148
+        }
+      ],
+      "score": 4,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        },
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 4,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 16672,
+      "inci_name": "HYDROGENATED CASTOR OIL/SEBACIC ACID COPOLYMER",
+      "name": "Hydrogenated Castor Oil/sebacic Acid Copolymer",
+      "description": "This polymer is obtained from hydrogenated castor oil and Sebacic acid (sebacic acid) by oxidation of castor oil. It is easily biodegradable.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.09,
+      "category_percentage": [
+        {
+          "category_name": "Hair mask",
+          "percentage": "0.7",
+          "count": 49
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        },
+        {
+          "id": 54,
+          "name": "Natural or hemisynthesis polymer",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 1784,
+      "inci_name": "HYDROGENATED CASTOR OIL DIMER DILINOLEATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.07,
+      "category_percentage": [
+        {
+          "category_name": "Lipstick",
+          "percentage": "2.33",
+          "count": 275
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 8428,
+      "inci_name": "HYDROGENATED CASTOR OIL BEHENYL ESTERS",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [
+        {
+          "category_name": "Eyes and kohl pencil",
+          "percentage": "3.31",
+          "count": 57
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 3573,
+      "inci_name": "PEG-7 HYDROGENATED CASTOR OIL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "61788-85-0",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        },
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 3586,
+      "inci_name": "PPG-3 HYDROGENATED CASTOR OIL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "111870-68-9",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.02,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 19,
+          "name": "Propoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        },
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 3232,
+      "inci_name": "HYDROGENATED CASTOR OIL ISOSTEARATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.02,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 12299,
+      "inci_name": "PEG-25 HYDROGENATED CASTOR OIL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "61788-85-0",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.02,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        },
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 21329,
+      "inci_name": "PEG-50 HYDROGENATED CASTOR OIL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "61788-85-0",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        },
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 6744,
+      "inci_name": "CASTOR OIL HYDROGENATED ETHOXYLATED",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "61788-85-0",
+      "einecs_elincs": "500-147-5",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 3535,
+      "inci_name": "PEG-2 HYDROGENATED CASTOR OIL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "61788-85-0",
+      "einecs_elincs": "500-147-5",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        },
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 14486,
+      "inci_name": "HYDROGENATED CASTOR OIL HYDROXYSTEARATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 3550,
+      "inci_name": "PEG-100 HYDROGENATED CASTOR OIL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "61788-85-0",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        },
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 21199,
+      "inci_name": "PEG-10 HYDROGENATED CASTOR OIL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "61788-85-0",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        },
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 9239,
+      "inci_name": "PEG-20 HYDROGENATED CASTOR OIL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "61788-85-0",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        },
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "inci_name": "PEG-80 HYDROGENATED CASTOR OIL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "61788-85-0",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        },
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 1541,
+      "inci_name": "PEG-40 HYDROGENATED CASTOR OIL PCA ISOSTEARATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        },
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 88076,
+      "inci_name": "HYDROGENATED CASTOR OIL/ADIPIC ACID COPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 15372,
+      "inci_name": "PEG-8 HYDROGENATED CASTOR OIL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "61788-85-0",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        },
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 10272,
+      "inci_name": "PEG-50 HYDROGENATED CASTOR OIL ISOSTEARATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        },
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 11189,
+      "inci_name": "PEG-30 HYDROGENATED CASTOR OIL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "61788-85-0",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        },
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 348,
+      "inci_name": "PEG-6 HYDROGENATED CASTOR OIL",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "61788-85-0",
+      "einecs_elincs": "500-147-5",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 3,
+          "name": "PEG / PPG",
+          "score": 5
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 13,
+          "name": "Glycol",
+          "score": 3
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        },
+        {
+          "id": 45,
+          "name": "Hydrogenated oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

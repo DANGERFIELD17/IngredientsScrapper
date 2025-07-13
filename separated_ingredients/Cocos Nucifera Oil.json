@@ -1,0 +1,88 @@
+{
+  "ingredient": "Cocos Nucifera Oil",
+  "search_results": [
+    {
+      "identifier": "16747",
+      "inci_name": "COCOS NUCIFERA OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 16747,
+      "inci_name": "COCOS NUCIFERA OIL",
+      "name": "Coconut oil",
+      "description": "Coconut oil is extracted from the flesh of the coconut. It is a source of fatty acids: it contains lauric acid, capric acid, myristic acid and palmitic acid. It penetrates the skin quickly and leaves a feeling of softness without any greasy effect on the skin. It is used in many cosmetic products: it has moisturizing, emollient, antioxidant properties ... it even protects (slightly) UV. It is allowed in organic.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "8001-31-8",
+      "einecs_elincs": "232-282-8",
+      "cosmetic_restriction": "",
+      "percentage": 6.93,
+      "category_percentage": [
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "12.58",
+          "count": 1942
+        },
+        {
+          "category_name": "Hair conditioner",
+          "percentage": "17.04",
+          "count": 1876
+        },
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "7.91",
+          "count": 1846
+        },
+        {
+          "category_name": "Solid soap",
+          "percentage": "17.19",
+          "count": 1482
+        },
+        {
+          "category_name": "Hair mask",
+          "percentage": "20.22",
+          "count": 1406
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Perfuming",
+          "description": "Used for perfume and aromatic raw materials"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

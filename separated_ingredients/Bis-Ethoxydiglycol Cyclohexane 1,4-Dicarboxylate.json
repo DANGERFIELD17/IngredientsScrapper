@@ -1,0 +1,56 @@
+{
+  "ingredient": "Bis-Ethoxydiglycol Cyclohexane 1,4-Dicarboxylate",
+  "search_results": [
+    {
+      "identifier": "19930",
+      "inci_name": "BIS-ETHOXYDIGLYCOL CYCLOHEXANE 1,4-DICARBOXYLATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 19930,
+      "inci_name": "BIS-ETHOXYDIGLYCOL CYCLOHEXANE 1,4-DICARBOXYLATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "-",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Hair conditioning",
+          "description": "Leaves hair easy to comb, soft, soft and shiny and / or confers volume, lightness and shine"
+        },
+        {
+          "name": "Humectant",
+          "description": "Maintains water content of a cosmetic both in its packaging and on the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

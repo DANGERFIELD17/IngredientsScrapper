@@ -1,0 +1,151 @@
+{
+  "ingredient": "Disodium Laureth Sulfosuccinate",
+  "search_results": [
+    {
+      "identifier": "16499",
+      "inci_name": "DISODIUM LAURETH SULFOSUCCINATE"
+    },
+    {
+      "identifier": "15587",
+      "inci_name": "DISODIUM LAURETH-6 SULFOSUCCINATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 16499,
+      "inci_name": "DISODIUM LAURETH SULFOSUCCINATE",
+      "name": "Disodium Laureth Sulfosuccinate",
+      "description": "Disodium Laureth Sulfosuccinate or DLS is an anionic surfactant that is one of the softest in the range. Contrary to what one might think, it is not part of the sulphates (whatever, some say so), it cleans the hair and body more smoothly than the SLES.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "39354-45-5 / 40754-59-4 / 42016-08-0 / 58450-52-5 / 68815-56-5",
+      "einecs_elincs": "- / 255-062-3 / - / - / -",
+      "cosmetic_restriction": "",
+      "percentage": 1.13,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "6.38",
+          "count": 1490
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "3.48",
+          "count": 622
+        },
+        {
+          "category_name": "Personal hygiene",
+          "percentage": "11.05",
+          "count": 227
+        },
+        {
+          "category_name": "Liquid soap",
+          "percentage": "2.5",
+          "count": 147
+        },
+        {
+          "category_name": "Face cleansing gel",
+          "percentage": "4.37",
+          "count": 136
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Vegetal"
+        },
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 37,
+          "name": "Anionic surfactant",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foaming",
+          "description": "Capturing small air bubbles or other gases in a small volume of liquid by changing the surface tension of the liquid"
+        },
+        {
+          "name": "Foam boosting",
+          "description": "Improves the quality of the foam produced by increasing one or more of the following properties: volume, texture and/or stability"
+        },
+        {
+          "name": "Hydrotrope",
+          "description": "Increases the solubility of a substance with low solubility in water."
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 15587,
+      "inci_name": "DISODIUM LAURETH-6 SULFOSUCCINATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "58450-52-5",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foam boosting",
+          "description": "Improves the quality of the foam produced by increasing one or more of the following properties: volume, texture and/or stability"
+        },
+        {
+          "name": "Hydrotrope",
+          "description": "Increases the solubility of a substance with low solubility in water."
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

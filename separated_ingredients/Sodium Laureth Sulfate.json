@@ -1,0 +1,367 @@
+{
+  "ingredient": "Sodium Laureth Sulfate",
+  "search_results": [
+    {
+      "identifier": "7408",
+      "inci_name": "SODIUM LAURETH SULFATE"
+    },
+    {
+      "identifier": "4719",
+      "inci_name": "SODIUM LAURETH-12 SULFATE"
+    },
+    {
+      "identifier": "5932",
+      "inci_name": "SODIUM LAURETH-8 SULFATE"
+    },
+    {
+      "identifier": "8260",
+      "inci_name": "SODIUM LAURETH-40 SULFATE"
+    },
+    {
+      "identifier": "9449",
+      "inci_name": "SODIUM LAURETH-7 SULFATE"
+    },
+    {
+      "identifier": "20438",
+      "inci_name": "SODIUM LAURETH-5 SULFATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 7408,
+      "inci_name": "SODIUM LAURETH SULFATE",
+      "name": "Sodium laureth sulfate",
+      "description": "Sodium Laureth Sulphate (SLES) is an anionic surfactant used in cosmetics for its detergent properties. It is therefore very present in shower gels and shampoos. It is produced from Sodium Lauryl Sulphate (SLS) by ethoxylation, a very polluting chemical transformation, which is why it is prohibited in organic products. Sodium Laureth Sulphate is reputed to be less irritating than Sodium Lauryl Sulphate although the latter is more natural and authorized in Organic, it is the chemical transformation that has softened it and increased its foaming power.\n\nThis ingredient is classified as ecotoxic according to REACH (Aquatic Chronic 3).",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "3088-31-1 / 9004-82-4 / 68891-38-3 / 1335-72-4 / 68585-34-2 / 91648-56-5",
+      "einecs_elincs": "221-416-0/ - / 500-234-8 / - / 500-223-8 / 293-918-8",
+      "cosmetic_restriction": "",
+      "percentage": 9.78,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "52.28",
+          "count": 12201
+        },
+        {
+          "category_name": "Shower gel",
+          "percentage": "60.2",
+          "count": 10757
+        },
+        {
+          "category_name": "Liquid soap",
+          "percentage": "55.47",
+          "count": 3262
+        },
+        {
+          "category_name": "Anti-dandruff shampoo",
+          "percentage": "82.1",
+          "count": 2279
+        },
+        {
+          "category_name": "Men shower gel",
+          "percentage": "79.01",
+          "count": 1573
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 6,
+          "name": "Sulphate",
+          "score": 3
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        },
+        {
+          "id": 37,
+          "name": "Anionic surfactant",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Emulsifying",
+          "description": "Promotes the formation of intimate mixtures between immiscible liquids by modifying the interfacial tension (water and oil)"
+        },
+        {
+          "name": "Foaming",
+          "description": "Capturing small air bubbles or other gases in a small volume of liquid by changing the surface tension of the liquid"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 4719,
+      "inci_name": "SODIUM LAURETH-12 SULFATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "9004-82-4",
+      "einecs_elincs": "266-192-5",
+      "cosmetic_restriction": "",
+      "percentage": 0.12,
+      "category_percentage": [
+        {
+          "category_name": "Eyeliner and Kajal",
+          "percentage": "12.04",
+          "count": 286
+        },
+        {
+          "category_name": "Mascara",
+          "percentage": "5.67",
+          "count": 181
+        }
+      ],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 6,
+          "name": "Sulphate",
+          "score": 3
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foaming",
+          "description": "Capturing small air bubbles or other gases in a small volume of liquid by changing the surface tension of the liquid"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 5932,
+      "inci_name": "SODIUM LAURETH-8 SULFATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "9004-82-4",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.06,
+      "category_percentage": [
+        {
+          "category_name": "Classic shampoo",
+          "percentage": "0.3",
+          "count": 71
+        }
+      ],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 6,
+          "name": "Sulphate",
+          "score": 3
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foaming",
+          "description": "Capturing small air bubbles or other gases in a small volume of liquid by changing the surface tension of the liquid"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 8260,
+      "inci_name": "SODIUM LAURETH-40 SULFATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "9004-82-4",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 6,
+          "name": "Sulphate",
+          "score": 3
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 9449,
+      "inci_name": "SODIUM LAURETH-7 SULFATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "9004-82-4",
+      "einecs_elincs": "-",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 6,
+          "name": "Sulphate",
+          "score": 3
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foaming",
+          "description": "Capturing small air bubbles or other gases in a small volume of liquid by changing the surface tension of the liquid"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 20438,
+      "inci_name": "SODIUM LAURETH-5 SULFATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "9004-82-4",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 6,
+          "name": "Sulphate",
+          "score": 3
+        },
+        {
+          "id": 12,
+          "name": "Ethoxylated compound",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Cleansing",
+          "description": "Helps to keep a clean surface"
+        },
+        {
+          "name": "Foaming",
+          "description": "Capturing small air bubbles or other gases in a small volume of liquid by changing the surface tension of the liquid"
+        },
+        {
+          "name": "Surfactant",
+          "description": "Reduces the surface tension of cosmetics and contributes to the even distribution of the product when it is used"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

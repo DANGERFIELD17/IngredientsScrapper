@@ -1,0 +1,1363 @@
+{
+  "ingredient": "Silica",
+  "search_results": [
+    {
+      "identifier": "10355",
+      "inci_name": "SILICA"
+    },
+    {
+      "identifier": "1529",
+      "inci_name": "TRIMETHYLSILOXYSILICATE"
+    },
+    {
+      "identifier": "18914",
+      "inci_name": "HYDRATED SILICA"
+    },
+    {
+      "identifier": "16700",
+      "inci_name": "SILICA DIMETHYL SILYLATE"
+    },
+    {
+      "identifier": "5982",
+      "inci_name": "MAGNESIUM ALUMINUM SILICATE"
+    },
+    {
+      "identifier": "8235",
+      "inci_name": "SILICA SILYLATE"
+    },
+    {
+      "identifier": "4865",
+      "inci_name": "MAGNESIUM SILICATE"
+    },
+    {
+      "identifier": "3046",
+      "inci_name": "SODIUM SILICATE"
+    },
+    {
+      "identifier": "2350",
+      "inci_name": "ALUMINUM CALCIUM SODIUM SILICATE"
+    },
+    {
+      "identifier": "16642",
+      "inci_name": "SODIUM POTASSIUM ALUMINUM SILICATE"
+    },
+    {
+      "identifier": "17257",
+      "inci_name": "SODIUM METASILICATE"
+    },
+    {
+      "identifier": "3002",
+      "inci_name": "CALCIUM SILICATE"
+    },
+    {
+      "identifier": "19322",
+      "inci_name": "LITHIUM MAGNESIUM SODIUM SILICATE"
+    },
+    {
+      "identifier": "15589",
+      "inci_name": "SILICA DIMETHICONE SILYLATE"
+    },
+    {
+      "identifier": "2284",
+      "inci_name": "SODIUM MAGNESIUM SILICATE"
+    },
+    {
+      "identifier": "2291",
+      "inci_name": "ALUMINUM SILICATE"
+    },
+    {
+      "identifier": "7119",
+      "inci_name": "SODIUM PROPOXYHYDROXYPROPYL THIOSULFATE SILICA"
+    },
+    {
+      "identifier": "4933",
+      "inci_name": "METHYLSILANOL/SILICATE CROSSPOLYMER"
+    },
+    {
+      "identifier": "6735",
+      "inci_name": "POTASSIUM SILICATE"
+    },
+    {
+      "identifier": "40467",
+      "inci_name": "POLYMETHYLSILSESQUIOXANE/SILICA CROSSPOLYMER"
+    },
+    {
+      "identifier": "41411",
+      "inci_name": "SILICA CAPRYLYL SILYLATE"
+    },
+    {
+      "identifier": "15393",
+      "inci_name": "DIMETHICONOL/METHYLSILANOL/SILICATE CROSSPOLYMER"
+    },
+    {
+      "identifier": "21408",
+      "inci_name": "AMMONIUM SILVER ZINC ALUMINUM SILICATE"
+    },
+    {
+      "identifier": "9556",
+      "inci_name": "LITHIUM MAGNESIUM SILICATE"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 10355,
+      "inci_name": "SILICA",
+      "name": "Silica",
+      "description": "Silica is a naturally occurring mineral in sandstone, clay and granite, as well as in some parts of plants and animals. It is used for various reasons in cosmetics: abrasive in toothpastes, opacifying in powder and blush, or absorbing in deodorants. Silica is allowed in Bio.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "7631-86-9 / 112945-52-5 / 60676-86-0",
+      "einecs_elincs": "231-545-4 / 262-373-8 /310-060-2",
+      "cosmetic_restriction": "",
+      "percentage": 11.08,
+      "category_percentage": [
+        {
+          "category_name": "Lipstick",
+          "percentage": "55.68",
+          "count": 6568
+        },
+        {
+          "category_name": "Nail polish",
+          "percentage": "71.79",
+          "count": 6488
+        },
+        {
+          "category_name": "Foundation",
+          "percentage": "53.08",
+          "count": 5525
+        },
+        {
+          "category_name": "Eyeshadow",
+          "percentage": "60.53",
+          "count": 4816
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "24.21",
+          "count": 2901
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Mineral"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Abrasive",
+          "description": "Removes materials from the surface of the body, helps clean teeth and improves shine."
+        },
+        {
+          "name": "Absorbent",
+          "description": "Absorbs water (or oil) in dissolved or fine form"
+        },
+        {
+          "name": "Anticaking",
+          "description": "Helps ensure the fluidity of solid particles and limit their agglomeration in powder cosmetic products or hard mass cosmetics."
+        },
+        {
+          "name": "Bulking",
+          "description": "Reduces apparent cosmetics density."
+        },
+        {
+          "name": "Opacifying",
+          "description": "Reduces transparency or translucency of cosmetics"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 1529,
+      "inci_name": "TRIMETHYLSILOXYSILICATE",
+      "name": "Trimethylsiloxysilicate",
+      "description": "Obtained from the reaction of silica and trimethylsilane, this silicone-derived polymer is used in cosmetics for its ability to form a silky-smooth film on the skin.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 2.17,
+      "category_percentage": [
+        {
+          "category_name": "Foundation",
+          "percentage": "25.27",
+          "count": 2630
+        },
+        {
+          "category_name": "Lipstick",
+          "percentage": "14.74",
+          "count": 1739
+        },
+        {
+          "category_name": "Nail polish",
+          "percentage": "15.87",
+          "count": 1434
+        },
+        {
+          "category_name": "Eyeshadow",
+          "percentage": "9.77",
+          "count": 777
+        },
+        {
+          "category_name": "Eyeliner and Kajal",
+          "percentage": "22.69",
+          "count": 539
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Antifoaming",
+          "description": "Removes foam during manufacturing / reduces foam formation in liquid finished products"
+        },
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 18914,
+      "inci_name": "HYDRATED SILICA",
+      "name": "Hydrated silica",
+      "description": "Hydrated silica or silicic acid is mainly used in toothpastes as a gentle abrasive agent. It enhances brushing action and acts on dental plaque and unsightly discolouration.",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "10279-57-9 / 1343-98-2 / 7631-86-9 / 112926-00-8 / 63231-67-4",
+      "einecs_elincs": "- / 215-683-2 / 231-545-4 / - / -",
+      "cosmetic_restriction": "",
+      "percentage": 1.88,
+      "category_percentage": [
+        {
+          "category_name": "Adult toothpaste",
+          "percentage": "83.9",
+          "count": 5919
+        },
+        {
+          "category_name": "Children toothpaste",
+          "percentage": "86.04",
+          "count": 832
+        },
+        {
+          "category_name": "Deodorant spray",
+          "percentage": "3.84",
+          "count": 264
+        },
+        {
+          "category_name": "Foundation",
+          "percentage": "2.38",
+          "count": 248
+        },
+        {
+          "category_name": "Face scrub",
+          "percentage": "7.79",
+          "count": 246
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Mineral"
+        }
+      ],
+      "families": [],
+      "functions": [
+        {
+          "name": "Abrasive",
+          "description": "Removes materials from the surface of the body, helps clean teeth and improves shine."
+        },
+        {
+          "name": "Absorbent",
+          "description": "Absorbs water (or oil) in dissolved or fine form"
+        },
+        {
+          "name": "Anticaking",
+          "description": "Helps ensure the fluidity of solid particles and limit their agglomeration in powder cosmetic products or hard mass cosmetics."
+        },
+        {
+          "name": "Bulking",
+          "description": "Reduces apparent cosmetics density."
+        },
+        {
+          "name": "Opacifying",
+          "description": "Reduces transparency or translucency of cosmetics"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 16700,
+      "inci_name": "SILICA DIMETHYL SILYLATE",
+      "name": "Silica Dimethyl Silylate",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "68611-44-9",
+      "einecs_elincs": "271-893-4",
+      "cosmetic_restriction": "",
+      "percentage": 1.71,
+      "category_percentage": [
+        {
+          "category_name": "Lipstick",
+          "percentage": "14.23",
+          "count": 1679
+        },
+        {
+          "category_name": "Gloss and lip gloss",
+          "percentage": "38.94",
+          "count": 1210
+        },
+        {
+          "category_name": "Foundation",
+          "percentage": "6.98",
+          "count": 727
+        },
+        {
+          "category_name": "Hair colouring",
+          "percentage": "9.46",
+          "count": 683
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "3.65",
+          "count": 437
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Anticaking",
+          "description": "Helps ensure the fluidity of solid particles and limit their agglomeration in powder cosmetic products or hard mass cosmetics."
+        },
+        {
+          "name": "Antifoaming",
+          "description": "Removes foam during manufacturing / reduces foam formation in liquid finished products"
+        },
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 5982,
+      "inci_name": "MAGNESIUM ALUMINUM SILICATE",
+      "name": "Magnesium Aluminum Silicate",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1327-43-1",
+      "einecs_elincs": "215-478-8",
+      "cosmetic_restriction": "",
+      "percentage": 1.03,
+      "category_percentage": [
+        {
+          "category_name": "Foundation",
+          "percentage": "3.91",
+          "count": 407
+        },
+        {
+          "category_name": "Cream / Gel Mask",
+          "percentage": "5.31",
+          "count": 322
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "1.9",
+          "count": 293
+        },
+        {
+          "category_name": "Illuminators and complexion illuminator",
+          "percentage": "13.63",
+          "count": 245
+        },
+        {
+          "category_name": "Eyeshadow",
+          "percentage": "2.98",
+          "count": 237
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [
+        {
+          "id": 16,
+          "name": "Aluminum salt",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Absorbent",
+          "description": "Absorbs water (or oil) in dissolved or fine form"
+        },
+        {
+          "name": "Anticaking",
+          "description": "Helps ensure the fluidity of solid particles and limit their agglomeration in powder cosmetic products or hard mass cosmetics."
+        },
+        {
+          "name": "Opacifying",
+          "description": "Reduces transparency or translucency of cosmetics"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 8235,
+      "inci_name": "SILICA SILYLATE",
+      "name": "Silica Silylate",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.52,
+      "category_percentage": [
+        {
+          "category_name": "Foundation",
+          "percentage": "7.19",
+          "count": 748
+        },
+        {
+          "category_name": "Lipstick",
+          "percentage": "4.34",
+          "count": 512
+        },
+        {
+          "category_name": "Gloss and lip gloss",
+          "percentage": "5.57",
+          "count": 173
+        },
+        {
+          "category_name": "Eyeliner and Kajal",
+          "percentage": "5.18",
+          "count": 123
+        },
+        {
+          "category_name": "Adult sun cream",
+          "percentage": "0.94",
+          "count": 113
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Anticaking",
+          "description": "Helps ensure the fluidity of solid particles and limit their agglomeration in powder cosmetic products or hard mass cosmetics."
+        },
+        {
+          "name": "Antifoaming",
+          "description": "Removes foam during manufacturing / reduces foam formation in liquid finished products"
+        },
+        {
+          "name": "Bulking",
+          "description": "Reduces apparent cosmetics density."
+        },
+        {
+          "name": "Emollient",
+          "description": "Softens and smoothes the skin"
+        },
+        {
+          "name": "Emulsion stabilising",
+          "description": "Promotes the emulsification process and improves the stability and shelf life of the emulsion"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 4865,
+      "inci_name": "MAGNESIUM SILICATE",
+      "name": "Magnesium Silicate",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1343-88-0",
+      "einecs_elincs": "215-681-1",
+      "cosmetic_restriction": "",
+      "percentage": 0.32,
+      "category_percentage": [
+        {
+          "category_name": "Lipstick",
+          "percentage": "6.85",
+          "count": 808
+        },
+        {
+          "category_name": "Nail polish",
+          "percentage": "5.6",
+          "count": 506
+        },
+        {
+          "category_name": "Lacquer and lip ink",
+          "percentage": "20.66",
+          "count": 113
+        },
+        {
+          "category_name": "Eyeshadow",
+          "percentage": "1.4",
+          "count": 111
+        },
+        {
+          "category_name": "Eyeliner and Kajal",
+          "percentage": "4.29",
+          "count": 102
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Absorbent",
+          "description": "Absorbs water (or oil) in dissolved or fine form"
+        },
+        {
+          "name": "Anticaking",
+          "description": "Helps ensure the fluidity of solid particles and limit their agglomeration in powder cosmetic products or hard mass cosmetics."
+        },
+        {
+          "name": "Bulking",
+          "description": "Reduces apparent cosmetics density."
+        },
+        {
+          "name": "Opacifying",
+          "description": "Reduces transparency or translucency of cosmetics"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 3046,
+      "inci_name": "SODIUM SILICATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1344-09-8",
+      "einecs_elincs": "215-687-4",
+      "cosmetic_restriction": "",
+      "percentage": 0.17,
+      "category_percentage": [
+        {
+          "category_name": "Hair colouring",
+          "percentage": "5.15",
+          "count": 372
+        },
+        {
+          "category_name": "Adult toothpaste",
+          "percentage": "1.36",
+          "count": 96
+        },
+        {
+          "category_name": "Shaving cream",
+          "percentage": "8.45",
+          "count": 47
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Anticorrosive",
+          "description": "Prevents corrosion of the packaging"
+        },
+        {
+          "name": "pH regulator",
+          "description": "Stabilises the pH of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 2350,
+      "inci_name": "ALUMINUM CALCIUM SODIUM SILICATE",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1344-01-0",
+      "einecs_elincs": "215-685-3",
+      "cosmetic_restriction": "",
+      "percentage": 0.15,
+      "category_percentage": [
+        {
+          "category_name": "Nail polish",
+          "percentage": "2.51",
+          "count": 227
+        },
+        {
+          "category_name": "Lipstick",
+          "percentage": "1.53",
+          "count": 180
+        },
+        {
+          "category_name": "Eyeshadow",
+          "percentage": "1.87",
+          "count": 149
+        },
+        {
+          "category_name": "Gloss and lip gloss",
+          "percentage": "4.73",
+          "count": 147
+        },
+        {
+          "category_name": "Blush",
+          "percentage": "1.61",
+          "count": 44
+        }
+      ],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 16,
+          "name": "Aluminum salt",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Bulking",
+          "description": "Reduces apparent cosmetics density."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 16642,
+      "inci_name": "SODIUM POTASSIUM ALUMINUM SILICATE",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "66402-68-4 / 12736-96-8",
+      "einecs_elincs": "266-340-9 / 235-787-1",
+      "cosmetic_restriction": "",
+      "percentage": 0.09,
+      "category_percentage": [
+        {
+          "category_name": "Foundation",
+          "percentage": "1.25",
+          "count": 130
+        }
+      ],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 16,
+          "name": "Aluminum salt",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Bulking",
+          "description": "Reduces apparent cosmetics density."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 17257,
+      "inci_name": "SODIUM METASILICATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "6834-92-0",
+      "einecs_elincs": "229-912-9",
+      "cosmetic_restriction": "",
+      "percentage": 0.08,
+      "category_percentage": [
+        {
+          "category_name": "Hair colouring",
+          "percentage": "3.3",
+          "count": 238
+        },
+        {
+          "category_name": "Shaving cream",
+          "percentage": "8.27",
+          "count": 46
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Anticorrosive",
+          "description": "Prevents corrosion of the packaging"
+        },
+        {
+          "name": "pH regulator",
+          "description": "Stabilises the pH of cosmetics"
+        },
+        {
+          "name": "Chelating",
+          "description": "Reacts and forms complexes with metal ions that could affect the stability and / or appearance of cosmetic products"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 3002,
+      "inci_name": "CALCIUM SILICATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1344-95-2",
+      "einecs_elincs": "215-710-8",
+      "cosmetic_restriction": "",
+      "percentage": 0.06,
+      "category_percentage": [
+        {
+          "category_name": "Deodorant ball",
+          "percentage": "2.53",
+          "count": 116
+        },
+        {
+          "category_name": "Compact powder",
+          "percentage": "2.31",
+          "count": 61
+        }
+      ],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Absorbent",
+          "description": "Absorbs water (or oil) in dissolved or fine form"
+        },
+        {
+          "name": "Bulking",
+          "description": "Reduces apparent cosmetics density."
+        },
+        {
+          "name": "Opacifying",
+          "description": "Reduces transparency or translucency of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 19322,
+      "inci_name": "LITHIUM MAGNESIUM SODIUM SILICATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "53320-86-8",
+      "einecs_elincs": "258-476-2",
+      "cosmetic_restriction": "",
+      "percentage": 0.06,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Absorbent",
+          "description": "Absorbs water (or oil) in dissolved or fine form"
+        },
+        {
+          "name": "Bulking",
+          "description": "Reduces apparent cosmetics density."
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 15589,
+      "inci_name": "SILICA DIMETHICONE SILYLATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [
+        {
+          "category_name": "Foundation",
+          "percentage": "1.03",
+          "count": 107
+        }
+      ],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Absorbent",
+          "description": "Absorbs water (or oil) in dissolved or fine form"
+        },
+        {
+          "name": "Anticaking",
+          "description": "Helps ensure the fluidity of solid particles and limit their agglomeration in powder cosmetic products or hard mass cosmetics."
+        },
+        {
+          "name": "Antifoaming",
+          "description": "Removes foam during manufacturing / reduces foam formation in liquid finished products"
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 2284,
+      "inci_name": "SODIUM MAGNESIUM SILICATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "101659-01-2",
+      "einecs_elincs": "258-476-2",
+      "cosmetic_restriction": "",
+      "percentage": 0.03,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Binding agent",
+          "description": "Allows the cohesion of different cosmetic ingredients"
+        },
+        {
+          "name": "Bulking",
+          "description": "Reduces apparent cosmetics density."
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 2291,
+      "inci_name": "ALUMINUM SILICATE",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1327-36-2",
+      "einecs_elincs": "215-475-1",
+      "cosmetic_restriction": "IV/119",
+      "percentage": 0.02,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 16,
+          "name": "Aluminum salt",
+          "score": 5
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        }
+      ],
+      "functions": [
+        {
+          "name": "Abrasive",
+          "description": "Removes materials from the surface of the body, helps clean teeth and improves shine."
+        },
+        {
+          "name": "Absorbent",
+          "description": "Absorbs water (or oil) in dissolved or fine form"
+        },
+        {
+          "name": "Anticaking",
+          "description": "Helps ensure the fluidity of solid particles and limit their agglomeration in powder cosmetic products or hard mass cosmetics."
+        },
+        {
+          "name": "Bulking",
+          "description": "Reduces apparent cosmetics density."
+        },
+        {
+          "name": "Cosmetic colorant",
+          "description": "Color cosmetics and / or give a color to the skin"
+        },
+        {
+          "name": "Opacifying",
+          "description": "Reduces transparency or translucency of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 7119,
+      "inci_name": "SODIUM PROPOXYHYDROXYPROPYL THIOSULFATE SILICA",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.02,
+      "category_percentage": [],
+      "score": 3,
+      "origin": [],
+      "families": [
+        {
+          "id": 6,
+          "name": "Sulphate",
+          "score": 3
+        }
+      ],
+      "functions": [
+        {
+          "name": "Unclassified",
+          "description": "Unclassified"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 3,
+          "label": "\"Low penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 4933,
+      "inci_name": "METHYLSILANOL/SILICATE CROSSPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "68584-81-6",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.02,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 6735,
+      "inci_name": "POTASSIUM SILICATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "1312-76-1",
+      "einecs_elincs": "215-199-1",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Anticorrosive",
+          "description": "Prevents corrosion of the packaging"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 40467,
+      "inci_name": "POLYMETHYLSILSESQUIOXANE/SILICA CROSSPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Opacifying",
+          "description": "Reduces transparency or translucency of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 41411,
+      "inci_name": "SILICA CAPRYLYL SILYLATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "92797-60-9",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0.01,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 15393,
+      "inci_name": "DIMETHICONOL/METHYLSILANOL/SILICATE CROSSPOLYMER",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "69856-02-6",
+      "einecs_elincs": "",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [
+        {
+          "name": "Synthetic"
+        }
+      ],
+      "families": [
+        {
+          "id": 2,
+          "name": "Silicone",
+          "score": 5
+        },
+        {
+          "id": 26,
+          "name": "Synthetic polymer",
+          "score": 5
+        }
+      ],
+      "functions": [
+        {
+          "name": "Opacifying",
+          "description": "Reduces transparency or translucency of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 21408,
+      "inci_name": "AMMONIUM SILVER ZINC ALUMINUM SILICATE",
+      "name": "",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "130328-20-0",
+      "einecs_elincs": "603-404-0",
+      "cosmetic_restriction": "II/1597",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 5,
+      "origin": [],
+      "families": [
+        {
+          "id": 16,
+          "name": "Aluminum salt",
+          "score": 5
+        },
+        {
+          "id": 17,
+          "name": "Regulated",
+          "score": 2
+        },
+        {
+          "id": 42,
+          "name": "Forbidden in Europe",
+          "score": 10
+        }
+      ],
+      "functions": [
+        {
+          "name": "Absorbent",
+          "description": "Absorbs water (or oil) in dissolved or fine form"
+        },
+        {
+          "name": "Deodorant",
+          "description": "Reduces or masks unpleasant body odors"
+        },
+        {
+          "name": "Preservative",
+          "description": "Inhibits the development of microorganisms in cosmetic products."
+        }
+      ],
+      "dangers": [
+        {
+          "value": 5,
+          "label": "\"Medium penalty\" in all categories."
+        }
+      ]
+    },
+    {
+      "id": 9556,
+      "inci_name": "LITHIUM MAGNESIUM SILICATE",
+      "name": null,
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "37220-90-9",
+      "einecs_elincs": "253-408-8",
+      "cosmetic_restriction": "",
+      "percentage": 0,
+      "category_percentage": [],
+      "score": 0,
+      "origin": [],
+      "families": [],
+      "functions": [
+        {
+          "name": "Binding agent",
+          "description": "Allows the cohesion of different cosmetic ingredients"
+        },
+        {
+          "name": "Bulking",
+          "description": "Reduces apparent cosmetics density."
+        },
+        {
+          "name": "Viscosity controlling",
+          "description": "Increases or decreases the viscosity of cosmetics"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

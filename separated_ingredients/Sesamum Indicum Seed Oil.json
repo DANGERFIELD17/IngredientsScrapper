@@ -1,0 +1,4 @@
+{
+  "ingredient": "Sesamum Indicum Seed Oil",
+  "error": "Error searching for Sesamum Indicum Seed Oil: HTTPSConnectionPool(host='api.incibeauty.com', port=443): Max retries exceeded with url: /ingredient/search/Sesamum%20Indicum%20Seed%20Oil?accessKeyId=09f4844a6b23c229&hmac=cbf4415ee1703a1087754c4163660b346713909de1fc19786e546a25c43f3384 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000126F3CB2C10>: Failed to resolve 'api.incibeauty.com' ([Errno 11001] getaddrinfo failed)\"))"
+}

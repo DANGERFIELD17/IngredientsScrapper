@@ -1,0 +1,80 @@
+{
+  "ingredient": "Carthamus Tinctorius Seed Oil",
+  "search_results": [
+    {
+      "identifier": "4344",
+      "inci_name": "CARTHAMUS TINCTORIUS SEED OIL"
+    }
+  ],
+  "detailed_info": [
+    {
+      "id": 4344,
+      "inci_name": "CARTHAMUS TINCTORIUS SEED OIL",
+      "name": "Safflower seed oil",
+      "description": "",
+      "regulation": "",
+      "reference": "",
+      "cheminical_iupac_name": "",
+      "cas": "8001-23-8",
+      "einecs_elincs": "232-276-5",
+      "cosmetic_restriction": "",
+      "percentage": 0.91,
+      "category_percentage": [
+        {
+          "category_name": "Nail polish",
+          "percentage": "4.02",
+          "count": 363
+        },
+        {
+          "category_name": "Lipstick",
+          "percentage": "2.03",
+          "count": 239
+        },
+        {
+          "category_name": "Face cream",
+          "percentage": "1.91",
+          "count": 214
+        },
+        {
+          "category_name": "Body milk and cream",
+          "percentage": "1.33",
+          "count": 205
+        },
+        {
+          "category_name": "Moisturizing oil for the body and face",
+          "percentage": "3.08",
+          "count": 162
+        }
+      ],
+      "score": 0,
+      "origin": [
+        {
+          "name": "Vegetal"
+        }
+      ],
+      "families": [
+        {
+          "id": 53,
+          "name": "Vegetable oil",
+          "score": 0
+        }
+      ],
+      "functions": [
+        {
+          "name": "Masking",
+          "description": "Reduces or inhibits the odor or basic taste of the product"
+        },
+        {
+          "name": "Skin conditioning",
+          "description": "Maintains skin in good condition"
+        }
+      ],
+      "dangers": [
+        {
+          "value": 0,
+          "label": "\"No penalty\" in all categories."
+        }
+      ]
+    }
+  ]
+}

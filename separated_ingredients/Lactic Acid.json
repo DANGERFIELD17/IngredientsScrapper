@@ -1,0 +1,4 @@
+{
+  "ingredient": "Lactic Acid",
+  "error": "Error searching for Lactic Acid: 429 Client Error: Too Many Requests for url: https://api.incibeauty.com/ingredient/search/Lactic%20Acid?accessKeyId=d5ae0e8abc0cc240&hmac=f3e7e9ae21c7bd839c53222d5173726949e74bbc8e71cf1a4b038154b239e143"
+}
