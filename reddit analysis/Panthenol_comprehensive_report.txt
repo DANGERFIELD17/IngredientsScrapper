@@ -1,0 +1,188 @@
+================================================================================
+COMPREHENSIVE PANTHENOL ANALYSIS REPORT
+================================================================================
+Generated: 2025-07-13 21:39:56
+
+OVERVIEW:
+Ingredient Analyzed: Panthenol
+Total Posts Analyzed: 139
+Posts with Comments: 139
+Comment Coverage: 100.0%
+
+POSITIVE BENEFITS ANALYSIS:
+--------------------------------------------------
+Total Positive Statements: 20
+Key Positive Themes:
+  • Skin Health Improvement: 17 mentions
+  • High Recommendation: 14 mentions
+  • Overall Effectiveness: 13 mentions
+  • Nail Strength & Beauty: 5 mentions
+  • Fast Results: 2 mentions
+  • Anti-Aging Benefits: 1 mentions
+  • Hair Growth Enhancement: 1 mentions
+
+NEGATIVE CONS ANALYSIS:
+--------------------------------------------------
+Total Negative Statements: 8
+Key Negative Themes:
+  • Acne/Breakout Issues: 4 mentions
+  • Cost Concerns: 1 mentions
+  • Discontinued Due to Problems: 1 mentions
+
+DOSAGE EFFECTIVENESS ANALYSIS:
+--------------------------------------------------
+Total Dosage Statements: 27
+Dosage Insights:
+  • Percentage-Based Dosage: 27 mentions
+  • Effective Dosage: 20 mentions
+  • Daily Usage: 4 mentions
+  • Overdose Concerns: 3 mentions
+  • Optimal Dosage: 2 mentions
+
+Most Common Dosages:
+  • 2 %: 3 mentions
+  • 5 %: 2 mentions
+  • 1 %: 2 mentions
+  • 15 %: 1 mentions
+  • 20 %: 1 mentions
+  • 2 mg: 1 mentions
+  • 50 percent: 1 mentions
+  • 1 mg: 1 mentions
+
+CATEGORY BREAKDOWN:
+--------------------------------------------------
+Treatment Experiences: 129 posts (92.8%)
+Product Recommendations: 137 posts (98.6%)
+Combination Therapy: 138 posts (99.3%)
+Seeking Advice: 137 posts (98.6%)
+Ingredient Usage Patterns: 127 posts (91.4%)
+Progress Report: 113 posts (81.3%)
+Side Effects: 118 posts (84.9%)
+Dosage Questions: 109 posts (78.4%)
+Humor Meme: 119 posts (85.6%)
+Scientific Discussion: 52 posts (37.4%)
+
+TOP INGREDIENT COMBINATIONS:
+--------------------------------------------------
+  • spf, sunscreen: 6 posts
+  • hyaluronic acid, sunscreen: 4 posts
+  • sunscreen, zinc: 3 posts
+  • retinol, sunscreen: 3 posts
+  • hyaluronic acid, niacinamide, vitamin c: 2 posts
+  • hyaluronic acid, niacinamide, spf, sunscreen: 2 posts
+  • hyaluronic acid, niacinamide, peptides, retinol, spf, sunscreen, vitamin b, vitamin c, zinc: 1 posts
+  • iron, spf, zinc: 1 posts
+  • dermaroller, microneedling: 1 posts
+  • hyaluronic acid, niacinamide, spf: 1 posts
+
+TOP INGREDIENTS MENTIONED IN COMMENTS:
+--------------------------------------------------
+  • sunscreen: 53 mentions
+  • niacinamide: 36 mentions
+  • hyaluronic acid: 30 mentions
+  • spf: 28 mentions
+  • retinol: 23 mentions
+  • vitamin c: 19 mentions
+  • tretinoin: 19 mentions
+  • zinc: 15 mentions
+  • salicylic acid: 8 mentions
+  • vitamin e: 6 mentions
+
+TOP BRANDS MENTIONED:
+--------------------------------------------------
+  • cosrx: 31 mentions
+  • the ordinary: 22 mentions
+  • cerave: 20 mentions
+  • neutrogena: 11 mentions
+  • la roche posay: 10 mentions
+  • inkey list: 7 mentions
+  • paula's choice: 4 mentions
+  • olay: 3 mentions
+  • pixi: 3 mentions
+  • stridex: 2 mentions
+
+PRODUCT FORMS:
+--------------------------------------------------
+  • cream: 70 mentions
+  • serum: 53 mentions
+  • gel: 47 mentions
+  • oil: 43 mentions
+  • lotion: 37 mentions
+  • liquid: 15 mentions
+  • powder: 12 mentions
+  • spray: 11 mentions
+  • patch: 6 mentions
+  • patches: 6 mentions
+
+BODY PARTS WHERE PANTHENOL IS USED:
+--------------------------------------------------
+  • skin: 113 mentions
+  • face: 77 mentions
+  • acne: 67 mentions
+  • hair: 25 mentions
+  • facial: 20 mentions
+  • pores: 19 mentions
+  • head: 13 mentions
+  • scalp: 8 mentions
+  • wrinkles: 6 mentions
+  • forehead: 5 mentions
+
+SENTIMENT ANALYSIS:
+--------------------------------------------------
+Positive sentiment keywords: 543 (62.8%)
+Negative sentiment keywords: 321 (37.2%)
+Overall sentiment: POSITIVE
+
+SENTIMENT INDICATORS:
+--------------------------------------------------
+Positive sentiment posts: 95
+Negative sentiment posts: 25
+
+TEMPORAL PATTERNS:
+--------------------------------------------------
+2013: 1 posts
+2014: 1 posts
+2015: 1 posts
+2016: 2 posts
+2017: 2 posts
+2018: 19 posts
+2019: 18 posts
+2020: 19 posts
+2021: 15 posts
+2022: 11 posts
+2023: 19 posts
+2024: 15 posts
+2025: 16 posts
+
+SUBREDDIT DISTRIBUTION:
+--------------------------------------------------
+AsianBeauty: 54 posts (38.8%)
+SkincareAddiction: 37 posts (26.6%)
+IndianSkincareAddicts: 15 posts (10.8%)
+beautytalkph: 6 posts (4.3%)
+SebDerm: 2 posts (1.4%)
+SCAcirclejerk: 2 posts (1.4%)
+acne: 2 posts (1.4%)
+EuroSkincare: 2 posts (1.4%)
+koreanskincare: 2 posts (1.4%)
+AdviceAnimals: 1 posts (0.7%)
+MakeupAddiction: 1 posts (0.7%)
+tattooadvice: 1 posts (0.7%)
+ProjectPan: 1 posts (0.7%)
+Fauxmoi: 1 posts (0.7%)
+fragrance: 1 posts (0.7%)
+Silmarillionmemes: 1 posts (0.7%)
+no_T_top_surgery: 1 posts (0.7%)
+scacjdiscussion: 1 posts (0.7%)
+HaircareScience: 1 posts (0.7%)
+skincarephilippines: 1 posts (0.7%)
+
+KEY INSIGHTS:
+--------------------------------------------------
+• Skin Health Improvement is the most mentioned benefit (17 mentions)
+• Acne/Breakout Issues is the primary concern (4 mentions)
+• 2 % is the most commonly mentioned dosage
+• cosrx is the most trusted brand (31 mentions)
+• 47.5% of posts discuss Panthenol in combination with other treatments
+• cream form is the most popular product form (70 mentions)
+• skin is the primary usage area (113 mentions)

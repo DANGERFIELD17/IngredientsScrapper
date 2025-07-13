@@ -26,7 +26,7 @@ except Exception as e:
     sys.exit(1)
 
 # Step 2: Your configuration
-OR_IDENTIFIERS = ['Ethylhexylglycerin']  # Any of these terms will match (OR logic)
+OR_IDENTIFIERS = ['Zinc Pyrithione', 'Zinc Pyrithione']  # Any of these terms will match (OR logic)
 AND_IDENTIFIERS = []  # All of these terms must be present (AND logic)
 MONTHS_BACK = 1  # How many months back to search for limited mode
 MAX_COMMENTS = 30 # Number of top comments to collect per post
