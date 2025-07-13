@@ -6,7 +6,7 @@ import time
 
 
 # Set your OpenAI API key here or set it as an environment variable
-OPENAI_API_KEY = "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"
+# OPENAI_API_KEY = "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"
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 def get_matching_files(inci_folder, reddit_folder):
